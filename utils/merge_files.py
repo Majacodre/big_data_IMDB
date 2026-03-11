@@ -1,7 +1,7 @@
 import duckdb
 import os
 
-def prepare_imdb_data(data_folder: str, output_csv: str):
+def prepare_imdb_data(data_folder: str, train_output_csv: str, hidden_output_csv: str, validation_output_csv: str):
     """
     Load IMDB train CSVs and writing/directing JSONs, merge them, 
     and save a single CSV for analysis.
@@ -32,7 +32,16 @@ def prepare_imdb_data(data_folder: str, output_csv: str):
         SELECT * FROM read_json_auto('{data_folder}/directing.json')
     """)
 
+    con.execute(f"""
+        CREATE TABLE hidden_data AS
+        SELECT * FROM read_csv_auto('{data_folder}/test_hidden.csv')
+    """)
 
+    con.execute(f"""
+        CREATE TABLE validation_hidden AS
+        SELECT *
+        FROM read_csv_auto('{data_folder}/validation_hidden.csv')
+    """)
 
     # Group writers by movie
     con.execute("""
@@ -58,7 +67,29 @@ def prepare_imdb_data(data_folder: str, output_csv: str):
         LEFT JOIN directors_grouped d USING(tconst)
     """)
 
-    # Save to CSV
-    con.execute(f"COPY full_data tO '{output_csv}' (HEADER TRUE)")
 
-    print(f"[INFO] Merged CSV saved to: {output_csv}")
+  
+    con.execute(""" 
+        CREATE TABLE test_hidden_merged AS
+        SELECT *
+        FROM hidden_data
+        LEFT JOIN writers_grouped w USING(tconst)
+        LEFT JOIN directors_grouped d USING(tconst)
+    """)
+
+    con.execute(""" 
+        CREATE TABLE validation_hidden_merged AS
+        SELECT *
+        FROM validation_hidden
+        LEFT JOIN writers_grouped w USING(tconst)
+        LEFT JOIN directors_grouped d USING(tconst)
+    """)
+    # Save to CSV
+    con.execute(f"COPY full_data tO '{train_output_csv}' (HEADER TRUE)")
+    con.execute(f"COPY hidden_data tO '{hidden_output_csv}' (HEADER TRUE)")
+    con.execute(f"COPY validation_hidden tO '{validation_output_csv}' (HEADER TRUE)")
+
+
+    print(f"[INFO] Merged CSV saved to: {train_output_csv}")
+    print(f"[INFO] Merged hidden CSV saved to: {hidden_output_csv}")
+    print(f"[INFO] Merged validation hidden CSV saved to: {validation_output_csv}")
