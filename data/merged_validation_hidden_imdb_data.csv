@@ -1,956 +1,956 @@
-column0,tconst,primaryTitle,originalTitle,startYear,endYear,runtimeMinutes,numVotes
-0,tt0003740,Cabiria,,1914,\N,148,3452.0
-1,tt0008663,A Man There Was,Terje Vigen,1917,\N,65,1882.0
-3,tt0010307,J'accuse!,,1919,\N,166,1692.0
-18,tt0014429,Safety Last!,Safety Last!,1923,\N,74,19898.0
-27,tt0015175,Die Nibelungen: Siegfried,,1924,\N,143,5676.0
-39,tt0016332,Seven Chances,,1925,\N,56,9914.0
-61,tt0018737,Pandora's Box,,\N,1929,109,10475.0
-65,tt0018839,The Docks of New York,,1928,\N,76,4339.0
-71,tt0019421,"Steamboat Bill, Jr.","Steamboat Bill, Jr.",1928,\N,70,14166.0
-75,tt0019901,Woman in the Moon,,1929,\N,156,
-91,tt0022150,Le Million,,1931,\N,91,3434.0
-92,tt0022153,The Miracle Woman,,1931,\N,90,2013.0
-142,tt0025699,Randy Rides Alone,,1934,\N,52,1034.0
-153,tt0026725,Les Misérables,Les Misérables,1935,\N,108,3512.0
-158,tt0027336,The Lower Depths,Les bas-fonds,1936,\N,95,3194.0
-159,tt0027342,They Were Five,La belle équipe,1936,\N,100,1202.0
-167,tt0027672,Sisters of the Gion,,1936,\N,69,2621.0
-174,tt0028167,Rembrandt,Rembrandt,1936,\N,85,1778.0
-178,tt0028313,The Story of Louis Pasteur,,1936,\N,86,2705.0
-187,tt0028737,Confession,Confession,1937,\N,87,1201.0
-195,tt0029217,Marked Woman,Marked Woman,1937,\N,96,4051.0
-210,tt0030044,The Dawn Patrol,,\N,1938,103,
-214,tt0030287,Jézébél,,1938,\N,104,13070.0
-223,tt0031147,Chárlié Chán át Tréásúré Islánd,,1939,\N,74,
-243,tt0031826,The Private Lives of Elizabeth and Essex,The Private Lives of Elizabeth and Essex,1939,\N,106,5507.0
-255,tt0032215,The Ape,The Ape,1940,\N,62,1803.0
-256,tt0032234,The Bank Dick,The Bank Dick,1940,\N,72,7073.0
-266,tt0032551,Thé Grápés ớf Wráth,The Grapes of Wrath,\N,1940,129,89955.0
-287,tt0033563,Dumbo,,1941,\N,64,126856.0
-307,tt0034461,Aniki Bóbó,Aniki Bóbó,1942,\N,71,1677.0
-314,tt0034591,There Was a Father,,1942,\N,94,2677.0
-328,tt0035169,The Palm Beach Story,,1942,\N,88,11578.0
-338,tt0035575,Yankee Doodle Dandy,Yankee Doodle Dandy,1942,\N,126,15074.0
-350,tt0036367,So Proudly We Hail!,,1943,\N,126,1700.0
-359,tt0036818,The Punch Bowl,Die Feuerzangenbowle,1944,\N,97,5967.0
-366,tt0037024,The Lodger,,1944,\N,84,3429.0
-372,tt0037094,Mr. Skeffington,,1944,\N,146,5872.0
-373,tt0037096,Mrs. Parkington,,1944,\N,124,1570.0
-379,tt0037462,The White Cliffs of Dover,,1944,\N,126,1611.0
-382,tt0037595,Christmás in Cớnnécticút,Christmas in Connecticut,1945,\N,101,8989.0
-385,tt0037635,Dead of Night,,1945,\N,103,
-397,tt0038213,The Valley of Decision,,1945,\N,119,
-415,tt0038934,She-Wolf of London,,1946,\N,61,2603.0
-416,tt0038948,Sistér Kénny,,1946,\N,116,1117.0
-418,tt0038969,Song of the South,,1946,\N,94,13470.0
-422,tt0039090,No Regrets for Our Youth,,1946,\N,110,3366.0
-451,tt0039973,The Web,The Web,1947,\N,87,
-457,tt0040369,Fort Apache,,\N,1948,128,17420.0
-464,tt0040558,Macbeth,Macbeth,1948,\N,107,6886.0
-470,tt0040723,Raw Deal,Raw Deal,1948,\N,79,4545.0
-492,tt0041694,No Man of Her Own,No Man of Her Own,1950,\N,98,2112.0
-495,tt0041746,Pinky,,1949,\N,102,2986.0
-501,tt0041996,Twelve O'Clock High,,1949,\N,132,14181.0
-514,tt0042490,The Furies,The Furies,1950,\N,109,3233.0
-537,tt0043545,Flight to Mars,Flight to Mars,\N,1951,72,1108.0
-544,tt0043910,Payment on Demand,,1951,\N,90,1645.0
-547,tt0043938,Thé Prớwlér,,1951,\N,92,3326.0
-551,tt0044091,Superman and the Mole-Men,,1951,\N,58,1953.0
-554,tt0044357,Angel Face,,1953,\N,91,7552.0
-560,tt0044716,The Holly and the Ivy,The Holly and the Ivy,1952,\N,83,1430.0
-569,tt0045073,Red Planet Mars,Red Planet Mars,1952,\N,87,1275.0
-587,tt0045810,Gentlemen Prefer Blondes,Gentlemen Prefer Blondes,1953,\N,91,35358.0
-588,tt0045814,A Geisha,,1953,\N,85,2009.0
-594,tt0045943,Julius Caesar,,1953,\N,120,11174.0
-602,tt0046303,Shane,Shane,1953,\N,118,39297.0
-608,tt0046750,Late Chrysanthemums,Bangiku,1954,\N,101,1043.0
-650,tt0048445,Oklahoma!,Oklahoma!,1955,\N,145,12294.0
-653,tt0048491,Picnic,,1955,\N,115,8559.0
-657,tt0048605,The Seven Year Itch,,1955,\N,105,37422.0
-689,tt0049531,The Mystery of Picasso,Le mystère Picasso,1956,\N,78,2427.0
-722,tt0050599,Kiss Them for Me,,1957,\N,105,2010.0
-729,tt0050803,Thé Ớné Thát Gớt Áwáy,The One That Got Away,\N,1957,111,1971.0
-737,tt0051077,Thé Thréé Fácés ớf Évé,,1957,\N,91,7672.0
-741,tt0051383,Auntie Mame,Auntie Mame,1958,\N,143,11047.0
-747,tt0051525,Thé Défiánt Ớnés,,1958,\N,96,14569.0
-758,tt0051980,The Ballad of Narayama,,\N,1958,98,3211.0
-790,tt0052782,Hercules Unchained,,1959,\N,98,
-793,tt0052832,The Fugitive Kind,The Fugitive Kind,1960,\N,119,6194.0
-794,tt0052846,The Giant Gila Monster,,1959,\N,74,3825.0
-813,tt0053226,Room at the Top,,1959,\N,117,5958.0
-827,tt0053579,Late Autumn,Akibiyori,1960,\N,128,5190.0
-828,tt0053598,Thé Lớvés ớf Hércúlés,,1960,\N,102,
-836,tt0053724,El cochecito,El cochecito,1960,\N,85,1164.0
-842,tt0053856,Il Generale Della Rovere,,1959,\N,132,3136.0
-845,tt0053944,The Incredible Petrified World,The Incredible Petrified World,1959,\N,70,1111.0
-849,tt0054020,Thé Lééch Wớmán,,1960,\N,77,1922.0
-862,tt0054215,Psycho,,1960,\N,109,638539.0
-867,tt0054331,Spartacus,Spartacus,1960,\N,197,130879.0
-882,tt0054665,The Fabulous Baron Munchausen,Baron Prásil,1962,\N,83,
-884,tt0054691,Bloodlust!,Bloodlust!,1961,\N,68,2426.0
-890,tt0054790,The Day the Earth Caught Fire,,1961,\N,99,5009.0
-910,tt0055458,Snớw Whité ánd thé Thréé Stớớgés,Snow White and the Three Stooges,1961,\N,107,1041.0
-939,tt0056085,How the West Was Won,How the West Was Won,1962,\N,164,20028.0
-944,tt0056160,Two Half-Times in Hell,Két félidö a pokolban,1961,\N,140,1231.0
-973,tt0057058,The Fire Within,Le feu follet,\N,1963,108,9095.0
-976,tt0057171,"Yesterday, Today and Tomorrow",Ieri oggi domani,1963,\N,114,8665.0
-980,tt0057232,Koroleva benzokolonki,Koroleva benzokolonki,1963,\N,78,
-1000,tt0057809,36 Hours,36 Hours,1964,\N,115,4069.0
-1013,tt0058126,Hámlét,Gamlet,1964,\N,140,
-1019,tt0058279,Kwáidán,Kaidan,\N,1964,183,16871.0
-1027,tt0058439,Forest of the Hanged,,1965,\N,154,
-1031,tt0058500,The Pumpkin Eater,The Pumpkin Eater,1964,\N,118,2405.0
-1042,tt0058886,The Agony and the Ecstasy,,1965,\N,138,7018.0
-1062,tt0059415,Á Blớndé in Lớvé,Lásky jedné plavovlásky,\N,1965,88,8329.0
-1083,tt0059884,"War and Peace, Part I: Andrei Bolkonsky",Voyna i mir I: Andrey Bolkonskiy,1965,\N,147,1616.0
-1096,tt0060446,Gamera vs. Barugon,Daikaijû kettô: Gamera tai Barugon,1966,\N,106,2406.0
-1111,tt0060877,Qúéén ớf Blớớd,,1966,\N,78,1851.0
-1114,tt0061015,Spinout,Spinout,1966,\N,90,
-1115,tt0061101,Tokyo Drifter,,1966,\N,89,8456.0
-1130,tt0061401,The Big Mouth,The Big Mouth,1967,\N,107,1079.0
-1141,tt0061557,The Deadly Bees,The Deadly Bees,1966,\N,84,1977.0
-1148,tt0061636,Face to Face,Faccia a faccia,1967,\N,111,2888.0
-1163,tt0061868,King Kong Escapes,,1967,\N,104,2690.0
-1172,tt0062144,Portrait of Jason,,1967,\N,105,1174.0
-1187,tt0062671,The Anniversary,,1968,\N,95,2537.0
-1204,tt0063090,Night of the Bloody Apes,,\N,1969,83,1022.0
-1206,tt0063141,Isadora,Isadora,1968,\N,131,2347.0
-1210,tt0063227,The Lion in Winter,,1968,\N,134,30576.0
-1211,tt0063231,"Live a Little, Love a Little",,1968,\N,90,1639.0
-1228,tt0063663,Thé Swimmér,The Swimmer,1968,\N,95,
-1241,tt0064148,The Chairman,The Chairman,1969,\N,93,1217.0
-1257,tt0064494,Eugenie,De Sade 70,\N,1970,87,1596.0
-1267,tt0064952,The Secret of Santa Vittoria,The Secret of Santa Vittoria,1969,\N,139,3577.0
-1271,tt0065126,True Grit,True Grit,1969,\N,128,
-1277,tt0065241,The Joke,,\N,1969,80,1430.0
-1288,tt0065656,Dorian Gray,Das Bildnis des Dorian Gray,\N,1970,101,1068.0
-1295,tt0065938,Kélly's Hérớés,,1970,\N,144,47763.0
-1306,tt0066206,Patton,Patton,1970,\N,172,99376.0
-1311,tt0066449,There's a Girl in My Soup,There's a Girl in My Soup,1970,\N,95,
-1323,tt0066564,Which Way to the Front?,,1970,\N,96,1323.0
-1342,tt0066952,"Count Yorga, Vampire","Count Yorga, Vampire",1970,\N,93,2498.0
-1361,tt0067409,Máx ánd thé Júnkmén,Max et les ferrailleurs,1971,\N,112,2491.0
-1367,tt0067546,Pakeezah,Pakeezah,1972,\N,147,1607.0
-1375,tt0067800,Stráw Dớgs,,1971,\N,113,58733.0
-1376,tt0067805,Sunday Bloody Sunday,Sunday Bloody Sunday,1971,\N,110,6086.0
-1398,tt0068284,Blácúlá,,1972,\N,93,6493.0
-1423,tt0068897,The Magnificent Seven Ride!,,1972,\N,100,
-1426,tt0068935,The Way of the Dragon,,\N,1972,99,35727.0
-1443,tt0069436,Ulzana's Raid,,1972,\N,103,5591.0
-1454,tt0069815,Happy New Year,,1973,\N,115,1667.0
-1467,tt0070136,The Great Ecstasy of Woodcarver Steiner,,\N,1974,45,2488.0
-1472,tt0070222,Invasion of the Bee Girls,,1973,\N,86,2717.0
-1477,tt0070359,The Mother and the Whore,,1973,\N,217,5356.0
-1479,tt0070438,The Neptune Factor,,1973,\N,98,1003.0
-1492,tt0070707,Sleeper,Sleeper,1973,\N,89,42397.0
-1495,tt0070820,Journey of the Hyena,Touki-Bouki,1973,\N,85,3022.0
-1503,tt0071203,Belladonna of Sadness,Kanashimi no beradonna,1973,\N,86,5397.0
-1519,tt0071691,The Enigma of Kaspar Hauser,Jeder für sich und Gott gegen alle,1974,\N,110,17319.0
-1520,tt0071695,Lone Wolf and Cub: White Heaven in Hell,,\N,1974,83,3741.0
-1522,tt0071733,"Lacombe, Lucien",Lacombe Lucien,1974,\N,138,
-1527,tt0071994,Phantom of the Paradise,,1974,\N,91,
-1535,tt0072637,Amici miei,,1975,\N,140,
-1536,tt0072685,The Battle of Chile: Part I,,\N,1975,97,1348.0
-1555,tt0073017,Barbed Wire Dolls,Frauengefängnis,1976,\N,90,1237.0
-1561,tt0073221,Júst Béfớré Nightfáll,,1971,\N,106,1994.0
-1580,tt0073918,The Yakuza,,1974,\N,112,8526.0
-1597,tt0074442,Crime Busters,,1977,\N,115,11206.0
-1605,tt0074559,Futureworld,Futureworld,1976,\N,108,10486.0
-1611,tt0074608,Harry and Walter Go to New York,,1976,\N,115,
-1620,tt0074802,Lipstick,,1976,\N,89,2176.0
-1623,tt0074901,Mikey and Nicky,,1976,\N,106,4900.0
-1629,tt0075005,The Omen,The Omen,1976,\N,111,114275.0
-1630,tt0075029,The Outlaw Josey Wales,The Outlaw Josey Wales,1976,\N,135,70789.0
-1634,tt0075229,Sky Riders,,1976,\N,91,1014.0
-1635,tt0075261,Squirm,Squirm,\N,1976,92,
-1657,tt0075968,The Duellists,,1977,\N,100,
-1673,tt0076363,The Many Adventures of Winnie the Pooh,The Many Adventures of Winnie the Pooh,1977,\N,74,34839.0
-1676,tt0076452,Néws frớm Hớmé,News from Home,1976,\N,85,1775.0
-1682,tt0076734,Sớldiér ớf Ớrángé,Soldaat van Oranje,1977,\N,155,12743.0
-1696,tt0077235,Big Wednesday,Big Wednesday,1978,\N,120,6494.0
-1708,tt0077497,Émmánúéllé 3,Goodbye Emmanuelle,1977,\N,98,1736.0
-1710,tt0077613,Girlfriends,,\N,1978,88,2240.0
-1711,tt0077636,The Greek Tycoon,,1978,\N,107,2018.0
-1718,tt0077740,Insiang,,1976,\N,95,1294.0
-1728,tt0078238,Sextette,,1977,\N,91,1407.0
-1736,tt0078467,Violette,Violette Nozière,\N,1978,124,2282.0
-1752,tt0078966,The China Syndrome,The China Syndrome,1979,\N,122,
-1756,tt0079013,Cuba,,1979,\N,122,2666.0
-1765,tt0079386,Kaala Patthar,,1979,\N,176,2346.0
-1766,tt0079417,Kramer vs. Kramer,Kramer vs. Kramer,1979,\N,105,140262.0
-1771,tt0079579,Moscow Does Not Believe in Tears,Moskva slezam ne verit,1980,\N,150,12421.0
-1778,tt0079766,Quadrophenia,Quadrophenia,1979,\N,120,18413.0
-1787,tt0079985,The Secret Life of Nikola Tesla,Tajna Nikole Tesle,1980,\N,115,1365.0
-1803,tt0080516,The Changeling,,1980,\N,107,33163.0
-1805,tt0080549,Coal Miner's Daughter,,1980,\N,124,
-1811,tt0080802,Thé Gớdsénd,,1980,\N,86,1072.0
-1828,tt0081534,Somewhere in Time,Somewhere in Time,1980,\N,103,28332.0
-1838,tt0082085,Blow Out,Blow Out,1981,\N,108,
-1839,tt0082088,Blớớd Wédding,,1981,\N,72,1730.0
-1850,tt0082263,The Devil and Max Devlin,,1981,\N,96,
-1858,tt0082422,Fruits of Passion,,1981,\N,83,1162.0
-1863,tt0082490,Who Pulled the Plug?,Göta kanal eller Vem drog ur proppen?,1981,\N,99,3844.0
-1888,tt0082926,Polyester,,1981,\N,86,7816.0
-1897,tt0083110,Les sous-doués en vacances,,1982,\N,95,1410.0
-1916,tt0083629,The Beast Within,,1982,\N,98,3911.0
-1925,tt0083866,E.T. the Extra-Terrestrial,E.T. the Extra-Terrestrial,1982,\N,115,390937.0
-1935,tt0084096,The House Where Evil Dwells,,1982,\N,88,1199.0
-1938,tt0084296,The Man from Snowy River,The Man from Snowy River,1982,\N,102,8611.0
-1956,tt0084597,Richard Pryor: Live on the Sunset Strip,,1982,\N,82,4081.0
-1958,tt0084629,Private Popsicle,Sapiches,1982,\N,107,
-1967,tt0084745,Swamp Thing,Swamp Thing,1982,\N,91,13957.0
-1987,tt0085318,Chained Heat,Chained Heat,1983,\N,95,2327.0
-2004,tt0085601,Go for It,,1983,\N,107,9601.0
-2016,tt0085913,Masoom,Masoom,1983,\N,165,3938.0
-2054,tt0086449,To All a Goodnight,,1980,\N,87,1554.0
-2072,tt0086979,Blood Simple,,1984,\N,99,93088.0
-2081,tt0087034,Cármén,,1984,\N,152,1540.0
-2083,tt0087130,DEFCON-4,,1985,\N,88,1947.0
-2084,tt0087164,A Summer at Grandpa's,,1984,\N,93,
-2107,tt0087810,No Small Affair,,1984,\N,102,2181.0
-2114,tt0088009,A Year of the Quiet Sun,,1984,\N,110,1243.0
-2121,tt0088196,Stréétwisé,,1984,\N,91,2229.0
-2132,tt0088658,A.K.,,1985,\N,75,1124.0
-2156,tt0089274,The Hills Have Eyes Part II,The Hills Have Eyes Part II,1984,\N,86,6366.0
-2183,tt0089851,Pulgasari,,1985,\N,95,1104.0
-2190,tt0090036,The Slugger's Wife,The Slugger's Wife,1985,\N,105,1144.0
-2199,tt0090327,Witchboard,,1986,\N,98,
-2210,tt0090735,Bláck Mớớn Rising,,1986,\N,100,5714.0
-2213,tt0090830,Childrén ớf á Léssér Gớd,,1986,\N,119,16034.0
-2220,tt0091042,Ferris Bueller's Day Off,Ferris Bueller's Day Off,1986,\N,103,339566.0
-2225,tt0091142,Gothic,,1986,\N,87,7733.0
-2230,tt0091178,Haunted Honeymoon,Haunted Honeymoon,1986,\N,82,7163.0
-2239,tt0091339,Killer Workout,,\N,1987,85,2113.0
-2241,tt0091400,Lét's Gét Hárry,Let's Get Harry,1986,\N,102,1294.0
-2249,tt0091579,My Chauffeur,,1986,\N,97,1938.0
-2250,tt0091598,Naam,Naam,1986,\N,177,1055.0
-2251,tt0091621,Never Too Young to Die,,1986,\N,97,1738.0
-2259,tt0091799,Psycho III,Psycho III,1986,\N,93,14210.0
-2265,tt0091943,Sherman's March,Sherman's March,1985,\N,157,
-2269,tt0091993,SpaceCamp,SpaceCamp,1986,\N,107,14780.0
-2275,tt0092225,Wisdom,,1986,\N,109,3308.0
-2276,tt0092226,Wisé Gúys,,\N,1986,100,5700.0
-2280,tt0092530,Alien Predator,,1986,\N,90,1109.0
-2281,tt0092534,Allan Quatermain and the Lost City of Gold,Allan Quatermain and the Lost City of Gold,1986,\N,99,9340.0
-2283,tt0092549,Miami Connection,,1987,\N,83,5261.0
-2292,tt0092684,Body Slam,Body Slam,1986,\N,92,1068.0
-2294,tt0092710,Burglar,Burglar,1987,\N,103,4359.0
-2308,tt0092974,Ernest Goes to Camp,Ernest Goes to Camp,1987,\N,92,11340.0
-2313,tt0093105,"Good Morning, Vietnam",,1987,\N,121,134516.0
-2325,tt0093209,Hope and Glory,Hope and Glory,1987,\N,113,13230.0
-2328,tt0093231,Hunk,,1987,\N,102,1393.0
-2341,tt0093565,Moonstruck,Moonstruck,\N,1987,102,56362.0
-2342,tt0093589,My Demon Lover,My Demon Lover,1987,\N,90,1343.0
-2349,tt0093773,Predator,Predator,1987,\N,107,391304.0
-2353,tt0093822,Raising Arizona,Raising Arizona,1987,\N,94,133915.0
-2362,tt0093996,Slumber Party Massacre II,,1987,\N,77,5671.0
-2403,tt0094901,Compagni di scuola,Compagni di scuola,1988,\N,115,2250.0
-2404,tt0094929,Curse II: The Bite,,1989,\N,98,1334.0
-2408,tt0095145,Feds,Feds,1988,\N,82,3069.0
-2411,tt0095215,Ghost Town,Ghost Town,1988,\N,85,1487.0
-2445,tt0095916,Promised Land,,1987,\N,102,1341.0
-2465,tt0096332,The Unbearable Lightness of Being,,1988,\N,171,35301.0
-2473,tt0096870,Going Overboard,,1989,\N,99,13246.0
-2484,tt0097240,Drugstore Cowboy,,1989,\N,101,36014.0
-2493,tt0097388,Friday the 13th Part VIII: Jason Takes Manhattan,Friday the 13th Part VIII: Jason Takes Manhattan,\N,1989,100,36672.0
-2496,tt0097441,Glory,Glory,1989,\N,122,130896.0
-2530,tt0098156,R.O.T.O.R.,R.O.T.O.R.,1987,\N,90,3352.0
-2538,tt0098320,Shocker,Shocker,1989,\N,109,15971.0
-2548,tt0098519,Troop Beverly Hills,,1989,\N,105,10046.0
-2555,tt0099108,Basket Case 2,Basket Case 2,1990,\N,90,4814.0
-2561,tt0099273,City Life,City Life,\N,1990,251,4108.0
-2562,tt0099364,The Dark Side of the Moon,The Dark Side of the Moon,1990,\N,91,2424.0
-2571,tt0099512,Ernest Goes to Jail,,1990,\N,81,9339.0
-2576,tt0099691,Graffiti Bridge,,1990,\N,90,1957.0
-2579,tt0099720,Guns,,1990,\N,96,1221.0
-2581,tt0099750,Heart Condition,Heart Condition,1990,\N,100,3493.0
-2586,tt0099871,Jacob's Ladder,,1990,\N,113,104340.0
-2590,tt0100049,Longtime Companion,Longtime Companion,1989,\N,96,5654.0
-2592,tt0100079,Luther the Geek,,1989,\N,80,
-2603,tt0100261,Nightmare at Noon,,1988,\N,96,1921.0
-2607,tt0100436,Pump Up the Volume,Pump Up the Volume,1990,\N,102,27790.0
-2610,tt0100486,Reversal of Fortune,Reversal of Fortune,1990,\N,111,16034.0
-2622,tt0100991,Hiruko the Goblin,,1991,\N,89,1240.0
-2625,tt0101264,"Abraxas, Guardian of the Universe",,1990,\N,90,2053.0
-2651,tt0101917,Freddy's Dead: The Final Nightmare,,\N,1991,89,44742.0
-2659,tt0102164,Johnny Stecchino,Johnny Stecchino,1991,\N,102,10500.0
-2673,tt0102593,One Good Cop,,1991,\N,114,4088.0
-2677,tt0102782,Return to the Blue Lagoon,Return to the Blue Lagoon,1991,\N,102,19372.0
-2698,tt0103295,Swordsman II,,1992,\N,112,4297.0
-2715,tt0104027,CrissCross,,\N,1992,100,1903.0
-2730,tt0104553,"All's Well, Ends Well",Ga yau hei si,\N,1992,100,
-2736,tt0104706,Lessons of Darkness,Lektionen in Finsternis,1992,\N,54,5791.0
-2750,tt0104969,The Naked Truth,,1992,\N,92,1346.0
-2755,tt0105107,Pássiớn Fish,,1992,\N,135,5475.0
-2768,tt0105480,Storyville,Storyville,1992,\N,113,1290.0
-2788,tt0106330,From Karkheh to Rhein,Az Karkheh ta Rhein,1993,\N,93,2738.0
-2796,tt0106450,Body Melt,,1993,\N,81,3018.0
-2799,tt0106476,Brándbilén sớm försvánn,,\N,1993,90,1214.0
-2800,tt0106519,Carlito's Way,Carlito's Way,1993,\N,144,210518.0
-2803,tt0106579,"Clean, Shaven","Clean, Shaven",1993,\N,79,5459.0
-2805,tt0106684,Deadfall,,1993,\N,98,3272.0
-2807,tt0106753,Doppelganger,,1993,\N,104,3670.0
-2817,tt0107048,Groundhog Day,Groundhog Day,1993,\N,101,599901.0
-2828,tt0107311,Khalnayak,Khal Nayak,\N,1993,190,
-2835,tt0107478,Made in America,,1993,\N,111,16414.0
-2838,tt0107613,Mr. Wonderful,Mr. Wonderful,1993,\N,98,3298.0
-2852,tt0108053,Schramm: Into the Mind of a Serial Killer,Schramm,1993,\N,65,3056.0
-2876,tt0108569,Wildér Nápálm,,1993,\N,109,
-2886,tt0109144,A.P.E.X.,,1994,\N,98,1111.0
-2888,tt0109288,Blankman,,1994,\N,92,9586.0
-2905,tt0109579,Death and the Maiden,,1994,\N,103,24140.0
-2924,tt0110027,Highlander: The Final Dimension,Highlander III: The Sorcerer,1994,\N,99,20708.0
-2936,tt0110216,Junior,Junior,1994,\N,109,67572.0
-2945,tt0110329,Leprechaun 2,,1994,\N,85,9953.0
-2946,tt0110353,Lightning Jack,Lightning Jack,1994,\N,98,
-2987,tt0111549,Uncovered,,1994,\N,103,2360.0
-2996,tt0112427,An Awfully Big Adventure,,1995,\N,112,2765.0
-3000,tt0112461,The Basketball Diaries,,1995,\N,102,107119.0
-3021,tt0112895,Dr. Jekyll and Ms. Hyde,,1995,\N,100,2820.0
-3028,tt0113247,La Haine,La haine,1995,\N,98,162601.0
-3035,tt0113463,Jefferson in Paris,,1995,\N,139,3005.0
-3057,tt0113851,Moonlight and Valentino,,1995,\N,105,3672.0
-3067,tt0114108,The Pebble and the Penguin,The Pebble and the Penguin,1995,\N,74,4936.0
-3070,tt0114234,Rangeela,,1995,\N,142,9638.0
-3076,tt0114443,Final Hour,,1995,\N,83,1179.0
-3094,tt0114906,Welcome to the Dollhouse,,1995,\N,88,33471.0
-3105,tt0115624,Barb Wire,,\N,1996,98,27390.0
-3108,tt0115640,Beautiful Thing,Beautiful Thing,1996,\N,90,23685.0
-3112,tt0115683,Bio-Dome,Bio-Dome,1996,\N,88,27132.0
-3124,tt0115851,Celtic Pride,Celtic Pride,1996,\N,91,9946.0
-3152,tt0116606,If Lucy Fell,If Lucy Fell,1996,\N,92,4115.0
-3158,tt0116736,The Hunters,Jägarna,\N,1996,113,8301.0
-3166,tt0116839,Lawnmower Man 2: Beyond Cyberspace,,1996,\N,93,9451.0
-3223,tt0118083,Wintér Báy,Vinterviken,1996,\N,98,1772.0
-3229,tt0118588,All Stars,All Stars,1997,\N,115,2931.0
-3240,tt0118799,Life Is Beautiful,La vita è bella,1997,\N,116,659788.0
-3247,tt0118906,Csinibaba,Csinibaba,1997,\N,100,2051.0
-3253,tt0119055,The Eighteenth Angel,The Eighteenth Angel,1997,\N,95,1590.0
-3258,tt0119097,Fakin' Da Funk,Fakin' Da Funk,1997,\N,89,2470.0
-3268,tt0119219,Goodbye Lover,,1998,\N,102,
-3276,tt0119305,Homegrown,Homegrown,1998,\N,102,4719.0
-3301,tt0119822,As Good as It Gets,,1997,\N,139,
-3307,tt0119989,Shadow of Doubt,,1998,\N,103,1824.0
-3329,tt0120381,True Heart,,1999,\N,92,
-3334,tt0120550,Zeus and Roxanne,,1997,\N,98,3024.0
-3341,tt0120626,April Captains,,2000,\N,123,
-3377,tt0122883,Woe to the Young,,1961,\N,87,1247.0
-3391,tt0125522,Sue,Sue,\N,1997,91,1394.0
-3396,tt0126618,I pớmpiéri,,\N,1985,89,1182.0
-3408,tt0128292,Buttoners,Knoflíkári,1997,\N,102,1705.0
-3414,tt0129659,Train Birds,Zugvögel - ... einmal nach Inari,1998,\N,87,1206.0
-3415,tt0129794,An Average Little Man,Un borghese piccolo piccolo,1977,\N,122,2615.0
-3419,tt0130216,The Redeemer: Son of Satan!,The Redeemer: Son of Satan!,1978,\N,84,1050.0
-3422,tt0130827,Run Lola Run,,1998,\N,81,194838.0
-3423,tt0131097,The Widower,Il vedovo,1959,\N,87,1229.0
-3429,tt0131704,Thé Ádvéntúrés ớf Rớcky & Búllwinklé,,2000,\N,92,
-3450,tt0137799,Grớúnd Cớntrớl,Ground Control,1998,\N,93,
-3453,tt0138304,The Astronaut's Wife,The Astronaut's Wife,1999,\N,109,54581.0
-3486,tt0143428,Lone Wolf and Cub: Baby Cart in the Land of Demons,Kozure Ôkami: Meifumadô,1973,\N,90,
-3490,tt0144084,American Psycho,American Psycho,2000,\N,101,536979.0
-3505,tt0146882,High Fidélity,High Fidelity,2000,\N,113,175082.0
-3514,tt0150980,The Housemaid,,1960,\N,109,3967.0
-3521,tt0155124,Rudra Veena,Rudra Veena,\N,1988,170,1863.0
-3524,tt0155753,I'll Be Home for Christmas,,1998,\N,86,10199.0
-3537,tt0157154,The Rose Seller,La vendedora de rosas,1998,\N,116,1875.0
-3539,tt0157894,The Killing of America,The Killing of America,1981,\N,90,2024.0
-3544,tt0159485,Thé Tớúgh Ớnés,,1999,\N,105,4902.0
-3551,tt0162710,Trick,Trick,1999,\N,89,8636.0
-3558,tt0163187,Runaway Bride,Runaway Bride,1999,\N,116,96275.0
-3572,tt0165473,Démớns,Shura,1971,\N,134,2095.0
-3573,tt0165494,Ringmaster,,1998,\N,90,5157.0
-3583,tt0166276,Monkeybone,Monkeybone,\N,2001,93,
-3616,tt0172543,Hé Diéd with á Féláfél in His Hánd,,2001,\N,107,3561.0
-3662,tt0181960,After the Rain,,\N,1999,91,4048.0
-3664,tt0182503,Turist Ömer Uzay Yolu'nda,Turist Ömer Uzay Yolu'nda,1973,\N,72,3449.0
-3665,tt0182730,The Lady and the Tramp,I arhontisa ki o alitis,1968,\N,109,1159.0
-3667,tt0183459,Mádén,Maden,1978,\N,90,1360.0
-3671,tt0184907,Snớw Dáy,Snow Day,2000,\N,89,12219.0
-3672,tt0185125,Áll Ábớút My Mớthér,Todo sobre mi madre,\N,1999,101,93709.0
-3683,tt0187251,Lovers Lane,Lovers Lane,1999,\N,90,1122.0
-3699,tt0190611,Captain Pantoja and the Special Services,Pantaleón y las visitadoras,1999,\N,137,2471.0
-3701,tt0191636,Widow of St Pierre,La veuve de Saint-Pierre,2000,\N,112,5505.0
-3703,tt0192407,Otto - Der Katastrofenfilm,,2000,\N,92,1442.0
-3712,tt0194722,Bridge of Dragons,Bridge of Dragons,\N,1999,92,2747.0
-3735,tt0201394,Thé Shrink Is In,The Shrink Is In,2001,\N,92,1522.0
-3753,tt0206634,Childrén ớf Mén,,2006,\N,109,
-3762,tt0209933,Beau travail,Beau travail,1999,\N,92,
-3764,tt0210382,Thé Wéight ớf Wátér,The Weight of Water,2000,\N,114,9368.0
-3766,tt0210727,Himáláyá,Himalaya - l'enfance d'un chef,1999,\N,108,5355.0
-3768,tt0211126,Zakhm,,1998,\N,125,3129.0
-3775,tt0211946,Berlin Calling,Berlin Calling,2008,\N,109,14241.0
-3776,tt0212408,The Bus,,1975,\N,84,2073.0
-3782,tt0213890,Mohabbatein,,2000,\N,216,28913.0
-3801,tt0220363,The Red Ribbon,Rooban-e ghermez,1999,\N,110,1113.0
-3808,tt0222167,Lucky 13,Lucky 13,2005,\N,95,1113.0
-3812,tt0225071,Ángél Éyés,Angel Eyes,2001,\N,102,
-3818,tt0228687,Gréédy Gúts,Otesánek,2000,\N,132,6312.0
-3822,tt0230169,Ed Gein,In the Light of the Moon,2000,\N,89,5308.0
-3833,tt0234217,Clouds of May,,1999,\N,130,5971.0
-3834,tt0234354,Novocaine,,2001,\N,95,11009.0
-3846,tt0236638,Deep in the Woods,,2000,\N,90,2620.0
-3863,tt0240913,Under the Sand,Sous le sable,2000,\N,92,10083.0
-3870,tt0242256,Álái Páyúthéy,,2000,\N,156,6091.0
-3874,tt0242587,L.I.E.,L.I.E.,2001,\N,97,
-3882,tt0244528,Hadh Kar Di Aapne,Hadh Kar Di Aapne,2000,\N,134,1833.0
-3884,tt0245356,Perfume,,2001,\N,106,1023.0
-3888,tt0245574,Y tu mamá también,Y tu mamá también,2001,\N,106,120094.0
-3895,tt0246578,Donnie Darko,Donnie Darko,2001,\N,113,770414.0
-3919,tt0250720,See Spot Run,See Spot Run,2001,\N,94,9143.0
-3922,tt0251355,Pushpaka Vimana,Pushpaka Vimana,1987,\N,125,3416.0
-3923,tt0251447,The Tunnel,Der Tunnel,2001,\N,150,6146.0
-3925,tt0252269,Bekçiler Krali,Bekçiler Krali,1979,\N,82,6227.0
-3932,tt0252488,Thé Cháớs Cláss Fáiléd thé Cláss,,1976,\N,91,22862.0
-3954,tt0254703,The Point Men,The Point Men,2001,\N,100,1131.0
-3973,tt0259308,Felix the Cat: The Movie,,1988,\N,82,1444.0
-3990,tt0263124,Brainstorm,,2000,\N,74,5341.0
-3993,tt0263283,The Return,Dönüs,1972,\N,94,1158.0
-4000,tt0264578,The Endurance,The Endurance: Shackleton's Legendary Antarctic Expedition,2000,\N,97,1975.0
-4012,tt0265859,Témptéd,,2001,\N,95,1314.0
-4020,tt0267261,Black Angel,Senso '45,2002,\N,128,1846.0
-4033,tt0269857,Real Fiction,Shilje sanghwang,2000,\N,82,1438.0
-4037,tt0270707,The Truth About Charlie,The Truth About Charlie,\N,2002,104,10364.0
-4039,tt0270891,Costa!,,2001,\N,95,2439.0
-4045,tt0271543,Hidden Agenda,Hidden Agenda,2001,\N,102,1167.0
-4047,tt0271857,Vátsályám,,1993,\N,156,2833.0
-4060,tt0275309,Dogtown and Z-Boys,,2001,\N,91,12730.0
-4064,tt0276613,Wáiting fớr Gớdớt,,2001,\N,120,1401.0
-4065,tt0276617,The White Sound,,2001,\N,109,3260.0
-4116,tt0285492,Cube²: Hypercube,Cube 2: Hypercube,2002,\N,94,65946.0
-4148,tt0291988,Intimáté Stớriés,,2002,\N,92,5054.0
-4149,tt0292319,Varavelpu,,1989,\N,144,1797.0
-4155,tt0293124,Erkan & Stefan gegen die Mächte der Finsternis,Erkan & Stefan gegen die Mächte der Finsternis,2002,\N,80,1289.0
-4165,tt0295725,Time Changer,,2002,\N,95,
-4167,tt0296658,Táké Cáré ớf My Cát,Go-yang-i-leul boo-tak-hae,2001,\N,112,2323.0
-4178,tt0300028,Indian,Indian,2001,\N,178,2308.0
-4208,tt0305711,Just Married,Just Married,2003,\N,95,69819.0
-4228,tt0308514,Lớst in Lá Mánchá,,2002,\N,93,11578.0
-4234,tt0310154,In This World,In This World,2002,\N,88,4232.0
-4249,tt0313670,Sweet Sixteen,Sweet Sixteen,2002,\N,106,14949.0
-4266,tt0316463,Québec-Montréal,Québec-Montréal,2002,\N,104,1767.0
-4285,tt0321781,Cremaster 3,Cremaster 3,2002,\N,182,1434.0
-4296,tt0326208,Stándér,,2003,\N,111,8536.0
-4310,tt0327643,Dirty Love,Dirty Love,2005,\N,91,7090.0
-4312,tt0327920,I Am Trying to Break Your Heart,I Am Trying to Break Your Heart,2002,\N,92,2092.0
-4329,tt0331811,11:14,,2003,\N,86,46904.0
-4334,tt0332318,Pinocchio 3000,Pinocchio 3000,2004,\N,80,1266.0
-4343,tt0334725,Wondrous Oblivion,,2003,\N,106,1186.0
-4351,tt0337910,Camp Slaughter,Camp Slaughter,2004,\N,85,1807.0
-4368,tt0339727,Stateside,,\N,2004,97,1909.0
-4377,tt0342508,Hangman's Curse,,2003,\N,106,2610.0
-4379,tt0343221,Mother of Mine,,2005,\N,111,4385.0
-4380,tt0343818,"I, Rớbớt","I, Robot",2004,\N,115,519555.0
-4383,tt0345128,The Gleaners and I: Two Years Later,Les glaneurs et la glaneuse... deux ans après,2002,\N,63,1056.0
-4395,tt0347618,The Cat Returns,,2002,\N,75,53464.0
-4405,tt0350194,Teacher's Pet,Teacher's Pet,2004,\N,73,1750.0
-4410,tt0351299,Blind Shaft,Mang jing,2003,\N,92,2620.0
-4411,tt0351795,Ripoux 3,,2003,\N,105,
-4412,tt0352314,Ek Hasina Thi,,2004,\N,120,7207.0
-4416,tt0353725,Meesha Madhavan,,2002,\N,165,1534.0
-4420,tt0354575,The Five Obstructions,,2003,\N,90,8482.0
-4425,tt0357054,The Last Shot,The Last Shot,2004,\N,93,4239.0
-4437,tt0359950,The Secret Life of Walter Mitty,The Secret Life of Walter Mitty,2013,\N,114,306014.0
-4439,tt0360717,King Kong,,2005,\N,187,409833.0
-4446,tt0361696,Raise Your Voice,Raise Your Voice,2004,\N,107,27592.0
-4454,tt0362269,Kinsey,,2004,\N,118,48619.0
-4467,tt0364986,Bén & Árthúr,,2002,\N,85,7899.0
-4468,tt0365089,The Red Colored Grey Truck,Sivi kamion crvene boje,2004,\N,95,5197.0
-4470,tt0365478,Man with the Screaming Brain,Man with the Screaming Brain,2005,\N,90,5252.0
-4475,tt0366627,The Jacket,,2005,\N,103,111491.0
-4479,tt0366943,Reconstruction,Reconstruction,2003,\N,92,7328.0
-4480,tt0366996,The Saddest Music in the World,,2003,\N,100,
-4491,tt0368658,Stage Beauty,Stage Beauty,2004,\N,106,10285.0
-4495,tt0368909,Ớng-Bák: Thé Thái Wárriớr,Ong-bak,\N,2003,108,73338.0
-4499,tt0369226,Alone in the Dark,Alone in the Dark,2005,\N,99,
-4508,tt0370263,Alien vs. Predator,AVP: Alien vs. Predator,2004,\N,101,192081.0
-4518,tt0373445,Thé Wéndéll Bákér Stớry,,2005,\N,99,5787.0
-4530,tt0374853,Malice in Wonderland,Malice in Wonderland,2009,\N,87,3180.0
-4539,tt0375997,Nandha,,2001,\N,165,2285.0
-4550,tt0377569,"Good Morning, Night","Buongiorno, notte",2003,\N,106,3553.0
-4558,tt0378215,King's Game,Kongekabale,2004,\N,107,4387.0
-4590,tt0382383,Yuva,Yuva,\N,2004,161,8763.0
-4601,tt0384286,Cry Wớlf,,2005,\N,90,26940.0
-4603,tt0384533,Shé Háté Mé,She Hate Me,2004,\N,138,
-4613,tt0385928,Panchatanthiram,,2002,\N,150,3523.0
-4617,tt0386342,Brothers,,2004,\N,117,11176.0
-4618,tt0386504,Haven,,2004,\N,115,6629.0
-4629,tt0388139,It's Áll Gớné Pété Tớng,,2004,\N,90,19820.0
-4636,tt0388419,Christmas with the Kranks,Christmas with the Kranks,2004,\N,99,47015.0
-4643,tt0390080,Harry + Max,Harry + Max,2004,\N,74,1068.0
-4664,tt0396271,When Will I Be Loved,When Will I Be Loved,2004,\N,81,3352.0
-4666,tt0396659,InuYasha the Movie 3: Swords of an Honorable Ruler,Inuyasha - Tenka hadou no ken,2003,\N,99,2156.0
-4677,tt0398839,Cattle Call,Cattle Call,2006,\N,83,1184.0
-4692,tt0402057,Beowulf & Grendel,,2005,\N,104,17877.0
-4709,tt0405159,Milliớn Dớllár Báby,,2004,\N,132,663088.0
-4715,tt0407236,Lunacy,,2005,\N,118,3671.0
-4723,tt0408181,Shankar Dada MBBS,Shankar Dada MBBS,2004,\N,174,1686.0
-4740,tt0411475,Hell Ride,,2008,\N,84,15766.0
-4753,tt0414879,The Black Box,La boîte noire,2005,\N,90,1778.0
-4754,tt0414993,The Fountain,The Fountain,2006,\N,97,234952.0
-4774,tt0417976,The Promise,Wu ji,2005,\N,121,9160.0
-4775,tt0418110,Romanzo Criminale,,2005,\N,152,8986.0
-4777,tt0419279,Yesterday,Yesterday,2004,\N,90,2339.0
-4779,tt0419704,Donkey Xote,,2007,\N,90,2135.0
-4789,tt0420966,Wớúndéd Lớvé,,2004,\N,143,2449.0
-4790,tt0420982,Blind Man's Bluff,Zhmurki,2005,\N,111,7017.0
-4794,tt0421229,Mrs. Palfrey at the Claremont,,\N,2005,108,3321.0
-4830,tt0425489,The Die Is Cast,,2005,\N,97,1035.0
-4834,tt0426396,Alien Abduction,,2005,\N,96,1410.0
-4835,tt0426462,Fifty Pills,Fifty Pills,2006,\N,85,2724.0
-4839,tt0426627,Stoned,Stoned,2005,\N,102,3983.0
-4870,tt0432318,Livé Fréé ớr Dié,,\N,2006,89,2471.0
-4876,tt0433963,Dárk Ridé,Dark Ride,2006,\N,94,6276.0
-4877,tt0434424,Undiscovered,,2005,\N,97,2851.0
-4884,tt0436262,Ellie Parker,,2005,\N,95,4623.0
-4897,tt0439123,Ázúr & Ásmár: Thé Princés' Qúést,Azur et Asmar,2006,\N,99,3091.0
-4927,tt0445946,The Contract,The Contract,\N,2006,96,24411.0
-4956,tt0451284,"Yớúng, Singlé & Ángry","Young, Single & Angry",2006,\N,91,4030.0
-4962,tt0452664,Party Crashers,Os Penetras,2012,\N,88,1006.0
-4963,tt0452668,Pterodactyl,,\N,2005,91,2415.0
-4971,tt0454848,Insidé Mán,Inside Man,2006,\N,129,357328.0
-4984,tt0456041,Anche libero va bene,,2006,\N,108,
-4988,tt0457400,Land of the Lost,Land of the Lost,2009,\N,102,69098.0
-4994,tt0458449,The Other Half,The Other Half,2006,\N,94,1009.0
-4995,tt0458522,El cantante,,2006,\N,106,4904.0
-5023,tt0464154,Piranha 3D,,2010,\N,88,88700.0
-5025,tt0465551,Notes on a Scandal,Notes on a Scandal,2006,\N,92,76910.0
-5031,tt0466713,Military Academy,Kein Bund fürs Leben,2007,\N,85,1469.0
-5042,tt0469045,Broken,Broken,\N,2006,97,1485.0
-5052,tt0472033,9,9,2009,\N,79,137180.0
-5057,tt0473333,The Backwoods,Bosque de sombras,2006,\N,97,5535.0
-5085,tt0477051,Norbit,Norbit,2007,\N,103,72383.0
-5089,tt0477273,Summer Rain,El camino de los ingleses,2006,\N,118,1187.0
-5107,tt0479948,Living & Dying,Living & Dying,2007,\N,90,1905.0
-5130,tt0485513,"Main, Meri Patni... Aur Woh!",,2005,\N,129,2312.0
-5136,tt0486583,Fred Claus,Fred Claus,2007,\N,116,42378.0
-5140,tt0486708,Maskeli Besler: Intikam Pesinde,,2005,\N,89,5409.0
-5152,tt0488988,Chapter 27,,2007,\N,84,10882.0
-5154,tt0489062,Going to Pieces: The Rise and Fall of the Slasher Film,Going to Pieces: The Rise and Fall of the Slasher Film,\N,2006,88,3476.0
-5168,tt0492492,Sleeping Dogs Lie,,2006,\N,87,3316.0
-5180,tt0493459,This Film Is Not Yet Rated,,2006,\N,98,27984.0
-5187,tt0494823,Sekerpare,Sekerpare,1983,\N,90,6279.0
-5201,tt0498353,Hostel: Part II,Hostel: Part II,2007,\N,94,88456.0
-5203,tt0498381,Rings,Rings,2017,\N,102,39692.0
-5214,tt0756313,Sirens in the Aegean,,2005,\N,115,3075.0
-5217,tt0757157,A Millionaire's First Love,,2006,\N,116,5141.0
-5228,tt0762111,Jonestown: The Life and Death of Peoples Temple,,\N,2006,86,5300.0
-5240,tt0768222,Night of the Templar,Night of the Templar,\N,2013,101,6631.0
-5241,tt0769499,Aathi,Aathi,2006,\N,167,2314.0
-5242,tt0769507,The Sun Also Rises,Tai yang zhao chang sheng qi,2007,\N,116,
-5249,tt0775539,Stomp the Yard,Stomp the Yard,2007,\N,115,25394.0
-5268,tt0785006,Hớtél fớr Dớgs,,2009,\N,100,22847.0
-5275,tt0790636,Dallas Buyers Club,Dallas Buyers Club,2013,\N,117,466214.0
-5280,tt0794399,We're All Christs,Wszyscy jestesmy Chrystusami,2006,\N,107,2458.0
-5304,tt0806147,Extreme Movie,,2008,\N,86,
-5308,tt0808240,Turks in Space,,\N,2006,110,16138.0
-5311,tt0808510,Tooth Fairy,Tooth Fairy,2010,\N,101,44890.0
-5312,tt0808532,Hacking Democracy,,2006,\N,82,1292.0
-5330,tt0816258,Pokiri,Pokiri,\N,2006,164,13678.0
-5337,tt0817228,The Tattooist,,\N,2007,92,3133.0
-5342,tt0821442,A Dirty Carnival,Biyeolhan geori,2006,\N,140,
-5351,tt0825232,Thé Búckét List,,2007,\N,97,239334.0
-5363,tt0832903,Mánúfáctúréd Lándscápés,,2006,\N,86,2897.0
-5372,tt0838254,Cease Fire,Atash bas,2006,\N,104,2600.0
-5387,tt0844457,North Face,Nordwand,2008,\N,126,15457.0
-5391,tt0847154,Angels of the Sun,,2006,\N,92,1014.0
-5394,tt0847895,S.O.S. szerelem!,S.O.S. szerelem!,\N,2007,96,1010.0
-5407,tt0859163,The Mummy: Tomb of the Dragon Emperor,,2008,\N,112,156547.0
-5421,tt0872190,Cash,,2007,\N,137,1935.0
-5427,tt0879870,Eat Pray Love,,2010,\N,133,93857.0
-5440,tt0889652,Rớmán dé gáré,,2007,\N,103,2497.0
-5445,tt0892425,Before Flying Back to Earth,Pries parskrendant i zeme,2005,\N,52,1165.0
-5449,tt0893509,Blonde and Blonder,Blonde and Blonder,2008,\N,95,
-5454,tt0899106,Love Happens,,2009,\N,109,32508.0
-5457,tt0901481,Eichmann,,2007,\N,96,3239.0
-5461,tt0903657,Love & Mercy,,2014,\N,121,38200.0
-5467,tt0910970,WALL·E,,2008,\N,98,1054233.0
-5471,tt0913354,Armored,,2009,\N,88,30482.0
-5484,tt0923752,The King of Kong: A Fistful of Quarters,,2007,\N,79,36067.0
-5519,tt0960097,Wake,Wake,2009,\N,97,1958.0
-5527,tt0968712,Zérớ. Lilác Lithúániá,,2006,\N,82,2297.0
-5528,tt0970416,The Day the Earth Stood Still,The Day the Earth Stood Still,2008,\N,104,167730.0
-5532,tt0975684,Kisses,,2008,\N,72,1869.0
-5539,tt0978649,Bliss,Mutluluk,2007,\N,105,7616.0
-5565,tt0991174,Ingenious,Ingenious,2009,\N,85,1962.0
-5628,tt10244008,Ghost,,2020,\N,85,1650.0
-5639,tt10288566,Another Round,,2020,\N,117,120802.0
-5661,tt1034302,The Cry of the Owl,The Cry of the Owl,2009,\N,100,4643.0
-5664,tt1034311,Hata Göteborg,,2007,\N,82,1489.0
-5678,tt1041753,Harold,Harold,2008,\N,90,1934.0
-5681,tt10441958,How to Be a Good Wife,,2020,\N,109,1554.0
-5686,tt1046930,Headless Horseman,Headless Horseman,2007,\N,87,1076.0
-5687,tt1046936,Húrt,,2009,\N,97,1543.0
-5689,tt1047102,Endless Bummer,,2009,\N,87,1255.0
-5704,tt10532840,Who Killed Garrett Phillips?,Who Killed Garrett Phillips?,2019,\N,186,2162.0
-5708,tt10539608,The Midnight Sky,,2020,\N,118,
-5713,tt10551608,Thanneermathan Dinangal,Thanneer Mathan Dhinangal,2019,\N,136,
-5736,tt10675136,Hell House LLC III: Lake of Fire,,2019,\N,85,2794.0
-5740,tt1068649,I've Loved You So Long,,2008,\N,117,20181.0
-5749,tt1073105,The Descent: Part 2,,\N,2009,94,46214.0
-5751,tt1073223,Detective Conan: Countdown to Heaven,Meitantei Conan: Tengoku no countdown,2001,\N,100,2196.0
-5764,tt1079968,Jack and the Beanstalk,,2009,\N,94,1854.0
-5770,tt1082601,Fighting,,2009,\N,105,32819.0
-5779,tt1087461,Megan Is Missing,Megan Is Missing,2011,\N,89,11600.0
-5791,tt1090646,City Rats,City Rats,2009,\N,94,1290.0
-5821,tt11003228,Breeder,,2020,\N,107,1046.0
-5840,tt11084896,Spirit Untamed,Spirit Untamed,2021,\N,88,2884.0
-5847,tt11143108,Oh My Kadavule,Oh My Kadavule,2020,\N,151,3558.0
-5848,tt11143634,All of Us,,2019,\N,112,1477.0
-5878,tt11274100,Archenemy,Archenemy,2020,\N,90,2829.0
-5903,tt1132626,Saw V,,2008,\N,92,121257.0
-5907,tt1133985,Green Lantern,Green Lantern,2011,\N,114,277475.0
-5916,tt1136688,Abelar: Tales of an Ancient Empire,,2010,\N,86,
-5925,tt11389748,Mass,Mass,2021,\N,111,1039.0
-5932,tt11394318,The Truffle Hunters,The Truffle Hunters,2020,\N,84,1504.0
-5933,tt1139668,The Unborn,,2009,\N,88,50770.0
-5966,tt1153102,The Devil's Ground,The Cycle,2009,\N,89,1559.0
-6037,tt1183917,Teen Patti,Teen Patti,2010,\N,142,1509.0
-6044,tt1186370,Spread,Spread,2009,\N,97,39524.0
-6082,tt1203517,The Graves,The Graves,2009,\N,88,2077.0
-6084,tt1204883,Boogeyman 3,,2008,\N,93,4821.0
-6085,tt1204977,Ouija,,2014,\N,89,51196.0
-6104,tt1219289,Limitléss,,2011,\N,105,549738.0
-6108,tt1220706,Breathing Room,,2008,\N,89,3581.0
-6129,tt1233461,Miracle of Giving Fool,,2008,\N,99,1447.0
-6135,tt1235536,Lucky Luke,,2009,\N,103,4175.0
-6164,tt1247690,Serena,Serena,2014,\N,109,28273.0
-6171,tt12537774,"Sex, Drugs & Bicycles","Sex, Drugs & Bicycles",2020,\N,86,1091.0
-6180,tt1260567,Dárk Hớúsé,,2009,\N,85,2229.0
-6184,tt1262406,Fading of the Cries,Fading of the Cries,2008,\N,94,1612.0
-6205,tt1272013,Brain Drain,,2009,\N,104,2020.0
-6218,tt1278180,Kénny Bégins,Kenny Begins,2009,\N,87,1812.0
-6244,tt12888462,My Octopus Teacher,,2020,\N,85,46791.0
-6246,tt1289406,Harry Brown,Harry Brown,2009,\N,103,86311.0
-6258,tt1294182,Living in Emergency,,2008,\N,93,1054.0
-6260,tt1295060,Thé Pớlicémán ớf thé 16th Précinct,O Ilias tou 16ou,2008,\N,100,1408.0
-6262,tt1296869,The Keeper,The Keeper,2009,\N,94,4499.0
-6267,tt1302011,Kung Fu Panda 2,Kung Fu Panda 2,2011,\N,90,268923.0
-6294,tt13150630,Secrets of the Saqqara Tomb,Secrets of the Saqqara Tomb,2020,\N,113,5809.0
-6319,tt1329177,K-11,,2012,\N,88,1670.0
-6325,tt1334102,The Resident,,2011,\N,91,27506.0
-6336,tt1339248,Aapthamitra,,2004,\N,100,1043.0
-6340,tt1341167,Four Lions,,2010,\N,97,75824.0
-6344,tt13428402,Stand by Me Doraemon 2,Stand by Me Doraemon 2,2020,\N,96,2672.0
-6352,tt13451792,Kya Meri Sonam Gupta Bewafa Hai,Kya Meri Sonam Gupta Bewafa Hai,\N,2021,136,1095.0
-6381,tt1365483,Main Street,Main Street,2010,\N,92,2747.0
-6385,tt1368439,Gagma napiri,,2009,\N,90,1210.0
-6388,tt1368858,Thé Fớrgér,,2012,\N,94,4644.0
-6396,tt1374989,Pridé ánd Préjúdicé ánd Zớmbiés,Pride and Prejudice and Zombies,2016,\N,108,54584.0
-6410,tt1386925,Thé Déád,,2010,\N,105,
-6416,tt1391034,And Soon the Darkness,And Soon the Darkness,2010,\N,91,17274.0
-6425,tt1396208,Action Replayy,,2010,\N,129,6063.0
-6443,tt14053010,Asalem Jarigindi,,2021,\N,124,1112.0
-6472,tt1425252,The Crypt,,2009,\N,84,1235.0
-6473,tt1425928,Vampire Girl vs. Frankenstein Girl,,2009,\N,84,3706.0
-6478,tt1429429,Coursier,,2010,\N,98,1669.0
-6482,tt1431045,Deadpool,,2016,\N,108,963644.0
-6499,tt1438522,Death Bell,,2008,\N,88,2667.0
-6500,tt1438535,Film socialisme,,2010,\N,102,2679.0
-6514,tt1453405,Mớnstérs Únivérsity,Monsters University,2013,\N,104,341179.0
-6523,tt1462014,Surviving Progress,,2011,\N,86,1826.0
-6524,tt1462411,Big Sur,Big Sur,\N,2013,81,
-6542,tt1478839,The Art of Racing in the Rain,The Art of Racing in the Rain,2019,\N,109,28541.0
-6572,tt1501298,Kattradhu Thamizh,Kattradhu Thamizh,\N,2007,147,3030.0
-6577,tt1504300,The Parking Lot Movie,,2010,\N,74,1952.0
-6583,tt15085794,Untold: Deal with the Devil,Untold: Deal with the Devil,2021,\N,77,1856.0
-6587,tt1509788,Ass Backwards,,2013,\N,85,2336.0
-6597,tt1519245,Agnosia,Agnosia,2010,\N,105,1446.0
-6604,tt1522846,Thé Búnny Gámé,,2011,\N,76,2397.0
-6612,tt1527186,Melancholia,Melancholia,\N,2011,135,175910.0
-6621,tt1533089,Tab Hunter Confidential,,2015,\N,90,3457.0
-6625,tt1535432,Crave,,2012,\N,113,1150.0
-6626,tt15354498,The Killer,The Killer,2021,\N,154,1070.0
-6627,tt1535566,The Bleeding House,The Bleeding,2011,\N,86,1716.0
-6642,tt1543701,Street Days,,2010,\N,89,1182.0
-6648,tt1546653,Thé Réd Chápél,Det røde kapel,2009,\N,88,2010.0
-6663,tt1562567,Bloodwork,,2012,\N,96,2255.0
-6673,tt1567448,Yahsi Bati,,2009,\N,112,34200.0
-6674,tt1568139,You Got Served: Beat the World,Beat the World,\N,2011,91,1942.0
-6694,tt1578275,The Dilemma,The Dilemma,2011,\N,111,53457.0
-6707,tt1584943,Dark Space,Dark Space,2013,\N,91,1074.0
-6708,tt1586001,Veda - Atatürk,,2010,\N,114,7007.0
-6710,tt1587729,71: Into the Fire,Pohwasogeuro,2010,\N,120,5374.0
-6717,tt1590796,Mutant Girls Squad,,2010,\N,89,1836.0
-6723,tt1596722,Superheroes,,2010,\N,115,1112.0
-6738,tt16058566,Ớớriki Úttháráná,Ooriki Uttharana,\N,2021,122,1100.0
-6755,tt1615075,Suing the Devil,,2011,\N,106,3989.0
-6777,tt16298620,Súndárángúdú,Sundarangudu,2021,\N,\N,1488.0
-6780,tt1633356,Shark Night,Shark Night 3D,\N,2011,90,25664.0
-6782,tt1636780,Gintama: The Movie,Gekijôban Gintama: Shin'yaku Benizakura hen,\N,2010,96,1784.0
-6784,tt1638894,Delta Zulu,,2012,\N,121,4350.0
-6787,tt1640484,Jumping the Broom,Jumping the Broom,2011,\N,112,10665.0
-6789,tt1640548,Rampart,,\N,2011,108,23816.0
-6800,tt1650044,The Facility,,2012,\N,80,
-6806,tt1651065,Don't Go in the Woods,Don't Go in the Woods,2010,\N,83,1068.0
-6808,tt1651143,Nớ cớntrớlés,,2010,\N,100,1123.0
-6812,tt1655460,Wanderlust,Wanderlust,2012,\N,98,75063.0
-6822,tt1662293,Nothing Left to Fear,Nothing Left to Fear,2013,\N,100,4941.0
-6829,tt1664664,Hiddén 3D,,2011,\N,81,1800.0
-6841,tt1668209,Que Pena Tu Vida,Que Pena Tu Vida,2010,\N,94,1609.0
-6855,tt1680136,Klown,,2010,\N,93,10847.0
-6856,tt1680140,Thé Stớlén,,2017,\N,98,1267.0
-6862,tt1684913,Microphone,,2010,\N,120,1613.0
-6867,tt1692190,Hell,,2010,\N,149,9420.0
-6937,tt1738293,Khichdi: The Movie,Khichdi: The Movie,2010,\N,120,2414.0
-6938,tt1740476,Bútchér Bớys,Butcher Boys,2012,\N,86,1567.0
-6941,tt1742334,Sabotage,Sabotage,2014,\N,109,
-6942,tt1744885,The Opening,The Opening,2011,\N,\N,4135.0
-6944,tt1745710,Gore Vidal: The United States of Amnesia,Gore Vidal: The United States of Amnesia,2013,\N,83,1267.0
-6959,tt1764366,Hollywood Sex Wars,,2011,\N,106,7212.0
-6962,tt1764657,Thé Gréát Whité Siléncé,,1922,\N,80,1193.0
-6970,tt1776086,Bettie Page Reveals All,Bettie Page Reveals All,2012,\N,101,1498.0
-6972,tt1777612,Demons Never Die,,2011,\N,93,1708.0
-6985,tt1785288,An Ordinary Man,An Ordinary Man,2017,\N,90,
-6986,tt1785635,The Vault,The Vault,2017,\N,91,12884.0
-7013,tt1807950,Love Likes Coincidences,,2011,\N,118,18381.0
-7016,tt1809387,The War You Don't See,,2010,\N,97,
-7019,tt1813609,A Haunting at Silver Falls,,2013,\N,96,
-7056,tt1836974,Ecstasy of Order: The Tetris Masters,Ecstasy of Order: The Tetris Masters,2011,\N,93,1508.0
-7068,tt1845773,Ai Weiwei: Never Sorry,,2012,\N,91,4344.0
-7088,tt1862472,Kolpaçino: Bomba,Kolpaçino: Bomba,2011,\N,92,6807.0
-7118,tt1891905,Séá Lévél,,\N,2011,93,1095.0
-7120,tt1895315,Brimstone,,2016,\N,148,
-7136,tt1922679,Open Road,Open Road,2013,\N,85,1758.0
-7145,tt1928330,Bad Ass,Bad Ass,\N,2012,90,18908.0
-7154,tt1935109,Dipu Number 2,Dipu Number 2,1996,\N,154,
-7157,tt1935302,Monsters: Dark Continent,Monsters: Dark Continent,2014,\N,119,10560.0
-7163,tt1937449,At Any Price,,2012,\N,105,7524.0
-7189,tt1972819,And While We Were Here,And While We Were Here,\N,2012,83,3841.0
-7217,tt2007413,Quick,Kwik,2011,\N,115,1113.0
-7222,tt2014260,Jihne Mera Dil Luteya,Jihne Mera Dil Luteya,2011,\N,135,1024.0
-7232,tt2034800,The Great Wall,The Great Wall,2016,\N,103,130506.0
-7236,tt2040560,The Pact,,2012,\N,89,24179.0
-7253,tt2061702,To the Forest of Firefly Lights,Hotarubi no mori e,2011,\N,45,16331.0
-7279,tt2079571,Roman Polanski: A Film Memoir,Roman Polanski: A Film Memoir,2011,\N,90,1204.0
-7281,tt2081194,Hánsél & Grétél Gét Bákéd,,\N,2013,86,3632.0
-7285,tt2082197,Barfi!,Barfi!,2012,\N,151,
-7293,tt2085783,Deool,Deool,2011,\N,135,1560.0
-7311,tt2109184,Paranormal Activity 4,Paranormal Activity 4,2012,\N,88,64911.0
-7312,tt2111392,Raze,Raze,\N,2013,87,5988.0
-7327,tt2124803,How to Survive a Plague,How to Survive a Plague,2012,\N,110,4027.0
-7333,tt2126235,Collide,,2016,\N,99,15893.0
-7339,tt2145829,Robot Overlords,Robot Overlords,2014,\N,90,
-7351,tt2168180,Nise: The Heart of Madness,Nise: O Coração da Loucura,2015,\N,106,2340.0
-7357,tt2172071,Student of the Year,Student of the Year,2012,\N,146,17079.0
-7358,tt2175669,Get Lucky,Get Lucky,2013,\N,86,1547.0
-7367,tt2179226,Absolute Deception,,2013,\N,92,1877.0
-7375,tt2180994,A Good Marriage,,2014,\N,102,11359.0
-7378,tt2181889,Death Do Us Part,Death Do Us Part,2014,\N,93,1057.0
-7384,tt2190467,Safelight,Safelight,2015,\N,84,1947.0
-7386,tt2190838,Stage Fright,,\N,2014,89,4635.0
-7401,tt2202607,Everybody in Our Family,,2012,\N,107,1520.0
-7407,tt2210441,Bittersweet,,2010,\N,130,6216.0
-7410,tt2210769,Liza the Fox-Fairy,"Liza, a rókatündér",\N,2015,98,8734.0
-7419,tt2218988,Ustad Hotel,Ustad Hotel,2012,\N,151,13530.0
-7436,tt2236160,Nightlight,,2015,\N,85,2139.0
-7439,tt2238470,The Stranger,The Stranger,2014,\N,93,2876.0
-7451,tt2246595,Blood Money,Blood Money,2012,\N,109,1519.0
-7458,tt2258337,Eega,,2012,\N,145,22832.0
-7466,tt2267968,Kúng Fú Pándá 3,Kung Fu Panda 3,\N,2016,95,146644.0
-7488,tt2294567,Dhámmú,,2012,\N,155,1986.0
-7489,tt2295722,Fálcớn Rising,Falcon Rising,2014,\N,103,
-7495,tt2299842,Pieta,,2012,\N,103,14206.0
-7502,tt2304933,The 5th Wave,The 5th Wave,2016,\N,112,105518.0
-7505,tt2306786,Chupacabra Territory,,2016,\N,94,1663.0
-7509,tt2313189,Casting Couch,Casting Couch,2013,\N,94,3065.0
-7513,tt2316479,Blúé Igúáná,Blue Iguana,2018,\N,100,2794.0
-7514,tt2317524,12 Rounds 2: Reloaded,,2013,\N,95,5546.0
-7531,tt2332801,The Spirit of '45,The Spirit of '45,2013,\N,94,1183.0
-7532,tt2332831,The Last Will and Testament of Rosalind Leigh,,2012,\N,82,
-7537,tt2337981,Architecture 101,,2012,\N,118,3547.0
-7559,tt2363181,Alpha Alert,Event 15,2013,\N,84,1197.0
-7567,tt2368672,Minuscule: Valley of the Lost Ants,,2013,\N,89,8125.0
-7584,tt2378145,Nun,Gas Light,\N,2017,80,1156.0
-7587,tt2380564,Swearnet: The Movie,Swearnet: The Movie,2014,\N,112,2619.0
-7601,tt2395199,Enemies Closer,,2013,\N,85,5906.0
-7610,tt2396721,The Scribbler,,2014,\N,88,4918.0
-7616,tt2401807,Rage,Tokarev,2014,\N,98,24136.0
-7642,tt2429640,Murder 3,,2013,\N,124,2526.0
-7646,tt2437548,Goodbye to All That,,2014,\N,87,2358.0
-7658,tt2461150,Masterminds,Masterminds,\N,2016,95,53786.0
-7668,tt2473750,Among the Living,Aux yeux des vivants,2014,\N,90,2255.0
-7670,tt2474972,Alien Outpost,,2014,\N,92,6253.0
-7683,tt2504404,Wolf,Wolf,2013,\N,122,3712.0
-7741,tt2608324,Manhattan Romance,Manhattan Romance,2014,\N,94,1337.0
-7760,tt2652948,Hostage to the Devil,,2016,\N,96,1631.0
-7783,tt2719848,Everest,Everest,2015,\N,121,210265.0
-7784,tt2722504,Sr. Pig,Sr. Pig,2016,\N,100,1200.0
-7791,tt2741806,In Bloom,,2013,\N,102,6828.0
-7792,tt2749296,The Beautiful Risk,,2013,\N,91,11595.0
-7796,tt2753778,The Death of Superman Lives: What Happened?,The Death of Superman Lives: What Happened?,\N,2015,104,4396.0
-7831,tt2853182,The Black Water Vampire,The Black Water Vampire,2014,\N,82,1005.0
-7857,tt2910904,The Dressmaker,The Dressmaker,\N,2015,119,
-7860,tt2915160,Bethlehem,Bethlehem,2013,\N,99,2145.0
-7869,tt2931376,Thé Wáké,The Wake,2017,\N,86,
-7870,tt2932536,47 Meters Down,47 Meters Down,2017,\N,89,52611.0
-7873,tt2936180,Far from Men,Loin des hommes,2014,\N,101,7797.0
-7878,tt2948266,Dealin' with Idiots,Dealin' with Idiots,2013,\N,88,1367.0
-7901,tt2998406,No Stranger Than Love,No Stranger Than Love,2015,\N,89,2711.0
-7924,tt3041550,Matangi/Maya/M.I.A,,2018,\N,96,2042.0
-7936,tt3065204,The Conjuring 2,,2016,\N,134,253481.0
-7937,tt3075360,Googly,Googly,\N,2013,136,
-7950,tt3101132,Ghớúl,,2015,\N,86,1843.0
-7960,tt3121860,Backtrack,Backtrack,2014,\N,97,1743.0
-7969,tt3135556,Jimmy Vestvood: Amerikan Hero,Jimmy Vestvood: Amerikan Hero,2016,\N,84,
-7970,tt3138104,The Hungover Games,The Hungover Games,\N,2014,85,14779.0
-7974,tt3142688,Finding Fanny,Finding Fanny,2014,\N,102,6353.0
-8005,tt3198468,North 24 Kaatham,North 24 Kaatham,2013,\N,125,
-8016,tt3228830,Súpér Dúpér Álicé Cớớpér,Super Duper Alice Cooper,\N,2014,98,1140.0
-8023,tt3244992,Trailer Park Boys: Don't Legalize It,,2014,\N,95,4652.0
-8027,tt3257072,Fish & Cat,Mahi va gorbeh,2013,\N,134,2480.0
-8077,tt3374966,The Mafia Kills Only in Summer,,2013,\N,90,8087.0
-8078,tt3379456,Rédéémér,,2014,\N,88,1220.0
-8084,tt3390550,The Barn,,2016,\N,88,1490.0
-8091,tt3398252,Samurai Cop 2: Deadly Vengeance,,2015,\N,94,4447.0
-8113,tt3446426,Time Pass,,2014,\N,143,1389.0
-8116,tt3455822,Night Will Fall,,2014,\N,75,3192.0
-8117,tt3457508,Damascus Cover,,2017,\N,93,
-8169,tt3531202,Pilgrimage,,2017,\N,96,5264.0
-8175,tt3541524,Line of Duty,Line of Duty,2019,\N,98,6728.0
-8179,tt3547306,Cut Throat City,,2020,\N,123,2303.0
-8223,tt3626440,Mr. Dynámité: Thé Risé ớf Jámés Brớwn,Mr. Dynamite: The Rise of James Brown,2014,\N,120,1367.0
-8250,tt3692652,Eloise,,2016,\N,89,4143.0
-8271,tt3724490,Death Fighter,,2017,\N,88,1075.0
-8276,tt3732950,Body,,2015,\N,75,2067.0
-8288,tt3746824,Shéép & Wớlvés,Volki i ovtsy. Beeezumnoe prevrashchenie,2016,\N,85,3143.0
-8291,tt3748512,Hitchcock/Truffaut,,2015,\N,79,6359.0
-8294,tt3758162,A Score to Settle,,2019,\N,103,5264.0
-8313,tt3814486,"Bloed, Zweet & Tranen",,2015,\N,111,1825.0
-8316,tt3816614,Turkey Shoot,,2014,\N,90,1286.0
-8345,tt3885524,The Phenom,,2016,\N,88,2241.0
-8350,tt3896100,Cáptúré thé Flág,Atrapa la bandera,2015,\N,94,3683.0
-8359,tt3910416,Escape Artist,Escape Artist,\N,2017,106,
-8360,tt3917210,"Life, Animated",,2016,\N,92,5876.0
-8393,tt4009460,Kirk Cameron's Saving Christmas,Saving Christmas,2014,\N,79,15643.0
-8394,tt4010862,Massacre on Aisle 12,,2016,\N,83,2681.0
-8396,tt4016226,Thé Résúrréctiớn ớf Jáké thé Snáké,The Resurrection of Jake the Snake,2015,\N,93,3074.0
-8400,tt4024814,Fúcking Bérlin,Fucking Berlin,2016,\N,94,2045.0
-8412,tt4060544,Step Up China,Step Up China,2019,\N,100,3534.0
-8414,tt4061620,Firébird,,2021,\N,107,
-8452,tt4143508,Lớng Strángé Trip,,2017,\N,238,1586.0
-8470,tt4170436,That Thing Called Tadhana,,\N,2014,110,1049.0
-8476,tt4185572,The Hunting Ground,The Hunting Ground,2015,\N,103,6239.0
-8490,tt4209174,Chimera Strain,Chimera Strain,2018,\N,80,3209.0
-8500,tt4253744,Çakallarla Dans 3: Sifir Sikinti,,2014,\N,102,2625.0
-8543,tt4341582,Queen of Katwe,Queen of Katwe,2016,\N,124,16760.0
-8548,tt4365412,Nicé Péớplé,Filip & Fredrik presenterar Trevligt folk,2015,\N,100,1391.0
-8596,tt4483220,The Funhouse Massacre,,2015,\N,90,3768.0
-8599,tt4497338,Interrogation,Interrogation,2016,\N,93,
-8601,tt4504044,The Prodigy,The Prodigy,2019,\N,92,25461.0
-8624,tt4568370,Blind Sun,Blind Sun,2015,\N,88,1631.0
-8629,tt4591732,Mihrez: Cin Padisahi,,2015,\N,101,1816.0
-8641,tt4623856,Wớlvés,,\N,2016,109,1215.0
-8655,tt4667084,Thé Únséén,,2016,\N,108,1138.0
-8658,tt4680980,Lavender,,2016,\N,92,6815.0
-8661,tt4685806,The Con is On,The Con Is On,2018,\N,90,9189.0
-8671,tt4717194,Wizard School,,2015,\N,91,3604.0
-8681,tt4733536,American Hero,,2015,\N,86,4134.0
-8713,tt4836110,Emilia,,2017,\N,120,1254.0
-8714,tt4843012,No Filter,,2016,\N,100,1930.0
-8715,tt4846340,Hidden Figures,,\N,2016,127,215094.0
-8745,tt4914580,The Age of Shadows,Mil-jeong,2016,\N,140,9499.0
-8763,tt4966046,Awaken the Shadowman,Awaken the Shadowman,2017,\N,90,3451.0
-8777,tt4998772,Bedeviled,,2016,\N,91,3190.0
-8783,tt5034474,The Assignment,,2016,\N,95,8159.0
-8788,tt5041296,Muse,Muse,2017,\N,107,3441.0
-8797,tt5066056,The Wilde Wedding,,2017,\N,95,2379.0
-8799,tt5069074,Á Billiớn Livés,,2016,\N,95,2818.0
-8810,tt5092380,A Breath Away,,2018,\N,89,6298.0
-8818,tt5115024,Back to Mom's,,2016,\N,97,2050.0
-8844,tt5168832,After Porn Ends 2,After Porn Ends 2,2017,\N,90,2585.0
-8855,tt5212918,A Bad Idea Gone Wrong,,2017,\N,85,1184.0
-8868,tt5247022,Paterson,,2016,\N,118,77389.0
-8890,tt5278930,Sky Ladder: The Art of Cai Guo-Qiang,Sky Ladder: The Art of Cai Guo-Qiang,2016,\N,76,1384.0
-8905,tt5332502,Rajini Murugan,Rajini Murugan,2015,\N,149,1642.0
-8922,tt5420886,Walking Out,,2017,\N,95,6157.0
-8936,tt5460658,Life and a Day,Abad va yek rooz,\N,2016,112,12956.0
-8952,tt5483626,Enai Noki Paayum Thota,,2019,\N,153,1713.0
-8957,tt5503688,6 Below: Miracle on the Mountain,,2017,\N,98,7170.0
-8963,tt5519566,Thé First Mớndáy in Máy,The First Monday in May,2016,\N,90,1659.0
-8980,tt5563782,Followed,,2018,\N,96,2490.0
-8982,tt5566714,Háwáii,,2017,\N,116,1171.0
-8983,tt5566778,Island Zero,,2018,\N,99,1346.0
-9012,tt5646136,Hillary's America: The Secret History of the Democratic Party,,2016,\N,106,7176.0
-9031,tt5689068,Killing Gunther,Killing Gunther,2017,\N,92,13030.0
-9043,tt5707304,Mother,,2016,\N,95,1495.0
-9045,tt5710042,Mercy,Mercy,2016,\N,90,3291.0
-9047,tt5716380,Thumper,,2017,\N,93,2830.0
-9058,tt5735280,It Stains the Sands Red,It Stains the Sands Red,\N,2016,92,4837.0
-9068,tt5767628,Kill 'Em All,,2017,\N,100,2470.0
-9072,tt5775220,Noor,Noor,2017,\N,117,1497.0
-9076,tt5779540,Dear Dictator,Dear Dictator,2017,\N,90,4986.0
-9080,tt5792472,Take the 10,Take the 10,2017,\N,80,3026.0
-9082,tt5803528,100% Cớcớ,100% Coco,2017,\N,88,1187.0
-9086,tt5805752,Brigsby Bear,Brigsby Bear,2017,\N,97,16344.0
-9102,tt5845440,Blindsided,,2018,\N,81,
-9140,tt5956100,Tiger Zinda Hai,,2017,\N,161,27585.0
-9151,tt5990066,Bád Mátch,Bad Match,2017,\N,90,4258.0
-9152,tt5990444,The Trap,The Trap,2019,\N,90,1519.0
-9158,tt6015706,China Salesman,,2017,\N,110,1464.0
-9166,tt6051096,The Axiom,,2018,\N,98,6819.0
-9181,tt6083648,Looking Glass,Looking Glass,\N,2018,103,6424.0
-9185,tt6095090,Thé Bridé,Nevesta,2017,\N,95,2592.0
-9236,tt6265988,Bhoomi,Bhoomi,2017,\N,136,1837.0
-9239,tt6273736,Vanishing Time: A Boy Who Returned,,2016,\N,130,1765.0
-9251,tt6301452,Matriarch,Matriarch,2018,\N,91,4882.0
-9286,tt6439558,Recep Ivedik 5,,\N,2017,114,15670.0
-9287,tt6450662,End Trip,,2018,\N,85,1822.0
-9304,tt6509862,Mr. Long,Ryu san,2017,\N,129,
-9314,tt6537508,Behen Hogi Teri,,2017,\N,128,2023.0
-9318,tt6547786,Life Like,,2019,\N,95,2748.0
-9340,tt6628394,Bad Times at the El Royale,,2018,\N,141,140544.0
-9351,tt6676028,In a Relationship,,2018,\N,92,2475.0
-9370,tt6769280,Time Freak,,2018,\N,104,8424.0
-9372,tt6772950,Truth or Dare,Truth or Dare,2018,\N,100,52538.0
-9379,tt6814914,Journey from Greece,Djam,\N,2017,97,1758.0
-9403,tt6878378,Vivegam,,2017,\N,149,11738.0
-9409,tt6932874,The Boss Baby: Family Business,The Boss Baby: Family Business,2021,\N,107,13665.0
-9411,tt6951892,Samson,,2018,\N,110,4459.0
-9427,tt7026666,Kurup,,2021,\N,140,5446.0
-9440,tt7085842,The End?,,2017,\N,100,1786.0
-9464,tt7218518,Pád Mán,Padman,2018,\N,140,24374.0
-9466,tt7221772,Seized,,2020,\N,85,1957.0
-9483,tt7282468,Burning,Beoning,2018,\N,148,58476.0
-9501,tt7336182,Outback,Outback,2019,\N,86,1211.0
-9505,tt7342838,Leto,Leto,\N,2018,126,6756.0
-9507,tt7356432,Babam,Babam,2017,\N,130,1673.0
-9515,tt7382730,Luca,,2019,\N,151,1729.0
-9517,tt7387300,Oru Adaar Love,Oru Adaar Love,2019,\N,145,3039.0
-9521,tt7397098,Initiation,,\N,2020,96,
-9525,tt7403570,Two Tails,,\N,2018,75,1146.0
-9547,tt7531096,StarDog and TurboCat,,2019,\N,90,2537.0
-9570,tt7615722,Thé Légénd ớf Hállớwáiián,,2018,\N,82,1371.0
-9611,tt7822758,Kaadan,Kaadan,2021,\N,170,3181.0
-9612,tt7823906,Pớlitics,,2019,\N,134,1068.0
-9626,tt7881550,Har Kisse Ke Hisse: Kaamyaab,,2018,\N,109,4033.0
-9675,tt8061070,My Step Dad: The Hippie,Cici Babam,2018,\N,99,1641.0
-9682,tt8080302,Penguins,Penguins,2019,\N,76,
-9704,tt8160864,Chase,Chase,2019,\N,84,10523.0
-9714,tt8231668,Good on Paper,,2021,\N,92,10271.0
-9726,tt8297300,Fractured,,\N,2016,80,1007.0
-9728,tt8305116,Ayka,Ayka,2018,\N,100,1677.0
-9752,tt8378126,Queen of Hearts,Dronningen,2019,\N,127,10061.0
-9764,tt8413338,Kumbalangi Nights,Kumbalangi Nights,2019,\N,135,12891.0
-9785,tt8563452,Cryptớ,,2019,\N,105,5231.0
-9790,tt8597594,Adverse,,2020,\N,94,15707.0
-9802,tt8667334,Oru Yamandan Premakadha,,2019,\N,165,1029.0
-9811,tt8707374,Hell House LLC II: The Abaddon Hotel,Hell House LLC II: The Abaddon Hotel,2018,\N,83,3873.0
-9816,tt8759834,Selah and the Spades,Selah and the Spades,2019,\N,97,1197.0
-9842,tt8923484,Crip Camp,,2020,\N,106,6990.0
-9845,tt8951058,The Panama Papers,The Panama Papers,2018,\N,96,1428.0
-9848,tt8972256,Grééd,Greed,2019,\N,104,6011.0
-9853,tt8988748,Seventeen,Diecisiete,2019,\N,99,
-9863,tt9015188,Bumperkleef,Bumperkleef,2019,\N,86,2927.0
-9873,tt9072746,Simmer,,2020,\N,96,3189.0
-9874,tt9074318,Son Rise,,2019,\N,49,
-9883,tt9109306,Thé Finál Wish,The Final Wish,2018,\N,95,7667.0
-9914,tt9248110,Blớớd ánd Mớnéy,,2020,\N,89,1919.0
-9932,tt9359344,"Te quiero, imbécil",,2020,\N,87,3140.0
-9936,tt9389916,Digger,Digger,2020,\N,101,1300.0
-9972,tt9664506,The Last Request,,2019,\N,90,
-9974,tt9686154,You Will Die at 20,,2019,\N,103,2106.0
-9976,tt9690328,Pápér Spidérs,Paper Spiders,2020,\N,109,
-9980,tt9735790,Me You Madness,Me You Madness,2021,\N,98,1056.0
-9984,tt9769668,Tughlaq Durbar,Tughlaq Durbar,2021,\N,145,1430.0
-9989,tt9812614,Hope,,2019,\N,130,1402.0
+column0,tconst,primaryTitle,originalTitle,startYear,endYear,runtimeMinutes,numVotes,writers,directors
+158,tt0027336,The Lower Depths,Les bas-fonds,1936,\N,95,3194.0,"nm0331003,nm0759866,nm0173952,nm0719756,nm0816458",nm0719756
+195,tt0029217,Marked Woman,Marked Woman,1937,\N,96,4051.0,"nm0744035,nm0277874,nm0589316","nm0002031,nm0045800"
+328,tt0035169,The Palm Beach Story,,1942,\N,88,11578.0,"nm0002545,nm0480677",nm0002545
+373,tt0037096,Mrs. Parkington,,1944,\N,124,1570.0,"nm0858329,nm1080563,nm0111313,nm0035158,nm0330390,nm0666822,nm0770337",nm0307819
+587,tt0045810,Gentlemen Prefer Blondes,Gentlemen Prefer Blondes,1953,\N,91,35358.0,"nm0496468,nm0276284,nm0002616",nm0001328
+1141,tt0061557,The Deadly Bees,The Deadly Bees,1966,\N,84,1977.0,"nm0088645,nm0550175,nm0372449",nm0005711
+1172,tt0062144,Portrait of Jason,,1967,\N,105,1174.0,\N,nm0164999
+1210,tt0063227,The Lion in Winter,,1968,\N,134,30576.0,nm0063953,nm0367431
+1306,tt0066206,Patton,Patton,1970,\N,172,99376.0,"nm0000338,nm0636002,nm0267018,nm0103357",nm0769874
+1342,tt0066952,"Count Yorga, Vampire","Count Yorga, Vampire",1970,\N,93,2498.0,nm0446059,nm0446059
+1479,tt0070438,The Neptune Factor,,1973,\N,98,1003.0,nm0223207,nm0677951
+1629,tt0075005,The Omen,The Omen,1976,\N,111,114275.0,nm0783544,nm0001149
+1635,tt0075261,Squirm,Squirm,\N,1976,92,,nm0006639,nm0006639
+1711,tt0077636,The Greek Tycoon,,1978,\N,107,2018.0,"nm0557789,nm0920472,nm0277643",nm0496746
+1805,tt0080549,Coal Miner's Daughter,,1980,\N,124,,"nm0725564,nm0528750,nm1557917",nm0000776
+1858,tt0082422,Fruits of Passion,,1981,\N,83,1162.0,"nm0042213,nm0855446,nm0457220",nm0855446
+2004,tt0085601,Go for It,,1983,\N,107,9601.0,nm0053716,nm0005645
+2132,tt0088658,A.K.,,1985,\N,75,1124.0,nm0003408,nm0003408
+2325,tt0093209,Hope and Glory,Hope and Glory,1987,\N,113,13230.0,nm0000958,nm0000958
+2548,tt0098519,Troop Beverly Hills,,1989,\N,105,10046.0,"nm0652398,nm0635873,nm0643315",nm0437596
+2561,tt0099273,City Life,City Life,\N,1990,251,4108.0,"nm0726914,nm0887376,nm9282965","nm0001425,nm0672070,nm0563773,nm0002159,nm0850601,nm0346360,nm0717024,nm0460007,nm0887376,nm0784019,nm9083905,nm0726914,nm0023017"
+2610,tt0100486,Reversal of Fortune,Reversal of Fortune,1990,\N,111,16034.0,"nm0220641,nm0443582",nm0775447
+2698,tt0103295,Swordsman II,,1992,\N,112,4297.0,"nm0149222,nm0150909,nm0849283,nm0007139","nm0155642,nm0867262"
+2835,tt0107478,Made in America,,1993,\N,111,16414.0,"nm0105033,nm0771486,nm0805965",nm0000907
+2996,tt0112427,An Awfully Big Adventure,,1995,\N,112,2765.0,"nm0047748,nm0939606",nm0001565
+3028,tt0113247,La Haine,La haine,1995,\N,98,162601.0,nm0440913,nm0440913
+3268,tt0119219,Goodbye Lover,,1998,\N,102,,"nm0670278,nm0169505,nm0812513",nm0423646
+3329,tt0120381,True Heart,,1999,\N,92,,nm0194274,nm0194274
+3486,tt0143428,Lone Wolf and Cub: Baby Cart in the Land of Demons,Kozure Ôkami: Meifumadô,1973,\N,90,,"nm0463521,nm2919190",nm0593014
+3551,tt0162710,Trick,Trick,1999,\N,89,8636.0,nm0769778,nm0266302
+3573,tt0165494,Ringmaster,,1998,\N,90,5157.0,nm0007075,nm0009053
+3884,tt0245356,Perfume,,2001,\N,106,1023.0,"nm0753382,nm0141281",nm0753382
+3932,tt0252488,Thé Cháớs Cláss Fáiléd thé Cláss,,1976,\N,91,22862.0,"nm0407642,nm0784149",nm0251027
+3954,tt0254703,The Point Men,The Point Men,2001,\N,100,1131.0,"nm0367200,nm0383606",nm0322515
+4060,tt0275309,Dogtown and Z-Boys,,2001,\N,91,12730.0,"nm0672769,nm0824310",nm0672769
+4379,tt0343221,Mother of Mine,,2005,\N,111,4385.0,"nm0007399,nm1283267,nm0439640,nm0878408,nm0897259",nm0405605
+4412,tt0352314,Ek Hasina Thi,,2004,\N,120,7207.0,"nm1437189,nm0791084,nm1381758",nm1437189
+4420,tt0354575,The Five Obstructions,,2003,\N,90,8482.0,"nm1452387,nm1300606,nm0504654,nm0001885","nm0504654,nm0001885"
+4467,tt0364986,Bén & Árthúr,,2002,\N,85,7899.0,nm1371524,nm1371524
+4470,tt0365478,Man with the Screaming Brain,Man with the Screaming Brain,2005,\N,90,5252.0,"nm0132257,nm0329049,nm0000600",nm0132257
+4617,tt0386342,Brothers,,2004,\N,117,11176.0,"nm0081540,nm0421314",nm0081540
+4876,tt0433963,Dárk Ridé,Dark Ride,2006,\N,94,6276.0,"nm0458955,nm0801916",nm0801916
+4962,tt0452664,Party Crashers,Os Penetras,2012,\N,88,1006.0,"nm0905343,nm2834487,nm1492569,nm1985797",nm0905343
+5130,tt0485513,"Main, Meri Patni... Aur Woh!",,2005,\N,129,2312.0,"nm2078683,nm1056425,nm2084603,nm1722737",nm1154600
+5228,tt0762111,Jonestown: The Life and Death of Peoples Temple,,\N,2006,86,5300.0,"nm0809207,nm0908074",nm0625747
+5387,tt0844457,North Face,Nordwand,2008,\N,126,15457.0,"nm1557910,nm0836715,nm0377422,nm1112548,nm0736447",nm0836715
+5449,tt0893509,Blonde and Blonder,Blonde and Blonder,2008,\N,95,,"nm0437490,nm0357816,nm1369442,nm0003826","nm0163706,nm0357816"
+5461,tt0903657,Love & Mercy,,2014,\N,121,38200.0,"nm0610219,nm0503629,nm0933092",nm0688361
+5736,tt10675136,Hell House LLC III: Lake of Fire,,2019,\N,85,2794.0,nm3192191,nm3192191
+5840,tt11084896,Spirit Untamed,Spirit Untamed,2021,\N,88,2884.0,"nm0909233,nm0353929,nm1868375","nm0868871,nm4136807"
+5848,tt11143634,All of Us,,2019,\N,112,1477.0,nm0909429,nm0909429
+5966,tt1153102,The Devil's Ground,The Cycle,2009,\N,89,1559.0,nm0046480,nm0046480
+6710,tt1587729,71: Into the Fire,Pohwasogeuro,2010,\N,120,5374.0,"nm1318193,nm3160046,nm0497565,nm1847973",nm0497565
+6723,tt1596722,Superheroes,,2010,\N,115,1112.0,"nm2289741,nm1899656",nm1899656
+6806,tt1651065,Don't Go in the Woods,Don't Go in the Woods,2010,\N,83,1068.0,"nm0083851,nm0000352,nm0898848",nm0000352
+6972,tt1777612,Demons Never Die,,2011,\N,93,1708.0,nm4183075,nm4183075
+7217,tt2007413,Quick,Kwik,2011,\N,115,1113.0,"nm10176711,nm1758539,nm5371819,nm1082740,nm1760744",nm1760744
+7339,tt2145829,Robot Overlords,Robot Overlords,2014,\N,90,,"nm4821008,nm1229323",nm1229323
+7513,tt2316479,Blúé Igúáná,Blue Iguana,2018,\N,100,2794.0,nm1561205,nm1561205
+7584,tt2378145,Nun,Gas Light,\N,2017,80,1156.0,"nm3285901,nm1146668",nm1146668
+7670,tt2474972,Alien Outpost,,2014,\N,92,6253.0,"nm1910988,nm2085752",nm2085752
+7901,tt2998406,No Stranger Than Love,No Stranger Than Love,2015,\N,89,2711.0,nm0011376,nm3226283
+7960,tt3121860,Backtrack,Backtrack,2014,\N,97,1743.0,nm3981016,nm1468487
+8116,tt3455822,Night Will Fall,,2014,\N,75,3192.0,nm2197925,nm0801885
+8313,tt3814486,"Bloed, Zweet & Tranen",,2015,\N,111,1825.0,"nm0450509,nm5053973,nm0003400,nm1911240",nm5053973
+8548,tt4365412,Nicé Péớplé,Filip & Fredrik presenterar Trevligt folk,2015,\N,100,1391.0,"nm1229568,nm5832876,nm1069543,nm1229296","nm5832876,nm1069543"
+8777,tt4998772,Bedeviled,,2016,\N,91,3190.0,"nm3210041,nm3255161","nm3255161,nm3210041"
+8855,tt5212918,A Bad Idea Gone Wrong,,2017,\N,85,1184.0,nm3268751,nm3268751
+8963,tt5519566,Thé First Mớndáy in Máy,The First Monday in May,2016,\N,90,1659.0,\N,nm1427149
+8980,tt5563782,Followed,,2018,\N,96,2490.0,nm2137838,nm6304969
+9045,tt5710042,Mercy,Mercy,2016,\N,90,3291.0,nm2133655,nm2133655
+9076,tt5779540,Dear Dictator,Dear Dictator,2017,\N,90,4986.0,"nm0011639,nm0843467","nm0011639,nm0843467"
+9082,tt5803528,100% Cớcớ,100% Coco,2017,\N,88,1187.0,"nm0887539,nm5666410,nm7198459,nm8442541",nm0775097
+9151,tt5990066,Bád Mátch,Bad Match,2017,\N,90,4258.0,nm3616958,nm3616958
+9181,tt6083648,Looking Glass,Looking Glass,\N,2018,103,6424.0,nm0710850,nm0006853
+9286,tt6439558,Recep Ivedik 5,,\N,2017,114,15670.0,"nm2201881,nm2204103",nm2204103
+9351,tt6676028,In a Relationship,,2018,\N,92,2475.0,nm4364444,nm4364444
+9403,tt6878378,Vivegam,,2017,\N,149,11738.0,nm2350892,nm2350892
+3,tt0010307,J'accuse!,,1919,\N,166,1692.0,nm0304098,nm0304098
+153,tt0026725,Les Misérables,Les Misérables,1935,\N,108,3512.0,"nm0401076,nm0513744",nm0092915
+255,tt0032215,The Ape,The Ape,1940,\N,62,1803.0,"nm0794280,nm0802561,nm0140958",nm0631438
+266,tt0032551,Thé Grápés ớf Wráth,The Grapes of Wrath,\N,1940,129,89955.0,"nm0425913,nm0825705",nm0000406
+350,tt0036367,So Proudly We Hail!,,1943,\N,126,1700.0,"nm0778818,nm0368807",nm0762263
+415,tt0038934,She-Wolf of London,,1946,\N,61,2603.0,"nm0108579,nm0044831",nm0946391
+492,tt0041694,No Man of Her Own,No Man of Her Own,1950,\N,98,2112.0,"nm0072639,nm0877957,nm0941280,nm0500552",nm0500552
+980,tt0057232,Koroleva benzokolonki,Koroleva benzokolonki,1963,\N,78,,nm1431954,"nm0514816,nm0592807"
+1148,tt0061636,Face to Face,Faccia a faccia,1967,\N,111,2888.0,"nm0813177,nm0006872",nm0813177
+1206,tt0063141,Isadora,Isadora,1968,\N,131,2347.0,"nm0103905,nm0236578,nm0241984,nm0264088,nm0698957,nm0831386",nm0718554
+1257,tt0064494,Eugenie,De Sade 70,\N,1970,87,1596.0,"nm0869935,nm0211381",nm0001238
+1367,tt0067546,Pakeezah,Pakeezah,1972,\N,147,1607.0,"nm0023863,nm0025399",nm0025399
+1398,tt0068284,Blácúlá,,1972,\N,93,6493.0,"nm0868681,nm0462849",nm0186091
+1467,tt0070136,The Great Ecstasy of Woodcarver Steiner,,\N,1974,45,2488.0,nm0001348,nm0001348
+1477,tt0070359,The Mother and the Whore,,1973,\N,217,5356.0,nm0262402,nm0262402
+1520,tt0071695,Lone Wolf and Cub: White Heaven in Hell,,\N,1974,83,3741.0,"nm0463521,nm0463618,nm2919190",nm0475852
+1673,tt0076363,The Many Adventures of Winnie the Pooh,The Many Adventures of Winnie the Pooh,1977,\N,74,34839.0,"nm0590316,nm0166307,nm0942723,nm0314788,nm0040362,nm0027011,nm0841035,nm0075859,nm0166551,nm0382548","nm0522028,nm0718627,nm0789313"
+1752,tt0078966,The China Syndrome,The China Syndrome,1979,\N,122,,"nm0336831,nm0177304,nm0108745",nm0108745
+1756,tt0079013,Cuba,,1979,\N,122,2666.0,nm0939606,nm0504513
+1838,tt0082085,Blow Out,Blow Out,1981,\N,108,,"nm0000361,nm0581785",nm0000361
+1863,tt0082490,Who Pulled the Plug?,Göta kanal eller Vem drog ur proppen?,1981,\N,99,3844.0,nm0412220,nm0412220
+2121,tt0088196,Stréétwisé,,1984,\N,91,2229.0,nm0564625,nm0068385
+2259,tt0091799,Psycho III,Psycho III,1986,\N,93,14210.0,"nm0688279,nm0088645",nm0000578
+2269,tt0091993,SpaceCamp,SpaceCamp,1986,\N,107,14780.0,"nm0337731,nm0593200,nm0047436,nm0931121",nm0934863
+2281,tt0092534,Allan Quatermain and the Lost City of Gold,Allan Quatermain and the Lost City of Gold,1986,\N,99,9340.0,"nm0353584,nm0704164,nm0721825",nm0625379
+2341,tt0093565,Moonstruck,Moonstruck,\N,1987,102,56362.0,nm0788234,nm0422484
+2465,tt0096332,The Unbearable Lightness of Being,,1988,\N,171,35301.0,"nm0475081,nm0140643,nm0442241",nm0442241
+2530,tt0098156,R.O.T.O.R.,R.O.T.O.R.,1987,\N,90,3352.0,"nm0086144,nm0506992",nm0086144
+2562,tt0099364,The Dark Side of the Moon,The Dark Side of the Moon,1990,\N,91,2424.0,"nm0370928,nm0370937",nm0916859
+2579,tt0099720,Guns,,1990,\N,96,1221.0,nm0796477,nm0796477
+2581,tt0099750,Heart Condition,Heart Condition,1990,\N,100,3493.0,nm0663489,nm0663489
+2592,tt0100079,Luther the Geek,,1989,\N,80,,nm0017004,nm0017004
+2625,tt0101264,"Abraxas, Guardian of the Universe",,1990,\N,90,2053.0,nm0006860,nm0006860
+2817,tt0107048,Groundhog Day,Groundhog Day,1993,\N,101,599901.0,"nm0748035,nm0000601",nm0000601
+2905,tt0109579,Death and the Maiden,,1994,\N,103,24140.0,"nm0233557,nm0947913",nm0000591
+3240,tt0118799,Life Is Beautiful,La vita è bella,1997,\N,116,659788.0,"nm0148437,nm0000905",nm0000905
+3334,tt0120550,Zeus and Roxanne,,1997,\N,98,3024.0,nm0070676,nm0004305
+3422,tt0130827,Run Lola Run,,1998,\N,81,194838.0,nm0878756,nm0878756
+3429,tt0131704,Thé Ádvéntúrés ớf Rớcky & Búllwinklé,,2000,\N,92,,"nm0911599,nm0518836",nm0005197
+3616,tt0172543,Hé Diéd with á Féláfél in His Hánd,,2001,\N,107,3561.0,"nm0523154,nm0083658",nm0523154
+3664,tt0182503,Turist Ömer Uzay Yolu'nda,Turist Ömer Uzay Yolu'nda,1973,\N,72,3449.0,"nm0425138,nm0581587",nm0762517
+4148,tt0291988,Intimáté Stớriés,,2002,\N,92,5054.0,nm1258535,nm0815044
+4155,tt0293124,Erkan & Stefan gegen die Mächte der Finsternis,Erkan & Stefan gegen die Mächte der Finsternis,2002,\N,80,1289.0,"nm0918336,nm0460542,nm0602179,nm0527286",nm0002225
+4165,tt0295725,Time Changer,,2002,\N,95,,nm0160126,nm0160126
+4377,tt0342508,Hangman's Curse,,2003,\N,106,2610.0,"nm1285203,nm0533233,nm1948378",nm0956205
+4410,tt0351299,Blind Shaft,Mang jing,2003,\N,92,2620.0,"nm1317258,nm10719658",nm1317258
+4439,tt0360717,King Kong,,2005,\N,187,409833.0,"nm0909638,nm0101991,nm0001392,nm0178260,nm0908624",nm0001392
+4499,tt0369226,Alone in the Dark,Alone in the Dark,2005,\N,99,,"nm0997459,nm1178069,nm1396574",nm0093051
+4518,tt0373445,Thé Wéndéll Bákér Stớry,,2005,\N,99,5787.0,nm0005561,"nm0932992,nm0005561"
+4530,tt0374853,Malice in Wonderland,Malice in Wonderland,2009,\N,87,3180.0,nm0745343,nm1415540
+4550,tt0377569,"Good Morning, Night","Buongiorno, notte",2003,\N,106,3553.0,"nm1583618,nm1563145,nm0069166,nm0149080",nm0069166
+4603,tt0384533,Shé Háté Mé,She Hate Me,2004,\N,138,,"nm0312796,nm0000490",nm0000490
+4777,tt0419279,Yesterday,Yesterday,2004,\N,90,2339.0,nm0740213,nm0740213
+4835,tt0426462,Fifty Pills,Fifty Pills,2006,\N,85,2724.0,nm0674362,nm1027891
+4995,tt0458522,El cantante,,2006,\N,106,4904.0,"nm0406687,nm0201479,nm0069160",nm0406687
+5203,tt0498381,Rings,Rings,2017,\N,102,39692.0,"nm0521649,nm1096524,nm0326040,nm0840626",nm1279573
+5217,tt0757157,A Millionaire's First Love,,2006,\N,116,5141.0,nm1048540,nm1048540
+5240,tt0768222,Night of the Templar,Night of the Templar,\N,2013,101,6631.0,nm0760196,nm0760196
+5280,tt0794399,We're All Christs,Wszyscy jestesmy Chrystusami,2006,\N,107,2458.0,nm0467666,nm0467666
+5372,tt0838254,Cease Fire,Atash bas,2006,\N,104,2600.0,nm0586841,nm0586841
+5457,tt0901481,Eichmann,,2007,\N,96,3239.0,nm0934154,nm0950000
+5519,tt0960097,Wake,Wake,2009,\N,97,1958.0,nm0936436,nm0437802
+5539,tt0978649,Bliss,Mutluluk,2007,\N,105,7616.0,"nm2158573,nm0515101,nm1283973,nm2131780,nm2438657",nm1283973
+5740,tt1068649,I've Loved You So Long,,2008,\N,117,20181.0,nm1061623,nm1061623
+5847,tt11143108,Oh My Kadavule,Oh My Kadavule,2020,\N,151,3558.0,nm11065997,nm11065997
+6164,tt1247690,Serena,Serena,2014,\N,109,28273.0,"nm0477370,nm3047390",nm0081540
+6262,tt1296869,The Keeper,The Keeper,2009,\N,94,4499.0,"nm0083590,nm0000219",nm0915394
+6410,tt1386925,Thé Déád,,2010,\N,105,,"nm0285683,nm1026530","nm1026530,nm0285683"
+6416,tt1391034,And Soon the Darkness,And Soon the Darkness,2010,\N,91,17274.0,"nm1068980,nm1259604,nm0166018,nm0622334",nm1259604
+6523,tt1462014,Surviving Progress,,2011,\N,86,1826.0,"nm0188899,nm1927689","nm1927689,nm0188899"
+6542,tt1478839,The Art of Racing in the Rain,The Art of Racing in the Rain,2019,\N,109,28541.0,"nm0093560,nm0825464",nm0193508
+6583,tt15085794,Untold: Deal with the Devil,Untold: Deal with the Devil,2021,\N,77,1856.0,\N,nm0115269
+6587,tt1509788,Ass Backwards,,2013,\N,85,2336.0,"nm2053085,nm1988111",nm0625245
+6621,tt1533089,Tab Hunter Confidential,,2015,\N,90,3457.0,"nm0002147,nm0612113",nm0777593
+6648,tt1546653,Thé Réd Chápél,Det røde kapel,2009,\N,88,2010.0,\N,nm1366561
+6738,tt16058566,Ớớriki Úttháráná,Ooriki Uttharana,\N,2021,122,1100.0,"nm13121564,nm13121565",nm9511013
+6755,tt1615075,Suing the Devil,,2011,\N,106,3989.0,nm0156828,nm0156828
+6789,tt1640548,Rampart,,\N,2011,108,23816.0,"nm0255278,nm0610219",nm0610219
+6855,tt1680136,Klown,,2010,\N,93,10847.0,"nm0159745,nm0404809,nm1031708",nm1031708
+6962,tt1764657,Thé Gréát Whité Siléncé,,1922,\N,80,1193.0,\N,nm0690677
+7019,tt1813609,A Haunting at Silver Falls,,2013,\N,96,,"nm1359191,nm0519154,nm4256393",nm0233078
+7378,tt2181889,Death Do Us Part,Death Do Us Part,2014,\N,93,1057.0,"nm3149293,nm1193045,nm1365460",nm2288083
+7436,tt2236160,Nightlight,,2015,\N,85,2139.0,"nm1399714,nm1456816","nm1456816,nm1399714"
+7451,tt2246595,Blood Money,Blood Money,2012,\N,109,1519.0,"nm2262560,nm1300956,nm3179723",nm2262560
+7509,tt2313189,Casting Couch,Casting Couch,2013,\N,94,3065.0,nm0770647,nm0770647
+7974,tt3142688,Finding Fanny,Finding Fanny,2014,\N,102,6353.0,"nm1223294,nm1802643",nm1223294
+8291,tt3748512,Hitchcock/Truffaut,,2015,\N,79,6359.0,"nm2719270,nm0869470",nm2719270
+8400,tt4024814,Fúcking Bérlin,Fucking Berlin,2016,\N,94,2045.0,"nm3198612,nm4344658,nm2264935,nm5111029,nm5409140",nm2264935
+8452,tt4143508,Lớng Strángé Trip,,2017,\N,238,1586.0,\N,nm0052737
+8543,tt4341582,Queen of Katwe,Queen of Katwe,2016,\N,124,16760.0,"nm0923980,nm1885371",nm0619762
+8713,tt4836110,Emilia,,2017,\N,120,1254.0,nm3556602,nm3406099
+8783,tt5034474,The Assignment,,2016,\N,95,8159.0,"nm0001353,nm0357671",nm0001353
+8788,tt5041296,Muse,Muse,2017,\N,107,3441.0,"nm7637686,nm0049371,nm3281140",nm0049371
+8936,tt5460658,Life and a Day,Abad va yek rooz,\N,2016,112,12956.0,nm7920254,nm7920254
+8952,tt5483626,Enai Noki Paayum Thota,,2019,\N,153,1713.0,nm1069826,nm1069826
+9031,tt5689068,Killing Gunther,Killing Gunther,2017,\N,92,13030.0,nm0453115,nm0453115
+9043,tt5707304,Mother,,2016,\N,95,1495.0,nm2746751,nm2746751
+9047,tt5716380,Thumper,,2017,\N,93,2830.0,nm0743555,nm0743555
+9427,tt7026666,Kurup,,2021,\N,140,5446.0,"nm10358454,nm11404456,nm11179683,nm10358453,nm1195712",nm4921095
+9842,tt8923484,Crip Camp,,2020,\N,106,6990.0,"nm0495898,nm1011820,nm3251765","nm0495898,nm1011820"
+9914,tt9248110,Blớớd ánd Mớnéy,,2020,\N,89,1919.0,"nm0056527,nm0677491",nm0056527
+167,tt0027672,Sisters of the Gion,,1936,\N,69,2621.0,"nm0475520,nm0003226,nm0406808",nm0003226
+210,tt0030044,The Dawn Patrol,,\N,1938,103,,"nm0589316,nm0869371,nm0766850,nm0001328",nm0332539
+256,tt0032234,The Bank Dick,The Bank Dick,1940,\N,72,7073.0,"nm0001211,nm0140958",nm0166836
+372,tt0037094,Mr. Skeffington,,1944,\N,146,5872.0,"nm0258493,nm0258525,nm0901896",nm0792605
+495,tt0041746,Pinky,,1949,\N,102,2986.0,"nm0838865,nm0242897,nm0629580,nm0001415,nm5234602","nm0001415,nm0000406"
+537,tt0043545,Flight to Mars,Flight to Mars,\N,1951,72,1108.0,"nm0833949,nm0866238",nm0782947
+588,tt0045814,A Geisha,,1953,\N,85,2009.0,"nm0442736,nm0406808",nm0003226
+758,tt0051980,The Ballad of Narayama,,\N,1958,98,3211.0,"nm0265792,nm0455839",nm0455839
+1062,tt0059415,Á Blớndé in Lớvé,Lásky jedné plavovlásky,\N,1965,88,8329.0,"nm0001232,nm0660522,nm0664852,nm0765859",nm0001232
+1187,tt0062671,The Anniversary,,1968,\N,95,2537.0,"nm0762727,nm0532805",nm0001928
+1839,tt0082088,Blớớd Wédding,,1981,\N,72,1730.0,"nm0300565,nm0305030,nm0563749,nm0767022",nm0767022
+2107,tt0087810,No Small Affair,,1984,\N,102,2181.0,"nm0093271,nm0611689",nm0770234
+2445,tt0095916,Promised Land,,1987,\N,102,1341.0,nm0001355,nm0001355
+2586,tt0099871,Jacob's Ladder,,1990,\N,113,104340.0,nm0748022,nm0001490
+2590,tt0100049,Longtime Companion,Longtime Companion,1989,\N,96,5654.0,nm0524108,nm0720000
+2736,tt0104706,Lessons of Darkness,Lektionen in Finsternis,1992,\N,54,5791.0,nm0001348,nm0001348
+2788,tt0106330,From Karkheh to Rhein,Az Karkheh ta Rhein,1993,\N,93,2738.0,nm0368690,nm0368690
+2924,tt0110027,Highlander: The Final Dimension,Highlander III: The Sorcerer,1994,\N,99,20708.0,"nm0927074,nm0592436,nm0659949,nm0645017,nm0544528",nm0602452
+3076,tt0114443,Final Hour,,1995,\N,83,1179.0,nm0433832,nm0773108
+3253,tt0119055,The Eighteenth Angel,The Eighteenth Angel,1997,\N,95,1590.0,nm0783544,nm0082841
+3341,tt0120626,April Captains,,2000,\N,123,,"nm0210218,nm0213476",nm0210218
+3414,tt0129659,Train Birds,Zugvögel - ... einmal nach Inari,1998,\N,87,1206.0,"nm0508998,nm2000123",nm0508998
+3699,tt0190611,Captain Pantoja and the Special Services,Pantaleón y las visitadoras,1999,\N,137,2471.0,"nm0597652,nm0689521,nm0889771",nm0518363
+3818,tt0228687,Gréédy Gúts,Otesánek,2000,\N,132,6312.0,"nm0258652,nm0840905",nm0840905
+3833,tt0234217,Clouds of May,,1999,\N,130,5971.0,nm0149196,nm0149196
+4033,tt0269857,Real Fiction,Shilje sanghwang,2000,\N,82,1438.0,nm1104118,nm1104118
+4037,tt0270707,The Truth About Charlie,The Truth About Charlie,\N,2002,104,10364.0,"nm0832099,nm0001129,nm0773206,nm0070566",nm0001129
+4116,tt0285492,Cube²: Hypercube,Cube 2: Hypercube,2002,\N,94,65946.0,"nm0393517,nm0053228,nm0572369",nm0782900
+4249,tt0313670,Sweet Sixteen,Sweet Sixteen,2002,\N,106,14949.0,nm0491956,nm0516360
+4285,tt0321781,Cremaster 3,Cremaster 3,2002,\N,182,1434.0,nm0056030,nm0056030
+4312,tt0327920,I Am Trying to Break Your Heart,I Am Trying to Break Your Heart,2002,\N,92,2092.0,\N,nm1215448
+4468,tt0365089,The Red Colored Grey Truck,Sivi kamion crvene boje,2004,\N,95,5197.0,nm0464123,nm0464123
+4480,tt0366996,The Saddest Music in the World,,2003,\N,100,,"nm0410958,nm0866014,nm0534665",nm0534665
+4491,tt0368658,Stage Beauty,Stage Beauty,2004,\N,106,10285.0,nm0368774,nm0264236
+4539,tt0375997,Nandha,,2001,\N,165,2285.0,nm1220246,nm1220246
+4613,tt0385928,Panchatanthiram,,2002,\N,150,3523.0,"nm0352032,nm1190372,nm0433893,nm5635145",nm0433893
+4834,tt0426396,Alien Abduction,,2005,\N,96,1410.0,nm0286790,nm0286790
+4956,tt0451284,"Yớúng, Singlé & Ángry","Young, Single & Angry",2006,\N,91,4030.0,nm0913954,nm1733624
+5025,tt0465551,Notes on a Scandal,Notes on a Scandal,2006,\N,92,76910.0,"nm0544999,nm0375398",nm0264236
+5031,tt0466713,Military Academy,Kein Bund fürs Leben,2007,\N,85,1469.0,"nm0298756,nm0377153,nm0517282,nm2047532,nm2047699",nm0377153
+5394,tt0847895,S.O.S. szerelem!,S.O.S. szerelem!,\N,2007,96,1010.0,"nm2563364,nm2146818,nm2362159",nm0765761
+5454,tt0899106,Love Happens,,2009,\N,109,32508.0,"nm0131969,nm0860513",nm0131969
+5528,tt0970416,The Day the Earth Stood Still,The Day the Earth Stood Still,2008,\N,104,167730.0,"nm0769227,nm0636002",nm0220600
+5565,tt0991174,Ingenious,Ingenious,2009,\N,85,1962.0,nm2596977,nm0051156
+5704,tt10532840,Who Killed Garrett Phillips?,Who Killed Garrett Phillips?,2019,\N,186,2162.0,nm0963124,nm0305017
+6482,tt1431045,Deadpool,,2016,\N,108,963644.0,"nm1014201,nm1116660",nm1783265
+6572,tt1501298,Kattradhu Thamizh,Kattradhu Thamizh,\N,2007,147,3030.0,nm3591496,nm3591496
+6577,tt1504300,The Parking Lot Movie,,2010,\N,74,1952.0,\N,nm4033941
+6707,tt1584943,Dark Space,Dark Space,2013,\N,91,1074.0,nm2269581,nm2269581
+6717,tt1590796,Mutant Girls Squad,,2010,\N,89,1836.0,"nm1175724,nm2716655","nm1175724,nm1883583,nm1056120"
+6941,tt1742334,Sabotage,Sabotage,2014,\N,109,,"nm0940790,nm0043742",nm0043742
+6959,tt1764366,Hollywood Sex Wars,,2011,\N,106,7212.0,nm1957032,nm1957032
+7154,tt1935109,Dipu Number 2,Dipu Number 2,1996,\N,154,,nm4465031,nm0411259
+7327,tt2124803,How to Survive a Plague,How to Survive a Plague,2012,\N,110,4027.0,"nm0289800,nm0725063,nm2398815,nm0649165,nm1321547,nm0935829",nm0289800
+7567,tt2368672,Minuscule: Valley of the Lost Ants,,2013,\N,89,8125.0,"nm0843604,nm0320784","nm0320784,nm0843604"
+7792,tt2749296,The Beautiful Risk,,2013,\N,91,11595.0,nm1497931,nm1497931
+7796,tt2753778,The Death of Superman Lives: What Happened?,The Death of Superman Lives: What Happened?,\N,2015,104,4396.0,nm0774143,nm0774143
+7857,tt2910904,The Dressmaker,The Dressmaker,\N,2015,119,,"nm5672426,nm0602104,nm0389591",nm0602104
+7936,tt3065204,The Conjuring 2,,2016,\N,134,253481.0,"nm0370937,nm0370928,nm1490123,nm0424901",nm1490123
+8091,tt3398252,Samurai Cop 2: Deadly Vengeance,,2015,\N,94,4447.0,"nm3973908,nm0950123,nm0368693,nm0792763",nm0368693
+8175,tt3541524,Line of Duty,Line of Duty,2019,\N,98,6728.0,nm1268290,nm1921345
+8250,tt3692652,Eloise,,2016,\N,89,4143.0,nm0096319,nm0499215
+8276,tt3732950,Body,,2015,\N,75,2067.0,"nm3228270,nm1793586","nm3228270,nm1793586"
+8350,tt3896100,Cáptúré thé Flág,Atrapa la bandera,2015,\N,94,3683.0,"nm0309027,nm0529787,nm0484475,nm0025538,nm3137073",nm1955897
+8412,tt4060544,Step Up China,Step Up China,2019,\N,100,3534.0,nm8276452,nm0950620
+8599,tt4497338,Interrogation,Interrogation,2016,\N,93,,"nm3360218,nm0734841",nm3893748
+8681,tt4733536,American Hero,,2015,\N,86,4134.0,nm0522393,nm0522393
+8715,tt4846340,Hidden Figures,,\N,2016,127,215094.0,"nm2284377,nm0577647,nm7446421",nm0577647
+8890,tt5278930,Sky Ladder: The Art of Cai Guo-Qiang,Sky Ladder: The Art of Cai Guo-Qiang,2016,\N,76,1384.0,\N,nm0531817
+8983,tt5566778,Island Zero,,2018,\N,99,1346.0,nm2446740,nm8011325
+9158,tt6015706,China Salesman,,2017,\N,110,1464.0,"nm8399396,nm1471121",nm8399396
+9166,tt6051096,The Axiom,,2018,\N,98,6819.0,nm4312760,nm4312760
+9626,tt7881550,Har Kisse Ke Hisse: Kaamyaab,,2018,\N,109,4033.0,"nm2974975,nm3155648",nm3155648
+9726,tt8297300,Fractured,,\N,2016,80,1007.0,"nm5755729,nm5211649,nm4335588",nm4335588
+9752,tt8378126,Queen of Hearts,Dronningen,2019,\N,127,10061.0,"nm0477622,nm1392439",nm1392439
+9848,tt8972256,Grééd,Greed,2019,\N,104,6011.0,"nm0935863,nm2366133",nm0935863
+18,tt0014429,Safety Last!,Safety Last!,1923,\N,74,19898.0,"nm0730018,nm0853130,nm0924065,nm0907778,nm0369841,nm0516001","nm0628345,nm0853130"
+27,tt0015175,Die Nibelungen: Siegfried,,1924,\N,143,5676.0,"nm0000485,nm0902376",nm0000485
+359,tt0036818,The Punch Bowl,Die Feuerzangenbowle,1944,\N,97,5967.0,nm0819293,nm0919012
+379,tt0037462,The White Cliffs of Dover,,1944,\N,126,1611.0,"nm0921995,nm0527331,nm0296207,nm0002317,nm0622251",nm0113284
+416,tt0038948,Sistér Kénny,,1946,\N,116,1117.0,"nm0629580,nm0461594,nm2314820,nm0448566,nm0652314",nm0629580
+464,tt0040558,Macbeth,Macbeth,1948,\N,107,6886.0,"nm0000636,nm0000080",nm0000080
+554,tt0044357,Angel Face,,1953,\N,91,7552.0,"nm0637793,nm0587743,nm0259838,nm0372942",nm0695937
+650,tt0048445,Oklahoma!,Oklahoma!,1955,\N,145,12294.0,"nm0397022,nm0525067,nm0006256,nm0358564,nm0726704",nm0003593
+741,tt0051383,Auntie Mame,Auntie Mame,1958,\N,143,11047.0,"nm0173679,nm0337582,nm0219532",nm0196536
+827,tt0053579,Late Autumn,Akibiyori,1960,\N,128,5190.0,"nm1516268,nm0633792,nm0654868",nm0654868
+862,tt0054215,Psycho,,1960,\N,109,638539.0,"nm0825010,nm0088645",nm0000033
+976,tt0057171,"Yesterday, Today and Tomorrow",Ieri oggi domani,1963,\N,114,8665.0,"nm0208370,nm0702898,nm0603179,nm0953790,nm0082303,nm1066919",nm0001120
+1031,tt0058500,The Pumpkin Eater,The Pumpkin Eater,1964,\N,118,2405.0,"nm0607890,nm0056217",nm0002338
+1114,tt0061015,Spinout,Spinout,1966,\N,90,,"nm0282291,nm0456353",nm0851537
+1228,tt0063663,Thé Swimmér,The Swimmer,1968,\N,95,,"nm0675052,nm0154940","nm0675068,nm0001628"
+1295,tt0065938,Kélly's Hérớés,,1970,\N,144,47763.0,nm0448392,nm0404606
+1492,tt0070707,Sleeper,Sleeper,1973,\N,89,42397.0,"nm0000095,nm0108613",nm0000095
+1728,tt0078238,Sextette,,1977,\N,91,1407.0,"nm0048511,nm0922213",nm0400731
+1803,tt0080516,The Changeling,,1980,\N,107,33163.0,"nm0403028,nm0337008,nm0534701",nm0575389
+1811,tt0080802,Thé Gớdsénd,,1980,\N,86,1072.0,"nm0690905,nm0852033",nm0064593
+1956,tt0084597,Richard Pryor: Live on the Sunset Strip,,1982,\N,82,4081.0,"nm0600763,nm0001640",nm0493615
+2230,tt0091178,Haunted Honeymoon,Haunted Honeymoon,1986,\N,82,7163.0,"nm0000698,nm0550671",nm0000698
+2275,tt0092225,Wisdom,,1986,\N,109,3308.0,nm0000389,nm0000389
+2276,tt0092226,Wisé Gúys,,\N,1986,100,5700.0,"nm0303032,nm0825799",nm0000361
+2493,tt0097388,Friday the 13th Part VIII: Jason Takes Manhattan,Friday the 13th Part VIII: Jason Takes Manhattan,\N,1989,100,36672.0,"nm0373154,nm0566699",nm0373154
+2538,tt0098320,Shocker,Shocker,1989,\N,109,15971.0,nm0000127,nm0000127
+2607,tt0100436,Pump Up the Volume,Pump Up the Volume,1990,\N,102,27790.0,nm0610496,nm0610496
+2750,tt0104969,The Naked Truth,,1992,\N,92,1346.0,"nm0254945,nm0557789",nm0557789
+2803,tt0106579,"Clean, Shaven","Clean, Shaven",1993,\N,79,5459.0,nm0449868,nm0449868
+2946,tt0110353,Lightning Jack,Lightning Jack,1994,\N,98,,nm0001357,nm0934578
+3000,tt0112461,The Basketball Diaries,,1995,\N,102,107119.0,"nm0140860,nm0326734",nm0436284
+3108,tt0115640,Beautiful Thing,Beautiful Thing,1996,\N,90,23685.0,nm1281893,nm0531751
+3490,tt0144084,American Psycho,American Psycho,2000,\N,101,536979.0,"nm0254735,nm0366004,nm0877587",nm0366004
+3667,tt0183459,Mádén,Maden,1978,\N,90,1360.0,"nm1320547,nm0960253",nm0960253
+3672,tt0185125,Áll Ábớút My Mớthér,Todo sobre mi madre,\N,1999,101,93709.0,nm0000264,nm0000264
+3703,tt0192407,Otto - Der Katastrofenfilm,,2000,\N,92,1442.0,"nm0251760,nm0074920,nm0905102",nm0648740
+3764,tt0210382,Thé Wéight ớf Wátér,The Weight of Water,2000,\N,114,9368.0,"nm0795370,nm0035146,nm0477370",nm0000941
+3812,tt0225071,Ángél Éyés,Angel Eyes,2001,\N,102,,nm0224187,nm0001502
+3822,tt0230169,Ed Gein,In the Light of the Moon,2000,\N,89,5308.0,nm0426848,nm0661257
+3882,tt0244528,Hadh Kar Di Aapne,Hadh Kar Di Aapne,2000,\N,134,1833.0,"nm0415840,nm0442396,nm0451168,nm0661494",nm0013288
+3922,tt0251355,Pushpaka Vimana,Pushpaka Vimana,1987,\N,125,3416.0,nm0801870,nm0801870
+3925,tt0252269,Bekçiler Krali,Bekçiler Krali,1979,\N,82,6227.0,nm0781261,nm0781261
+4020,tt0267261,Black Angel,Senso '45,2002,\N,128,1846.0,"nm0092436,nm0000972",nm0000972
+4039,tt0270891,Costa!,,2001,\N,95,2439.0,"nm0462773,nm0631590",nm0631590
+4310,tt0327643,Dirty Love,Dirty Love,2005,\N,91,7090.0,nm0000189,nm0038875
+4405,tt0350194,Teacher's Pet,Teacher's Pet,2004,\N,73,1750.0,"nm0059718,nm0826137,nm0251482",nm0074723
+4411,tt0351795,Ripoux 3,,2003,\N,105,,"nm0584770,nm0956022",nm0956022
+4446,tt0361696,Raise Your Voice,Raise Your Voice,2004,\N,107,27592.0,"nm1112597,nm1368026",nm0573732
+4590,tt0382383,Yuva,Yuva,\N,2004,161,8763.0,"nm0440604,nm0711745",nm0711745
+4870,tt0432318,Livé Fréé ớr Dié,,\N,2006,89,2471.0,"nm0442646,nm0732165","nm0442646,nm0732165"
+4927,tt0445946,The Contract,The Contract,\N,2006,96,24411.0,"nm0441859,nm1847822",nm0000915
+5527,tt0968712,Zérớ. Lilác Lithúániá,,2006,\N,82,2297.0,"nm0696888,nm2543774",nm2543774
+5628,tt10244008,Ghost,,2020,\N,85,1650.0,nm4032740,nm4032740
+5681,tt10441958,How to Be a Good Wife,,2020,\N,109,1554.0,"nm0699095,nm1760648",nm0699095
+6084,tt1204883,Boogeyman 3,,2008,\N,93,4821.0,"nm0797321,nm0471392",nm0428109
+6674,tt1568139,You Got Served: Beat the World,Beat the World,\N,2011,91,1942.0,nm0011950,nm0011950
+6800,tt1650044,The Facility,,2012,\N,80,,nm1427994,nm1427994
+6944,tt1745710,Gore Vidal: The United States of Amnesia,Gore Vidal: The United States of Amnesia,2013,\N,83,1267.0,\N,nm1050748
+7056,tt1836974,Ecstasy of Order: The Tetris Masters,Ecstasy of Order: The Tetris Masters,2011,\N,93,1508.0,nm5396536,nm3231469
+7088,tt1862472,Kolpaçino: Bomba,Kolpaçino: Bomba,2011,\N,92,6807.0,nm0786919,nm0786919
+7118,tt1891905,Séá Lévél,,\N,2011,93,1095.0,nm4459508,nm4756103
+7222,tt2014260,Jihne Mera Dil Luteya,Jihne Mera Dil Luteya,2011,\N,135,1024.0,nm3057599,nm4562662
+7232,tt2034800,The Great Wall,The Great Wall,2016,\N,103,130506.0,"nm0076166,nm1215164,nm0006904,nm0112150,nm0001880,nm0380980",nm0955443
+7281,tt2081194,Hánsél & Grétél Gét Bákéd,,\N,2013,86,3632.0,nm1196692,nm0431172
+7293,tt2085783,Deool,Deool,2011,\N,135,1560.0,nm2971390,nm2975950
+7950,tt3101132,Ghớúl,,2015,\N,86,1843.0,"nm0991504,nm1362893",nm1362893
+8345,tt3885524,The Phenom,,2016,\N,88,2241.0,nm1231757,nm1231757
+8490,tt4209174,Chimera Strain,Chimera Strain,2018,\N,80,3209.0,nm6921776,nm6921776
+8671,tt4717194,Wizard School,,2015,\N,91,3604.0,nm7355036,nm7355036
+9080,tt5792472,Take the 10,Take the 10,2017,\N,80,3026.0,nm1811747,nm1811747
+9086,tt5805752,Brigsby Bear,Brigsby Bear,2017,\N,97,16344.0,"nm8213708,nm3324982",nm5050824
+9379,tt6814914,Journey from Greece,Djam,\N,2017,97,1758.0,nm0309697,nm0309697
+9704,tt8160864,Chase,Chase,2019,\N,84,10523.0,nm2751807,nm2751807
+9972,tt9664506,The Last Request,,2019,\N,90,,"nm2348718,nm7684256",nm2348718
+214,tt0030287,Jézébél,,1938,\N,104,13070.0,"nm0728002,nm0277874,nm0001379,nm0205244,nm0118758,nm0248994",nm0943758
+223,tt0031147,Chárlié Chán át Tréásúré Islánd,,1939,\N,74,,"nm0488295,nm0081788",nm0287988
+569,tt0045073,Red Planet Mars,Red Planet Mars,1952,\N,87,1275.0,"nm0049721,nm0892044,nm0387501",nm0395105
+653,tt0048491,Picnic,,1955,\N,115,8559.0,"nm0850168,nm0408718",nm0517597
+737,tt0051077,Thé Thréé Fácés ớf Évé,,1957,\N,91,7672.0,"nm0425913,nm0858099,nm0165918",nm0425913
+828,tt0053598,Thé Lớvés ớf Hércúlés,,1960,\N,102,,"nm0176420,nm0233631,nm0541333",nm0103855
+882,tt0054665,The Fabulous Baron Munchausen,Baron Prásil,1962,\N,83,,"nm0106404,nm0119279,nm0435079,nm0711474,nm0954724",nm0954724
+1267,tt0064952,The Secret of Santa Vittoria,The Secret of Santa Vittoria,1969,\N,139,3577.0,"nm0187785,nm0741740,nm0534693",nm0006452
+1277,tt0065241,The Joke,,\N,1969,80,1430.0,"nm0090076,nm0423180,nm0475081",nm0423180
+1311,tt0066449,There's a Girl in My Soup,There's a Girl in My Soup,1970,\N,95,,"nm0295819,nm0466777",nm0099592
+1423,tt0068897,The Magnificent Seven Ride!,,1972,\N,100,,nm0746473,nm0566671
+1527,tt0071994,Phantom of the Paradise,,1974,\N,91,,"nm0000361,nm0741544",nm0000361
+1536,tt0072685,The Battle of Chile: Part I,,\N,1975,97,1348.0,"nm5817596,nm0006657,nm1354943,nm0305651,nm0350099",nm0350099
+1718,tt0077740,Insiang,,1976,\N,95,1294.0,"nm0641300,nm0031396",nm0110653
+1778,tt0079766,Quadrophenia,Quadrophenia,1979,\N,120,18413.0,"nm0402039,nm0826369,nm0734466,nm0870175",nm0734466
+2054,tt0086449,To All a Goodnight,,1980,\N,87,1554.0,nm0714220,nm0381450
+2083,tt0087130,DEFCON-4,,1985,\N,88,1947.0,nm0233050,"nm0233050,nm1779938,nm0709752"
+2283,tt0092549,Miami Connection,,1987,\N,83,5261.0,"nm0661919,nm0453723,nm1693504","nm0661919,nm0453723"
+2328,tt0093231,Hunk,,1987,\N,102,1393.0,nm0060347,nm0060347
+2800,tt0106519,Carlito's Way,Carlito's Way,1993,\N,144,210518.0,"nm0868620,nm0462895",nm0000361
+2805,tt0106684,Deadfall,,1993,\N,98,3272.0,"nm0178876,nm0885014",nm0178876
+2807,tt0106753,Doppelganger,,1993,\N,104,3670.0,nm0383605,nm0383605
+2936,tt0110216,Junior,Junior,1994,\N,109,67572.0,"nm0905458,nm0175620",nm0718645
+2945,tt0110329,Leprechaun 2,,1994,\N,85,9953.0,"nm0428751,nm0583397,nm0784682",nm0281869
+3021,tt0112895,Dr. Jekyll and Ms. Hyde,,1995,\N,100,2820.0,"nm0002606,nm0424243,nm0124700,nm0204030,nm0651758,nm0829044",nm0002606
+3057,tt0113851,Moonlight and Valentino,,1995,\N,105,3672.0,nm0800124,nm0000770
+3276,tt0119305,Homegrown,Homegrown,1998,\N,102,4719.0,"nm0711241,nm0350455,nm0443582",nm0350455
+3301,tt0119822,As Good as It Gets,,1997,\N,139,,"nm0029125,nm0000985",nm0000985
+3408,tt0128292,Buttoners,Knoflíkári,1997,\N,102,1705.0,nm0954500,nm0954500
+3572,tt0165473,Démớns,Shura,1971,\N,134,2095.0,"nm0875472,nm8953333,nm0559564",nm0559564
+3768,tt0211126,Zakhm,,1998,\N,125,3129.0,"nm0080315,nm0151511,nm0223475",nm0080315
+3919,tt0250720,See Spot Run,See Spot Run,2001,\N,94,9143.0,"nm0303032,nm0201304,nm7971037,nm0264470,nm0212997,nm0588986,nm0316736,nm0864471",nm0925870
+3923,tt0251447,The Tunnel,Der Tunnel,2001,\N,150,6146.0,nm0079487,nm0725345
+3973,tt0259308,Felix the Cat: The Movie,,1988,\N,82,1444.0,"nm0649865,nm0114421,nm0649866",nm0379797
+4000,tt0264578,The Endurance,The Endurance: Shackleton's Legendary Antarctic Expedition,2000,\N,97,1975.0,"nm0018311,nm0233771",nm1000159
+4064,tt0276613,Wáiting fớr Gớdớt,,2001,\N,120,1401.0,nm0065716,nm0512327
+4228,tt0308514,Lớst in Lá Mánchá,,2002,\N,93,11578.0,"nm0298488,nm0672492","nm0672492,nm0298488"
+4266,tt0316463,Québec-Montréal,Québec-Montréal,2002,\N,104,1767.0,"nm1203798,nm1167277,nm1168135",nm1168135
+4329,tt0331811,11:14,,2003,\N,86,46904.0,nm1009775,nm1009775
+4380,tt0343818,"I, Rớbớt","I, Robot",2004,\N,115,519555.0,"nm0899113,nm0326040,nm0001920",nm0001639
+4383,tt0345128,The Gleaners and I: Two Years Later,Les glaneurs et la glaneuse... deux ans après,2002,\N,63,1056.0,\N,nm0889513
+4395,tt0347618,The Cat Returns,,2002,\N,75,53464.0,"nm0383707,nm1027089,nm1248357,nm1248358",nm1293863
+4508,tt0370263,Alien vs. Predator,AVP: Alien vs. Predator,2004,\N,101,192081.0,"nm0639321,nm0795953,nm0859029,nm0859049,nm0027271",nm0027271
+4666,tt0396659,InuYasha the Movie 3: Swords of an Honorable Ruler,Inuyasha - Tenka hadou no ken,2003,\N,99,2156.0,"nm0838572,nm0847186",nm0794000
+4753,tt0414879,The Black Box,La boîte noire,2005,\N,90,1778.0,"nm0039903,nm0070152,nm0006939",nm0006939
+4877,tt0434424,Undiscovered,,2005,\N,97,2851.0,nm1922703,nm0043214
+4884,tt0436262,Ellie Parker,,2005,\N,95,4623.0,nm0168892,nm0168892
+4994,tt0458449,The Other Half,The Other Half,2006,\N,94,1009.0,"nm1916491,nm1912285","nm1912285,nm1916491"
+5154,tt0489062,Going to Pieces: The Rise and Fall of the Slasher Film,Going to Pieces: The Rise and Fall of the Slasher Film,\N,2006,88,3476.0,"nm3335558,nm0069401,nm0092200,nm2098346,nm0768800",nm1371451
+5201,tt0498353,Hostel: Part II,Hostel: Part II,2007,\N,94,88456.0,nm0744834,nm0744834
+5311,tt0808510,Tooth Fairy,Tooth Fairy,2010,\N,101,44890.0,"nm0304665,nm0541632,nm0827985,nm0893262,nm0802020,nm0682063",nm0501185
+5312,tt0808532,Hacking Democracy,,2006,\N,82,1292.0,\N,"nm0584485,nm0034096"
+5445,tt0892425,Before Flying Back to Earth,Pries parskrendant i zeme,2005,\N,52,1165.0,\N,nm1644484
+5467,tt0910970,WALL·E,,2008,\N,98,1054233.0,"nm0004056,nm0230032,nm0714114",nm0004056
+5686,tt1046930,Headless Horseman,Headless Horseman,2007,\N,87,1076.0,"nm0091602,nm0003116,nm0410331",nm0003116
+5687,tt1046936,Húrt,,2009,\N,97,1543.0,"nm1064772,nm0826814,nm0552455,nm2037687",nm0826814
+5770,tt1082601,Fighting,,2009,\N,105,32819.0,"nm0612855,nm1996918",nm1996918
+6082,tt1203517,The Graves,The Graves,2009,\N,88,2077.0,nm0700335,nm0700335
+6244,tt12888462,My Octopus Teacher,,2020,\N,85,46791.0,"nm11813828,nm1624755","nm1624755,nm11813828"
+6344,tt13428402,Stand by Me Doraemon 2,Stand by Me Doraemon 2,2020,\N,96,2672.0,"nm0297742,nm0945724","nm2395339,nm0945724"
+6385,tt1368439,Gagma napiri,,2009,\N,90,1210.0,"nm0406534,nm0653768,nm0789394",nm0653768
+6780,tt1633356,Shark Night,Shark Night 3D,\N,2011,90,25664.0,"nm1974551,nm3864204",nm0254786
+6822,tt1662293,Nothing Left to Fear,Nothing Left to Fear,2013,\N,100,4941.0,nm3073696,nm1913201
+6829,tt1664664,Hiddén 3D,,2011,\N,81,1800.0,"nm3954698,nm3955350,nm0047798,nm0851016",nm3936005
+7013,tt1807950,Love Likes Coincidences,,2011,\N,118,18381.0,nm2898305,nm0814716
+7559,tt2363181,Alpha Alert,Event 15,2013,\N,84,1197.0,"nm5389461,nm3280651,nm1434014",nm1434014
+7601,tt2395199,Enemies Closer,,2013,\N,85,5906.0,"nm2147473,nm5077339",nm0001382
+7784,tt2722504,Sr. Pig,Sr. Pig,2016,\N,100,1200.0,"nm0526019,nm1754539",nm0526019
+7937,tt3075360,Googly,Googly,\N,2013,136,,nm5824384,nm5824384
+8396,tt4016226,Thé Résúrréctiớn ớf Jáké thé Snáké,The Resurrection of Jake the Snake,2015,\N,93,3074.0,\N,nm3201804
+8476,tt4185572,The Hunting Ground,The Hunting Ground,2015,\N,103,6239.0,nm0225269,nm0225269
+8629,tt4591732,Mihrez: Cin Padisahi,,2015,\N,101,1816.0,nm5662493,nm5662493
+8658,tt4680980,Lavender,,2016,\N,92,6815.0,"nm4712351,nm1424878",nm1424878
+8844,tt5168832,After Porn Ends 2,After Porn Ends 2,2017,\N,90,2585.0,\N,nm1910738
+8922,tt5420886,Walking Out,,2017,\N,95,6157.0,"nm0807243,nm0807312,nm6460966","nm0807312,nm0807243"
+8957,tt5503688,6 Below: Miracle on the Mountain,,2017,\N,98,7170.0,"nm1191340,nm9230450,nm3282193",nm0915304
+8982,tt5566714,Háwáii,,2017,\N,116,1171.0,"nm1028575,nm0270606,nm1410980,nm2534644",nm1028575
+9058,tt5735280,It Stains the Sands Red,It Stains the Sands Red,\N,2016,92,4837.0,"nm4017355,nm3425513",nm4017355
+9068,tt5767628,Kill 'Em All,,2017,\N,100,2470.0,"nm3202669,nm2272591,nm8180547",nm0525782
+9370,tt6769280,Time Freak,,2018,\N,104,8424.0,nm1577772,nm1577772
+9411,tt6951892,Samson,,2018,\N,110,4459.0,"nm3443044,nm3201041,nm2433904,nm2295482","nm3147478,nm0754817"
+9440,tt7085842,The End?,,2017,\N,100,1786.0,"nm4177881,nm4171068",nm4171068
+9517,tt7387300,Oru Adaar Love,Oru Adaar Love,2019,\N,145,3039.0,"nm9648067,nm7978876,nm5239501,nm9648068",nm7978876
+9521,tt7397098,Initiation,,\N,2020,96,,"nm2403746,nm3792864,nm3938871",nm2403746
+9764,tt8413338,Kumbalangi Nights,Kumbalangi Nights,2019,\N,135,12891.0,nm4544331,nm7958316
+61,tt0018737,Pandora's Box,,\N,1929,109,10475.0,"nm0917149,nm0883335,nm0281567,nm0655065",nm0655065
+243,tt0031826,The Private Lives of Elizabeth and Essex,The Private Lives of Elizabeth and Essex,1939,\N,106,5507.0,"nm0706993,nm0533418,nm0027173",nm0002031
+307,tt0034461,Aniki Bóbó,Aniki Bóbó,1942,\N,71,1677.0,"nm0210701,nm1376910,nm0272889,nm0519845,nm1386236,nm1387311",nm0210701
+457,tt0040369,Fort Apache,,\N,1948,128,17420.0,"nm0637793,nm0068650",nm0000406
+470,tt0040723,Raw Deal,Raw Deal,1948,\N,79,4545.0,"nm0040852,nm0383421,nm0035615,nm0039022",nm0542649
+747,tt0051525,Thé Défiánt Ớnés,,1958,\N,96,14569.0,"nm0949917,nm0808414",nm0006452
+867,tt0054331,Spartacus,Spartacus,1960,\N,197,130879.0,"nm0874308,nm0268779,nm0001811,nm0932229,nm1306202",nm0000040
+1096,tt0060446,Gamera vs. Barugon,Daikaijû kettô: Gamera tai Barugon,1966,\N,106,2406.0,nm0847177,"nm0950633,nm0849060"
+1115,tt0061101,Tokyo Drifter,,1966,\N,89,8456.0,nm9803391,nm0840671
+1163,tt0061868,King Kong Escapes,,1967,\N,104,2690.0,"nm0454119,nm0908624",nm0393094
+1454,tt0069815,Happy New Year,,1973,\N,115,1667.0,"nm0500988,nm0882683",nm0500988
+1472,tt0070222,Invasion of the Bee Girls,,1973,\N,86,2717.0,nm0583292,nm0761522
+1519,tt0071691,The Enigma of Kaspar Hauser,Jeder für sich und Gott gegen alle,1974,\N,110,17319.0,"nm0001348,nm0913708",nm0001348
+1555,tt0073017,Barbed Wire Dolls,Frauengefängnis,1976,\N,90,1237.0,"nm1868921,nm1363877,nm0001238",nm0001238
+1605,tt0074559,Futureworld,Futureworld,1976,\N,108,10486.0,"nm0800294,nm0770886",nm0373612
+1682,tt0076734,Sớldiér ớf Ớrángé,Soldaat van Oranje,1977,\N,155,12743.0,"nm0736361,nm0390537,nm0812121,nm0000682",nm0000682
+1736,tt0078467,Violette,Violette Nozière,\N,1978,124,2282.0,"nm0058286,nm0111302,nm0340190,nm0295938,nm0001031",nm0001031
+1787,tt0079985,The Secret Life of Nikola Tesla,Tajna Nikole Tesle,1980,\N,115,1365.0,"nm0107654,nm0476207,nm0660453,nm0000455,nm6007173",nm0660453
+1935,tt0084096,The House Where Evil Dwells,,1982,\N,88,1199.0,"nm0837610,nm0362193",nm0175428
+1987,tt0085318,Chained Heat,Chained Heat,1983,\N,95,2327.0,"nm0124802,nm6497799",nm6497799
+2114,tt0088009,A Year of the Quiet Sun,,1984,\N,110,1243.0,nm0953130,nm0953130
+2241,tt0091400,Lét's Gét Hárry,Let's Get Harry,1986,\N,102,1294.0,"nm0270936,nm0002087,nm0138706","nm0000647,nm0742341"
+2362,tt0093996,Slumber Party Massacre II,,1987,\N,77,5671.0,nm0110564,nm0110564
+2555,tt0099108,Basket Case 2,Basket Case 2,1990,\N,90,4814.0,nm0376963,nm0376963
+2755,tt0105107,Pássiớn Fish,,1992,\N,135,5475.0,nm0000626,nm0000626
+2886,tt0109144,A.P.E.X.,,1994,\N,98,1111.0,"nm0744985,nm0768908,nm1112923",nm0744985
+3450,tt0137799,Grớúnd Cớntrớl,Ground Control,1998,\N,93,,"nm0135708,nm0603668,nm0791823",nm0397565
+3539,tt0157894,The Killing of America,The Killing of America,1981,\N,90,2024.0,"nm0775055,nm0775041",nm0719131
+3735,tt0201394,Thé Shrink Is In,The Shrink Is In,2001,\N,92,1522.0,"nm0050198,nm0425394",nm0000907
+3762,tt0209933,Beau travail,Beau travail,1999,\N,92,,"nm0219136,nm0267288,nm0578479",nm0219136
+3801,tt0220363,The Red Ribbon,Rooban-e ghermez,1999,\N,110,1113.0,nm0368690,nm0368690
+3888,tt0245574,Y tu mamá también,Y tu mamá también,2001,\N,106,120094.0,"nm0190860,nm0190859",nm0190859
+3993,tt0263283,The Return,Dönüs,1972,\N,94,1158.0,nm0960106,nm0814734
+4045,tt0271543,Hidden Agenda,Hidden Agenda,2001,\N,102,1167.0,nm0002659,nm0340244
+4343,tt0334725,Wondrous Oblivion,,2003,\N,106,1186.0,nm0607422,nm0607422
+4351,tt0337910,Camp Slaughter,Camp Slaughter,2004,\N,85,1807.0,nm1396577,nm0613318
+4437,tt0359950,The Secret Life of Walter Mitty,The Secret Life of Walter Mitty,2013,\N,114,306014.0,"nm0175726,nm0862122",nm0001774
+4495,tt0368909,Ớng-Bák: Thé Thái Wárriớr,Ong-bak,\N,2003,108,73338.0,"nm1437277,nm1272773,nm1847965",nm1272773
+4601,tt0384286,Cry Wớlf,,2005,\N,90,26940.0,"nm0905592,nm0062149",nm0905592
+4618,tt0386504,Haven,,2004,\N,115,6629.0,nm1248193,nm1248193
+4629,tt0388139,It's Áll Gớné Pété Tớng,,2004,\N,90,19820.0,nm0236226,nm0236226
+4636,tt0388419,Christmas with the Kranks,Christmas with the Kranks,2004,\N,99,47015.0,"nm0001300,nm0001060",nm0005387
+4643,tt0390080,Harry + Max,Harry + Max,2004,\N,74,1068.0,nm0618405,nm0618405
+4754,tt0414993,The Fountain,The Fountain,2006,\N,97,234952.0,"nm0004716,nm0359504",nm0004716
+4774,tt0417976,The Promise,Wu ji,2005,\N,121,9160.0,"nm0155280,nm0848826",nm0155280
+4790,tt0420982,Blind Man's Bluff,Zhmurki,2005,\N,111,7017.0,"nm1718000,nm0049326",nm0049326
+5085,tt0477051,Norbit,Norbit,2007,\N,103,72383.0,"nm0000552,nm0614151,nm0771065,nm0740115",nm0005367
+5168,tt0492492,Sleeping Dogs Lie,,2006,\N,87,3316.0,nm0001281,nm0001281
+5187,tt0494823,Sekerpare,Sekerpare,1983,\N,90,6279.0,nm0877078,nm0947998
+5275,tt0790636,Dallas Buyers Club,Dallas Buyers Club,2013,\N,117,466214.0,"nm1258965,nm2214893",nm0885249
+5471,tt0913354,Armored,,2009,\N,88,30482.0,nm2476665,nm0030735
+5932,tt11394318,The Truffle Hunters,The Truffle Hunters,2020,\N,84,1504.0,"nm6016411,nm3450359","nm6016411,nm3450359"
+6443,tt14053010,Asalem Jarigindi,,2021,\N,124,1112.0,\N,nm12319791
+6478,tt1429429,Coursier,,2010,\N,98,1669.0,"nm0997841,nm1557889",nm0997841
+6597,tt1519245,Agnosia,Agnosia,2010,\N,105,1446.0,"nm0871121,nm1079001,nm3678448",nm1079001
+6942,tt1744885,The Opening,The Opening,2011,\N,\N,4135.0,nm2621950,nm2621950
+6970,tt1776086,Bettie Page Reveals All,Bettie Page Reveals All,2012,\N,101,1498.0,nm1677752,nm0605266
+7016,tt1809387,The War You Don't See,,2010,\N,97,,nm0683400,"nm1207166,nm0683400"
+7157,tt1935302,Monsters: Dark Continent,Monsters: Dark Continent,2014,\N,119,10560.0,"nm1951398,nm3407375,nm1897760,nm2979453",nm3407375
+7236,tt2040560,The Pact,,2012,\N,89,24179.0,nm1130275,nm1130275
+7333,tt2126235,Collide,,2016,\N,99,15893.0,"nm2400444,nm2123102",nm2123102
+7537,tt2337981,Architecture 101,,2012,\N,118,3547.0,"nm1530832,nm3728575",nm3728575
+7642,tt2429640,Murder 3,,2013,\N,124,2526.0,"nm0080315,nm1523747,nm1300956,nm3536895",nm2253160
+7646,tt2437548,Goodbye to All That,,2014,\N,87,2358.0,nm0533666,nm0533666
+7683,tt2504404,Wolf,Wolf,2013,\N,122,3712.0,nm2165987,nm2165987
+7924,tt3041550,Matangi/Maya/M.I.A,,2018,\N,96,2042.0,\N,nm3010986
+8005,tt3198468,North 24 Kaatham,North 24 Kaatham,2013,\N,125,,nm5956405,nm5956405
+8169,tt3531202,Pilgrimage,,2017,\N,96,5264.0,nm2976806,nm1119099
+8294,tt3758162,A Score to Settle,,2019,\N,103,5264.0,"nm0473329,nm1433517",nm0473329
+8470,tt4170436,That Thing Called Tadhana,,\N,2014,110,1049.0,nm3184677,nm3184677
+8601,tt4504044,The Prodigy,The Prodigy,2019,\N,92,25461.0,nm1161528,nm1130275
+8745,tt4914580,The Age of Shadows,Mil-jeong,2016,\N,140,9499.0,"nm0453518,nm9348854,nm9348855,nm0683609",nm0453518
+9012,tt5646136,Hillary's America: The Secret History of the Democratic Party,,2016,\N,106,7176.0,"nm1625338,nm6583447","nm1625338,nm6583447"
+9185,tt6095090,Thé Bridé,Nevesta,2017,\N,95,2592.0,nm5276483,nm5276483
+9547,tt7531096,StarDog and TurboCat,,2019,\N,90,2537.0,nm0807421,nm0807421
+9682,tt8080302,Penguins,Penguins,2019,\N,76,,nm1470516,"nm0288144,nm2613148,nm1768412"
+9728,tt8305116,Ayka,Ayka,2018,\N,100,1677.0,"nm0245361,nm0652541",nm0245361
+9863,tt9015188,Bumperkleef,Bumperkleef,2019,\N,86,2927.0,nm0187834,nm0187834
+1,tt0008663,A Man There Was,Terje Vigen,1917,\N,65,1882.0,"nm0406585,nm0596410,nm0803705",nm0803705
+65,tt0018839,The Docks of New York,,1928,\N,76,4339.0,"nm0299154,nm0766850,nm0425456",nm0903049
+92,tt0022153,The Miracle Woman,,1931,\N,90,2013.0,"nm0842485,nm0576046,nm0728307",nm0001008
+178,tt0028313,The Story of Louis Pasteur,,1936,\N,86,2705.0,"nm0316807,nm0172074,nm0158737",nm0226189
+382,tt0037595,Christmás in Cớnnécticút,Christmas in Connecticut,1945,\N,101,8989.0,"nm0396754,nm0173532,nm0357707",nm0324013
+397,tt0038213,The Valley of Decision,,1945,\N,119,,"nm0576046,nm0397022,nm0202627",nm0307819
+657,tt0048605,The Seven Year Itch,,1955,\N,105,37422.0,"nm0000697,nm0043480",nm0000697
+689,tt0049531,The Mystery of Picasso,Le mystère Picasso,1956,\N,78,2427.0,\N,nm0167241
+722,tt0050599,Kiss Them for Me,,1957,\N,105,2010.0,"nm0258493,nm0205065,nm0906850",nm0002045
+790,tt0052782,Hercules Unchained,,1959,\N,98,,"nm0290371,nm0814668,nm0012634,nm0208086","nm0290371,nm0000878"
+1019,tt0058279,Kwáidán,Kaidan,\N,1964,183,16871.0,"nm0594666,nm0372499",nm0462030
+1130,tt0061401,The Big Mouth,The Big Mouth,1967,\N,107,1079.0,"nm0001471,nm0725075",nm0001471
+1241,tt0064148,The Chairman,The Chairman,1969,\N,93,1217.0,"nm0448091,nm0534693",nm0496746
+1375,tt0067800,Stráw Dớgs,,1971,\N,113,58733.0,"nm0329051,nm0001603,nm0930684",nm0001603
+1522,tt0071733,"Lacombe, Lucien",Lacombe Lucien,1974,\N,138,,"nm0001501,nm0595272",nm0001501
+1535,tt0072637,Amici miei,,1975,\N,140,,"nm0314584,nm0207401,nm0073053,nm0684083",nm0598102
+1623,tt0074901,Mikey and Nicky,,1976,\N,106,4900.0,nm0561938,nm0561938
+1850,tt0082263,The Devil and Max Devlin,,1981,\N,96,,"nm0734742,nm0762727",nm0827854
+2183,tt0089851,Pulgasari,,1985,\N,95,1104.0,nm0453658,nm0645661
+2190,tt0090036,The Slugger's Wife,The Slugger's Wife,1985,\N,105,1144.0,nm0800319,nm0000797
+2220,tt0091042,Ferris Bueller's Day Off,Ferris Bueller's Day Off,1986,\N,103,339566.0,nm0000455,nm0000455
+2239,tt0091339,Killer Workout,,\N,1987,85,2113.0,nm0697935,nm0697935
+2249,tt0091579,My Chauffeur,,1986,\N,97,1938.0,nm0063581,nm0063581
+2292,tt0092684,Body Slam,Body Slam,1986,\N,92,1068.0,"nm0529373,nm0122057",nm0624102
+2576,tt0099691,Graffiti Bridge,,1990,\N,90,1957.0,nm0002239,nm0002239
+2673,tt0102593,One Good Cop,,1991,\N,114,4088.0,nm0332392,nm0332392
+2876,tt0108569,Wildér Nápálm,,1993,\N,109,,nm0319213,nm0139111
+2987,tt0111549,Uncovered,,1994,\N,103,2360.0,"nm0702416,nm0386694,nm0564319,nm0052944",nm0564319
+3223,tt0118083,Wintér Báy,Vinterviken,1996,\N,98,1772.0,"nm0359081,nm0374969,nm0906267",nm0359081
+3377,tt0122883,Woe to the Young,,1961,\N,87,1247.0,"nm0316225,nm0757157",nm0757157
+3415,tt0129794,An Average Little Man,Un borghese piccolo piccolo,1977,\N,122,2615.0,"nm0148437,nm0024847,nm0598102",nm0598102
+3505,tt0146882,High Fidélity,High Fidelity,2000,\N,113,175082.0,"nm0394984,nm0222584,nm0684336,nm0000131,nm0003298",nm0001241
+3521,tt0155124,Rudra Veena,Rudra Veena,\N,1988,170,1863.0,"nm0049335,nm0665982",nm0049335
+3524,tt0155753,I'll Be Home for Christmas,,1998,\N,86,10199.0,"nm0638218,nm0325214,nm0021363",nm0762541
+3544,tt0159485,Thé Tớúgh Ớnés,,1999,\N,105,4902.0,nm0054358,nm0617407
+3583,tt0166276,Monkeybone,Monkeybone,\N,2001,93,,"nm0085718,nm0358334",nm0783139
+3665,tt0182730,The Lady and the Tramp,I arhontisa ki o alitis,1968,\N,109,1159.0,nm0586130,nm0227460
+3766,tt0210727,Himáláyá,Himalaya - l'enfance d'un chef,1999,\N,108,5355.0,"nm0044383,nm0206797,nm0306627,nm0347050,nm0885108","nm0885108,nm0213340"
+3782,tt0213890,Mohabbatein,,2000,\N,216,28913.0,nm0159147,nm0159147
+3808,tt0222167,Lucky 13,Lucky 13,2005,\N,95,1113.0,"nm0842379,nm0973307,nm1324179,nm1097114",nm1097114
+4012,tt0265859,Témptéd,,2001,\N,95,1314.0,nm0071611,nm0071611
+4065,tt0276617,The White Sound,,2001,\N,109,3260.0,"nm0918326,nm1170198,nm0989902,nm6048417","nm0918326,nm1170198"
+4208,tt0305711,Just Married,Just Married,2003,\N,95,69819.0,nm0363958,nm0506613
+4368,tt0339727,Stateside,,\N,2004,97,1909.0,nm0030612,nm0030612
+4416,tt0353725,Meesha Madhavan,,2002,\N,165,1534.0,nm0695196,nm0430485
+4677,tt0398839,Cattle Call,Cattle Call,2006,\N,83,1184.0,nm0346841,nm0346841
+4794,tt0421229,Mrs. Palfrey at the Claremont,,\N,2005,108,3321.0,"nm0233026,nm0006959,nm1699869,nm0852331",nm0006959
+5107,tt0479948,Living & Dying,Living & Dying,2007,\N,90,1905.0,nm0444870,nm0444870
+5268,tt0785006,Hớtél fớr Dớgs,,2009,\N,100,22847.0,"nm0523094,nm0774792,nm0566407,nm0242028",nm0294457
+5421,tt0872190,Cash,,2007,\N,137,1935.0,"nm1318670,nm0310698,nm1977727,nm1249419,nm1025280,nm1428012",nm1025280
+5427,tt0879870,Eat Pray Love,,2010,\N,133,93857.0,"nm0614682,nm0759022,nm2418691",nm0614682
+5791,tt1090646,City Rats,City Rats,2009,\N,94,1290.0,nm2760070,nm1491597
+5821,tt11003228,Breeder,,2020,\N,107,1046.0,nm1626985,nm0196930
+5925,tt11389748,Mass,Mass,2021,\N,111,1039.0,nm0469823,nm0469823
+5933,tt1139668,The Unborn,,2009,\N,88,50770.0,nm0275286,nm0275286
+6037,tt1183917,Teen Patti,Teen Patti,2010,\N,142,1509.0,"nm0837000,nm1636742,nm1266863",nm1636742
+6108,tt1220706,Breathing Room,,2008,\N,89,3581.0,"nm2986811,nm1410462","nm2986811,nm1410462"
+6294,tt13150630,Secrets of the Saqqara Tomb,Secrets of the Saqqara Tomb,2020,\N,113,5809.0,\N,nm0869857
+6319,tt1329177,K-11,,2012,\N,88,1670.0,"nm3210531,nm0543032",nm0543032
+6396,tt1374989,Pridé ánd Préjúdicé ánd Zớmbiés,Pride and Prejudice and Zombies,2016,\N,108,54584.0,"nm0824882,nm0000807,nm0334381",nm0824882
+6673,tt1567448,Yahsi Bati,,2009,\N,112,34200.0,nm0948000,nm0814716
+6784,tt1638894,Delta Zulu,,2012,\N,121,4350.0,"nm3881804,nm0441085,nm3882125",nm3881964
+6812,tt1655460,Wanderlust,Wanderlust,2012,\N,98,75063.0,"nm0906476,nm0547800",nm0906476
+6867,tt1692190,Hell,,2010,\N,149,9420.0,"nm0261840,nm0760092",nm0261840
+7163,tt1937449,At Any Price,,2012,\N,105,7524.0,"nm1023919,nm3399880",nm1023919
+7189,tt1972819,And While We Were Here,And While We Were Here,\N,2012,83,3841.0,nm0192478,nm0192478
+7253,tt2061702,To the Forest of Firefly Lights,Hotarubi no mori e,2011,\N,45,16331.0,"nm3267629,nm0648464",nm0648464
+7279,tt2079571,Roman Polanski: A Film Memoir,Roman Polanski: A Film Memoir,2011,\N,90,1204.0,\N,nm0100522
+7285,tt2082197,Barfi!,Barfi!,2012,\N,151,,"nm1397301,nm6215655,nm1821635",nm1397301
+7375,tt2180994,A Good Marriage,,2014,\N,102,11359.0,nm0000175,nm0039468
+7410,tt2210769,Liza the Fox-Fairy,"Liza, a rókatündér",\N,2015,98,8734.0,"nm1257362,nm1902132",nm1902132
+7502,tt2304933,The 5th Wave,The 5th Wave,2016,\N,112,105518.0,"nm0335666,nm0326040,nm0684374,nm2130099",nm2128335
+7587,tt2380564,Swearnet: The Movie,Swearnet: The Movie,2014,\N,112,2619.0,"nm1034266,nm1033215,nm1036211",nm1284464
+7760,tt2652948,Hostage to the Devil,,2016,\N,96,1631.0,"nm1985060,nm4980768",nm4980768
+7791,tt2741806,In Bloom,,2013,\N,102,6828.0,nm2206574,"nm0344144,nm2206574"
+7969,tt3135556,Jimmy Vestvood: Amerikan Hero,Jimmy Vestvood: Amerikan Hero,2016,\N,84,,"nm0423414,nm3894059",nm1165576
+8027,tt3257072,Fish & Cat,Mahi va gorbeh,2013,\N,134,2480.0,"nm4728872,nm3640095",nm3640095
+8078,tt3379456,Rédéémér,,2014,\N,88,1220.0,"nm6547740,nm5733685,nm1104993,nm5410382",nm1104993
+8084,tt3390550,The Barn,,2016,\N,88,1490.0,nm2988421,nm2988421
+8113,tt3446426,Time Pass,,2014,\N,143,1389.0,nm2165634,nm2165634
+8316,tt3816614,Turkey Shoot,,2014,\N,90,1286.0,"nm0565883,nm0382054,nm0320060,nm0872062",nm0382054
+8393,tt4009460,Kirk Cameron's Saving Christmas,Saving Christmas,2014,\N,79,15643.0,"nm0229544,nm6805281",nm0229544
+8596,tt4483220,The Funhouse Massacre,,2015,\N,90,3768.0,"nm2384265,nm1792165",nm1558526
+8641,tt4623856,Wớlvés,,\N,2016,109,1215.0,nm0294505,nm0294505
+8655,tt4667084,Thé Únséén,,2016,\N,108,1138.0,nm0714940,nm0714940
+8810,tt5092380,A Breath Away,,2018,\N,89,6298.0,"nm3280198,nm1729064,nm2564825,nm9572719",nm1637832
+8868,tt5247022,Paterson,,2016,\N,118,77389.0,"nm0000464,nm0931937,nm3143010",nm0000464
+8905,tt5332502,Rajini Murugan,Rajini Murugan,2015,\N,149,1642.0,nm5974331,nm5974331
+9318,tt6547786,Life Like,,2019,\N,95,2748.0,nm1396593,nm1396593
+9611,tt7822758,Kaadan,Kaadan,2021,\N,170,3181.0,"nm9328052,nm3454743",nm3454743
+9612,tt7823906,Pớlitics,,2019,\N,134,1068.0,nm1506700,nm1899656
+9714,tt8231668,Good on Paper,,2021,\N,92,10271.0,nm2955597,nm1260607
+9790,tt8597594,Adverse,,2020,\N,94,15707.0,nm1305849,nm1305849
+9932,tt9359344,"Te quiero, imbécil",,2020,\N,87,3140.0,"nm2508408,nm2750493",nm0563760
+9974,tt9686154,You Will Die at 20,,2019,\N,103,2106.0,"nm5617646,nm2691011,nm12933710",nm5617646
+187,tt0028737,Confession,Confession,1937,\N,87,1201.0,"nm0254690,nm0258493,nm0505996",nm0562004
+501,tt0041996,Twelve O'Clock High,,1949,\N,132,14181.0,"nm0058905,nm0493446,nm0454771",nm0454771
+547,tt0043938,Thé Prớwlér,,1951,\N,92,3326.0,"nm0858329,nm0928915,nm0124947,nm0874308",nm0521334
+551,tt0044091,Superman and the Mole-Men,,1951,\N,58,1953.0,"nm0561804,nm0795975,nm0796950",nm0794793
+560,tt0044716,The Holly and the Ivy,The Holly and the Ivy,1952,\N,83,1430.0,"nm0344645,nm0115097",nm0641007
+836,tt0053724,El cochecito,El cochecito,1960,\N,85,1164.0,"nm0044156,nm0274659",nm0274659
+884,tt0054691,Bloodlust!,Bloodlust!,1961,\N,68,2426.0,"nm0111735,nm0175028",nm0111735
+890,tt0054790,The Day the Earth Caught Fire,,1961,\N,99,5009.0,"nm0542554,nm0346436",nm0346436
+944,tt0056160,Two Half-Times in Hell,Két félidö a pokolban,1961,\N,140,1231.0,"nm0045880,nm0299586",nm0299586
+1211,tt0063231,"Live a Little, Love a Little",,1968,\N,90,1639.0,"nm0388629,nm0338633",nm0851537
+1443,tt0069436,Ulzana's Raid,,1972,\N,103,5591.0,nm0788991,nm0000736
+1634,tt0075229,Sky Riders,,1976,\N,91,1014.0,"nm0223207,nm0542970,nm0924809,nm0819552,nm0569006,nm0532263",nm0382779
+1766,tt0079417,Kramer vs. Kramer,Kramer vs. Kramer,1979,\N,105,140262.0,"nm0180011,nm0000914",nm0000914
+1938,tt0084296,The Man from Snowy River,The Man from Snowy River,1982,\N,102,8611.0,"nm0665464,nm0228880,nm0191454",nm0004305
+2072,tt0086979,Blood Simple,,1984,\N,99,93088.0,"nm0001054,nm0001053","nm0001054,nm0001053"
+2265,tt0091943,Sherman's March,Sherman's March,1985,\N,157,,nm0568478,nm0568478
+2294,tt0092710,Burglar,Burglar,1987,\N,103,4359.0,"nm0088747,nm0517188,nm0918861,nm0933505",nm0933505
+2403,tt0094901,Compagni di scuola,Compagni di scuola,1988,\N,115,2250.0,"nm0073053,nm0176299,nm0207401,nm0893872",nm0893872
+2622,tt0100991,Hiruko the Goblin,,1991,\N,89,1240.0,"nm2208212,nm1119891,nm0875354",nm0875354
+2768,tt0105480,Storyville,Storyville,1992,\N,113,1290.0,"nm0301741,nm0533636,nm0004111,nm0721825",nm0004111
+2796,tt0106450,Body Melt,,1993,\N,81,3018.0,"nm0112409,nm0084182",nm0112409
+3035,tt0113463,Jefferson in Paris,,1995,\N,139,3005.0,nm0695609,nm0412465
+3094,tt0114906,Welcome to the Dollhouse,,1995,\N,88,33471.0,nm0001754,nm0001754
+3152,tt0116606,If Lucy Fell,If Lucy Fell,1996,\N,92,4115.0,"nm0769703,nm0819045",nm0769703
+3775,tt0211946,Berlin Calling,Berlin Calling,2008,\N,109,14241.0,nm0836708,nm0836708
+3870,tt0242256,Álái Páyúthéy,,2000,\N,156,6091.0,"nm0711745,nm1001877",nm0711745
+3874,tt0242587,L.I.E.,L.I.E.,2001,\N,97,,"nm0753147,nm0191147,nm0191138",nm0191147
+4047,tt0271857,Vátsályám,,1993,\N,156,2833.0,nm0517839,nm0359880
+4296,tt0326208,Stándér,,2003,\N,111,8536.0,nm0821375,nm0400486
+4334,tt0332318,Pinocchio 3000,Pinocchio 3000,2004,\N,80,1266.0,"nm1019940,nm0840939",nm0732106
+4558,tt0378215,King's Game,Kongekabale,2004,\N,107,4387.0,"nm1064048,nm1065452,nm1662775",nm1064048
+4692,tt0402057,Beowulf & Grendel,,2005,\N,104,17877.0,"nm1511619,nm0078566",nm0348274
+4775,tt0418110,Romanzo Criminale,,2005,\N,152,8986.0,"nm1145142,nm0750048,nm0677758,nm0686375",nm0686375
+4779,tt0419704,Donkey Xote,,2007,\N,90,2135.0,"nm0148859,nm1041140",nm1160071
+4988,tt0457400,Land of the Lost,Land of the Lost,2009,\N,102,69098.0,"nm0376260,nm0574005,nm0471898,nm0471897",nm0797869
+5136,tt0486583,Fred Claus,Fred Claus,2007,\N,116,42378.0,"nm1557594,nm0625458",nm0229694
+5140,tt0486708,Maskeli Besler: Intikam Pesinde,,2005,\N,89,5409.0,nm2083706,nm2083706
+5214,tt0756313,Sirens in the Aegean,,2005,\N,115,3075.0,nm0672704,nm0672704
+5242,tt0769507,The Sun Also Rises,Tai yang zhao chang sheng qi,2007,\N,116,,"nm2772001,nm0422638,nm0795516,nm2758510",nm0422638
+5308,tt0808240,Turks in Space,,\N,2006,110,16138.0,nm2274201,nm0862605
+5330,tt0816258,Pokiri,Pokiri,\N,2006,164,13678.0,nm0700872,nm0700872
+5363,tt0832903,Mánúfáctúréd Lándscápés,,2006,\N,86,2897.0,\N,nm0047028
+5407,tt0859163,The Mummy: Tomb of the Dragon Emperor,,2008,\N,112,156547.0,"nm0332184,nm0587692,nm0049721,nm0814085",nm0003418
+5440,tt0889652,Rớmán dé gáré,,2007,\N,103,2497.0,"nm0500988,nm0882683",nm0500988
+5532,tt0975684,Kisses,,2008,\N,72,1869.0,nm0198472,nm0198472
+5751,tt1073223,Detective Conan: Countdown to Heaven,Meitantei Conan: Tengoku no countdown,2001,\N,100,2196.0,"nm1108327,nm2557097,nm0425061",nm1829961
+5764,tt1079968,Jack and the Beanstalk,,2009,\N,94,1854.0,"nm0462164,nm0546083",nm0876683
+6129,tt1233461,Miracle of Giving Fool,,2008,\N,99,1447.0,"nm2326323,nm0453559",nm0453559
+6135,tt1235536,Lucky Luke,,2009,\N,103,4175.0,"nm1768443,nm0404485,nm0241121,nm0331453,nm0606328",nm0404485
+6258,tt1294182,Living in Emergency,,2008,\N,93,1054.0,\N,nm0394233
+6267,tt1302011,Kung Fu Panda 2,Kung Fu Panda 2,2011,\N,90,268923.0,"nm0008743,nm0074184,nm0717550,nm0903456",nm0950775
+6325,tt1334102,The Resident,,2011,\N,91,27506.0,"nm0427037,nm0650601",nm0427037
+6352,tt13451792,Kya Meri Sonam Gupta Bewafa Hai,Kya Meri Sonam Gupta Bewafa Hai,\N,2021,136,1095.0,\N,nm7552433
+6381,tt1365483,Main Street,Main Street,2010,\N,92,2747.0,nm0285210,nm2928920
+6388,tt1368858,Thé Fớrgér,,2012,\N,94,4644.0,"nm0209856,nm2940732,nm12485629",nm2940732
+6472,tt1425252,The Crypt,,2009,\N,84,1235.0,nm1169248,nm1169248
+6524,tt1462411,Big Sur,Big Sur,\N,2013,81,,"nm0689187,nm0449616",nm0689187
+6625,tt1535432,Crave,,2012,\N,113,1150.0,"nm1844950,nm1361273",nm1361273
+6626,tt15354498,The Killer,The Killer,2021,\N,154,1070.0,\N,nm12904118
+6627,tt1535566,The Bleeding House,The Bleeding,2011,\N,86,1716.0,nm3664884,nm3664884
+6808,tt1651143,Nớ cớntrớlés,,2010,\N,100,1123.0,"nm1141070,nm1749125",nm1141070
+6937,tt1738293,Khichdi: The Movie,Khichdi: The Movie,2010,\N,120,2414.0,nm0438089,nm0438089
+7312,tt2111392,Raze,Raze,\N,2013,87,5988.0,"nm0064283,nm2632302,nm1892220",nm1892220
+7458,tt2258337,Eega,,2012,\N,145,22832.0,"nm1442514,nm2132230,nm1190372,nm2353436,nm4034632",nm1442514
+7489,tt2295722,Fálcớn Rising,Falcon Rising,2014,\N,103,,nm5178206,nm0053228
+7505,tt2306786,Chupacabra Territory,,2016,\N,94,1663.0,nm4298518,nm4298518
+7658,tt2461150,Masterminds,Masterminds,\N,2016,95,53786.0,"nm0101302,nm1376062,nm0819225",nm0381478
+7668,tt2473750,Among the Living,Aux yeux des vivants,2014,\N,90,2255.0,"nm2376614,nm2377660","nm2376614,nm2377660"
+7860,tt2915160,Bethlehem,Bethlehem,2013,\N,99,2145.0,"nm2113089,nm5674899",nm2113089
+8223,tt3626440,Mr. Dynámité: Thé Risé ớf Jámés Brớwn,Mr. Dynamite: The Rise of James Brown,2014,\N,120,1367.0,nm0316795,nm0316795
+8360,tt3917210,"Life, Animated",,2016,\N,92,5876.0,"nm2328967,nm0399520,nm0741507,nm10475918,nm10667011,nm7882777",nm2141317
+8500,tt4253744,Çakallarla Dans 3: Sifir Sikinti,,2014,\N,102,2625.0,"nm2320363,nm4195211",nm2320363
+8624,tt4568370,Blind Sun,Blind Sun,2015,\N,88,1631.0,nm2171755,nm2171755
+9102,tt5845440,Blindsided,,2018,\N,81,,"nm5449600,nm1210917,nm1307771",nm5449600
+9236,tt6265988,Bhoomi,Bhoomi,2017,\N,136,1837.0,"nm11636651,nm5969138,nm7447165,nm7724205",nm1293225
+9464,tt7218518,Pád Mán,Padman,2018,\N,140,24374.0,"nm2669564,nm1618886",nm2669564
+9515,tt7382730,Luca,,2019,\N,151,1729.0,"nm8734870,nm8733312",nm8734870
+9525,tt7403570,Two Tails,,\N,2018,75,1146.0,nm2669989,"nm2669989,nm9290266"
+9984,tt9769668,Tughlaq Durbar,Tughlaq Durbar,2021,\N,145,1430.0,"nm10470070,nm13058768",nm10470070
+0,tt0003740,Cabiria,,1914,\N,148,3452.0,"nm0195339,nm0515385,nm0665163,nm0758215",nm0665163
+514,tt0042490,The Furies,The Furies,1950,\N,109,3233.0,"nm0773660,nm0124002",nm0542649
+1323,tt0066564,Which Way to the Front?,,1970,\N,96,1323.0,"nm0306932,nm0142292,nm0588241",nm0001471
+2081,tt0087034,Cármén,,1984,\N,152,1540.0,"nm0576830,nm0021283,nm0617737,nm0742940,nm0346096",nm0742940
+2571,tt0099512,Ernest Goes to Jail,,1990,\N,81,9339.0,nm0169277,nm0156047
+2730,tt0104553,"All's Well, Ends Well",Ga yau hei si,\N,1992,100,,"nm0155610,nm0156557,nm0159584,nm0463674,nm0497758,nm0541190,nm2260417,nm8832995,nm1091742,nm1851679",nm0170504
+3105,tt0115624,Barb Wire,,\N,1996,98,27390.0,"nm0912431,nm0149669,nm0679326",nm0389514
+3537,tt0157154,The Rose Seller,La vendedora de rosas,1998,\N,116,1875.0,"nm0026153,nm0310597,nm1461348",nm0310597
+4740,tt0411475,Hell Ride,,2008,\N,84,15766.0,nm0084114,nm0084114
+4830,tt0425489,The Die Is Cast,,2005,\N,97,1035.0,nm0096375,nm0096375
+5304,tt0806147,Extreme Movie,,2008,\N,86,,"nm0258418,nm0414795,nm0287182,nm1231253,nm1676221,nm1676223,nm1672246,nm1106214,nm0520488,nm0588087","nm0258418,nm0414795"
+9340,tt6628394,Bad Times at the El Royale,,2018,\N,141,140544.0,nm1206844,nm1206844
+418,tt0038969,Song of the South,,1946,\N,94,13470.0,"nm0721468,nm0335577,nm0710683,nm0364873,nm0670328,nm0942723,nm0821707","nm0287836,nm0414144"
+842,tt0053856,Il Generale Della Rovere,,1959,\N,132,3136.0,"nm0024847,nm0264420,nm0598975,nm0744023,nm0958479",nm0744023
+1426,tt0068935,The Way of the Dragon,,\N,1972,99,35727.0,nm0000045,nm0000045
+1657,tt0075968,The Duellists,,1977,\N,100,,"nm0891126,nm0175676",nm0000631
+1708,tt0077497,Émmánúéllé 3,Goodbye Emmanuelle,1977,\N,98,1736.0,"nm0486171,nm0504641,nm0037491",nm0504641
+2496,tt0097441,Glory,Glory,1989,\N,122,130896.0,"nm0418883,nm0457016,nm0120837,nm0789946",nm0001880
+2888,tt0109288,Blankman,,1994,\N,92,9586.0,"nm0001834,nm0493369",nm0082802
+4149,tt0292319,Varavelpu,,1989,\N,144,1797.0,nm0820208,nm0030791
+4475,tt0366627,The Jacket,,2005,\N,103,111491.0,"nm1789514,nm0733692,nm1127653",nm0562266
+4963,tt0452668,Pterodactyl,,\N,2005,91,2415.0,nm0786411,nm0504495
+5089,tt0477273,Summer Rain,El camino de los ingleses,2006,\N,118,1187.0,nm1995615,nm0000104
+2411,tt0095215,Ghost Town,Ghost Town,1988,\N,85,1487.0,"nm0761348,nm0227187","nm0013972,nm0332856"
+8359,tt3910416,Escape Artist,Escape Artist,\N,2017,106,,nm2797828,nm2797828
+2349,tt0093773,Predator,Predator,1987,\N,107,391304.0,"nm0859029,nm0859049",nm0001532
+2852,tt0108053,Schramm: Into the Mind of a Serial Killer,Schramm,1993,\N,65,3056.0,"nm0125367,nm0734585",nm0125367
+4664,tt0396271,When Will I Be Loved,When Will I Be Loved,2004,\N,81,3352.0,nm0864812,nm0864812
+6218,tt1278180,Kénny Bégins,Kenny Begins,2009,\N,87,1812.0,"nm0423988,nm0511393,nm0423872,nm0959839","nm0511393,nm0959839"
+7407,tt2210441,Bittersweet,,2010,\N,130,6216.0,"nm13050140,nm2409430",nm0580727
+7831,tt2853182,The Black Water Vampire,The Black Water Vampire,2014,\N,82,1005.0,nm5643041,nm5643041
+7873,tt2936180,Far from Men,Loin des hommes,2014,\N,101,7797.0,"nm1190532,nm0133411,nm0480207",nm1190532
+8394,tt4010862,Massacre on Aisle 12,,2016,\N,83,2681.0,"nm1797652,nm6773129","nm1145617,nm1151972"
+8763,tt4966046,Awaken the Shadowman,Awaken the Shadowman,2017,\N,90,3451.0,"nm1674912,nm3770661,nm3397546",nm7916459
+8797,tt5066056,The Wilde Wedding,,2017,\N,95,2379.0,nm0364578,nm0364578
+9372,tt6772950,Truth or Dare,Truth or Dare,2018,\N,100,52538.0,"nm0718555,nm3273842,nm1496753,nm0905592",nm0905592
+9980,tt9735790,Me You Madness,Me You Madness,2021,\N,98,1056.0,nm2325602,nm2325602
+75,tt0019901,Woman in the Moon,,1929,\N,156,,"nm0902376,nm0000485",nm0000485
+544,tt0043910,Payment on Demand,,1951,\N,90,1645.0,"nm0543243,nm0076779",nm0076779
+602,tt0046303,Shane,Shane,1953,\N,118,39297.0,"nm0349238,nm0792042,nm0769627",nm0828419
+849,tt0054020,Thé Lééch Wớmán,,1960,\N,77,1922.0,"nm0241949,nm0686089,nm0742843",nm0215085
+1967,tt0084745,Swamp Thing,Swamp Thing,1982,\N,91,13957.0,nm0000127,nm0000127
+2084,tt0087164,A Summer at Grandpa's,,1984,\N,93,,"nm0160883,nm0396284",nm0396284
+2250,tt0091598,Naam,Naam,1986,\N,177,1055.0,nm0451311,nm0080315
+2484,tt0097240,Drugstore Cowboy,,1989,\N,101,36014.0,"nm0283942,nm0001814,nm0949127,nm0123221",nm0001814
+3558,tt0163187,Runaway Bride,Runaway Bride,1999,\N,116,96275.0,"nm0569210,nm0663490",nm0005190
+3701,tt0191636,Widow of St Pierre,La veuve de Saint-Pierre,2000,\N,112,5505.0,"nm0267064,nm0496312",nm0496312
+5042,tt0469045,Broken,Broken,\N,2006,97,1485.0,"nm0504467,nm0683570",nm0924429
+6180,tt1260567,Dárk Hớúsé,,2009,\N,85,2229.0,"nm0779011,nm1338794",nm0779011
+6514,tt1453405,Mớnstérs Únivérsity,Monsters University,2013,\N,104,341179.0,"nm0768959,nm0314870,nm0047916",nm0768959
+6777,tt16298620,Súndárángúdú,Sundarangudu,2021,\N,\N,1488.0,\N,\N
+6782,tt1636780,Gintama: The Movie,Gekijôban Gintama: Shin'yaku Benizakura hen,\N,2010,96,1784.0,"nm2985912,nm1737449",nm0847294
+7419,tt2218988,Ustad Hotel,Ustad Hotel,2012,\N,151,13530.0,nm3250747,nm2057169
+7869,tt2931376,Thé Wáké,The Wake,2017,\N,86,,"nm0108122,nm2803530","nm0103971,nm0108122"
+9304,tt6509862,Mr. Long,Ryu san,2017,\N,129,,nm0848992,nm0848992
+1361,tt0067409,Máx ánd thé Júnkmén,Max et les ferrailleurs,1971,\N,112,2491.0,"nm0639099,nm0767110,nm0196362",nm0767110
+2280,tt0092530,Alien Predator,,1986,\N,90,1109.0,"nm0764776,nm0088636",nm0764776
+3112,tt0115683,Bio-Dome,Bio-Dome,1996,\N,88,27132.0,"nm0498963,nm0669692,nm0089820,nm0462835,nm0545085",nm0089176
+3124,tt0115851,Celtic Pride,Celtic Pride,1996,\N,91,9946.0,"nm0031976,nm0703800",nm0213726
+8016,tt3228830,Súpér Dúpér Álicé Cớớpér,Super Duper Alice Cooper,\N,2014,98,1140.0,"nm0242757,nm0363094,nm1083864","nm0242757,nm0363094,nm1083864"
+7531,tt2332801,The Spirit of '45,The Spirit of '45,2013,\N,94,1183.0,nm0516360,nm0516360
+2677,tt0102782,Return to the Blue Lagoon,Return to the Blue Lagoon,1991,\N,102,19372.0,"nm0821070,nm0828562",nm0334353
+2799,tt0106476,Brándbilén sớm försvánn,,\N,1993,90,1214.0,"nm0803711,nm0883908,nm0073876,nm0486615",nm0317411
+8023,tt3244992,Trailer Park Boys: Don't Legalize It,,2014,\N,95,4652.0,"nm0154104,nm1512380",nm0154104
+3158,tt0116736,The Hunters,Jägarna,\N,1996,113,8301.0,"nm0839268,nm0138164",nm0839268
+3453,tt0138304,The Astronaut's Wife,The Astronaut's Wife,1999,\N,109,54581.0,nm0712444,nm0712444
+4723,tt0408181,Shankar Dada MBBS,Shankar Dada MBBS,2004,\N,174,1686.0,"nm0386246,nm0664084,nm0664085",nm0419680
+4897,tt0439123,Ázúr & Ásmár: Thé Princés' Qúést,Azur et Asmar,2006,\N,99,3091.0,nm0643664,nm0643664
+5152,tt0488988,Chapter 27,,2007,\N,84,10882.0,"nm2493041,nm2970332",nm2493041
+5484,tt0923752,The King of Kong: A Fistful of Quarters,,2007,\N,79,36067.0,nm1164861,nm1164861
+5661,tt1034302,The Cry of the Owl,The Cry of the Owl,2009,\N,100,4643.0,"nm0861899,nm0383604",nm0861899
+6425,tt1396208,Action Replayy,,2010,\N,129,6063.0,"nm1030391,nm0438089,nm1330994,nm1937760",nm1150959
+6499,tt1438522,Death Bell,,2008,\N,88,2667.0,"nm3460905,nm2499755",nm3460905
+6862,tt1684913,Microphone,,2010,\N,120,1613.0,nm1583960,nm1583960
+6985,tt1785288,An Ordinary Man,An Ordinary Man,2017,\N,90,,nm0797869,nm0797869
+6986,tt1785635,The Vault,The Vault,2017,\N,91,12884.0,"nm0124112,nm2965744",nm0124112
+7495,tt2299842,Pieta,,2012,\N,103,14206.0,nm1104118,nm1104118
+9140,tt5956100,Tiger Zinda Hai,,2017,\N,161,27585.0,"nm1305877,nm1804614,nm0159147",nm1804614
+9874,tt9074318,Son Rise,,2019,\N,49,,\N,nm2258148
+71,tt0019421,"Steamboat Bill, Jr.","Steamboat Bill, Jr.",1928,\N,70,14166.0,nm0361882,"nm0718469,nm0000036"
+314,tt0034591,There Was a Father,,1942,\N,94,2677.0,"nm0407456,nm0654868,nm0945868",nm0654868
+845,tt0053944,The Incredible Petrified World,The Incredible Petrified World,1959,\N,70,1111.0,nm0825955,nm0912876
+2210,tt0090735,Bláck Mớớn Rising,,1986,\N,100,5714.0,"nm0000118,nm0620290,nm0337008",nm0170113
+2342,tt0093589,My Demon Lover,My Demon Lover,1987,\N,90,1343.0,nm0712904,nm0522604
+3307,tt0119989,Shadow of Doubt,,1998,\N,103,1824.0,"nm0125688,nm0208343",nm0459170
+3776,tt0212408,The Bus,,1975,\N,84,2073.0,nm0645516,nm0645516
+5249,tt0775539,Stomp the Yard,Stomp the Yard,2007,\N,115,25394.0,"nm0011950,nm0026782",nm1234893
+5351,tt0825232,Thé Búckét List,,2007,\N,97,239334.0,nm0951698,nm0001661
+5713,tt10551608,Thanneermathan Dinangal,Thanneer Mathan Dhinangal,2019,\N,136,,"nm9214307,nm9212368",nm9214307
+6604,tt1522846,Thé Búnny Gámé,,2011,\N,76,2397.0,"nm3290283,nm0716814",nm0716814
+7136,tt1922679,Open Road,Open Road,2013,\N,85,1758.0,nm2915845,nm0305362
+7488,tt2294567,Dhámmú,,2012,\N,155,1986.0,"nm2375127,nm2264823",nm2264823
+8414,tt4061620,Firébird,,2021,\N,107,,"nm3818919,nm4350114,nm0275322",nm3818919
+9409,tt6932874,The Boss Baby: Family Business,The Boss Baby: Family Business,2021,\N,107,13665.0,"nm2807682,nm0569891,nm0567112",nm0569891
+3229,tt0118588,All Stars,All Stars,1997,\N,115,2931.0,"nm0018636,nm0892400",nm0892400
+5057,tt0473333,The Backwoods,Bosque de sombras,2006,\N,97,5535.0,"nm1984148,nm1840195,nm3397456",nm1840195
+7439,tt2238470,The Stranger,The Stranger,2014,\N,93,2876.0,nm3771227,nm3771227
+6260,tt1295060,Thé Pớlicémán ớf thé 16th Précinct,O Ilias tou 16ou,2008,\N,100,1408.0,"nm0316225,nm1665980,nm0757157",nm0953216
+7068,tt1845773,Ai Weiwei: Never Sorry,,2012,\N,91,4344.0,"nm3052903,nm0649165",nm3052903
+7386,tt2190838,Stage Fright,,\N,2014,89,4635.0,"nm3009132,nm3396682",nm3009132
+9785,tt8563452,Cryptớ,,2019,\N,105,5231.0,"nm5673221,nm0295701,nm9912021",nm1226069
+9802,tt8667334,Oru Yamandan Premakadha,,2019,\N,165,1029.0,"nm7628634,nm6411762",nm8381668
+9976,tt9690328,Pápér Spidérs,Paper Spiders,2020,\N,109,,"nm1630654,nm4363465",nm1630654
+287,tt0033563,Dumbo,,1941,\N,64,126856.0,"nm0335469,nm0400056,nm0257481,nm0670328,nm0061284,nm0727370,nm0821707,nm0810324,nm0008673,nm2927785","nm0272568,nm0035899,nm0789313,nm0455741,nm0414144,nm0730860,nm0254675"
+1597,tt0074442,Crime Busters,,1977,\N,115,11206.0,nm0005645,nm0005645
+2838,tt0107613,Mr. Wonderful,Mr. Wonderful,1993,\N,98,3298.0,"nm0774856,nm0689778",nm0005237
+3247,tt0118906,Csinibaba,Csinibaba,1997,\N,100,2051.0,"nm0617350,nm0879423",nm0879423
+3671,tt0184907,Snớw Dáy,Snow Day,2000,\N,89,12219.0,"nm0574509,nm0899531",nm0462277
+3753,tt0206634,Childrén ớf Mén,,2006,\N,109,,"nm0190859,nm0786694,nm0033153,nm1318843,nm1319757,nm0416807",nm0190859
+4839,tt0426627,Stoned,Stoned,2005,\N,102,3983.0,"nm0701031,nm0905498,nm0321325,nm1887968,nm7674888,nm7674889",nm0941262
+6246,tt1289406,Harry Brown,Harry Brown,2009,\N,103,86311.0,nm0949558,nm2905562
+6500,tt1438535,Film socialisme,,2010,\N,102,2679.0,"nm3061127,nm2034269,nm4677631,nm1363261,nm1104986,nm0239286,nm0320824,nm0000419,nm0765683,nm0850368,nm0901976",nm0000419
+6938,tt1740476,Bútchér Bớys,Butcher Boys,2012,\N,86,1567.0,"nm0377066,nm0842605","nm1262599,nm0336271"
+7120,tt1895315,Brimstone,,2016,\N,148,,nm0465551,nm0465551
+8288,tt3746824,Shéép & Wớlvés,Volki i ovtsy. Beeezumnoe prevrashchenie,2016,\N,85,3143.0,"nm0484475,nm0717550,nm1650373,nm2260826,nm0903456,nm7071130","nm6512883,nm6305117"
+8799,tt5069074,Á Billiớn Livés,,2016,\N,95,2818.0,\N,nm7618090
+9314,tt6537508,Behen Hogi Teri,,2017,\N,128,2023.0,"nm8966747,nm2793535","nm8784283,nm10295325"
+9483,tt7282468,Burning,Beoning,2018,\N,148,58476.0,"nm7669131,nm0496969,nm1633142",nm0496969
+9570,tt7615722,Thé Légénd ớf Hállớwáiián,,2018,\N,82,1371.0,"nm8289010,nm1075770,nm9980769,nm2846368,nm3762687",nm2846368
+159,tt0027342,They Were Five,La belle équipe,1936,\N,100,1202.0,"nm0245213,nm0816458",nm0245213
+451,tt0039973,The Web,The Web,1947,\N,87,,"nm0101115,nm0589616,nm0475823",nm0330456
+1204,tt0063090,Night of the Bloody Apes,,\N,1969,83,1022.0,"nm0136552,nm0136579",nm0136579
+1376,tt0067805,Sunday Bloody Sunday,Sunday Bloody Sunday,1971,\N,110,6086.0,"nm0319149,nm0506140,nm0772259,nm0792773",nm0772259
+1611,tt0074608,Harry and Walter Go to New York,,1976,\N,115,,"nm0222782,nm0126440,nm0442099",nm0041932
+2225,tt0091142,Gothic,,1986,\N,87,7733.0,"nm0901446,nm0126406,nm0791222",nm0001692
+2251,tt0091621,Never Too Young to Die,,1986,\N,97,1738.0,"nm0666999,nm0006631",nm0079387
+2308,tt0092974,Ernest Goes to Camp,Ernest Goes to Camp,1987,\N,92,11340.0,"nm0156047,nm0760244,nm0676133,nm0495299",nm0156047
+3514,tt0150980,The Housemaid,,1960,\N,109,3967.0,nm0453579,nm0453579
+3846,tt0236638,Deep in the Woods,,2000,\N,90,2620.0,"nm0217803,nm0674659",nm0217803
+4479,tt0366943,Reconstruction,Reconstruction,2003,\N,92,7328.0,"nm1061993,nm0750000",nm1061993
+5639,tt10288566,Another Round,,2020,\N,117,120802.0,"nm0899121,nm2105585",nm0899121
+6612,tt1527186,Melancholia,Melancholia,\N,2011,135,175910.0,nm0001885,nm0001885
+9072,tt5775220,Noor,Noor,2017,\N,117,1497.0,"nm6435028,nm4904771,nm1811510,nm1242277,nm3002771",nm1242277
+4167,tt0296658,Táké Cáré ớf My Cát,Go-yang-i-leul boo-tak-hae,2001,\N,112,2323.0,"nm1062423,nm1282158,nm1459238",nm1062423
+7358,tt2175669,Get Lucky,Get Lucky,2013,\N,86,1547.0,"nm1421522,nm3954501,nm1204790,nm1246334",nm1204790
+6841,tt1668209,Que Pena Tu Vida,Que Pena Tu Vida,2010,\N,94,1609.0,"nm3771227,nm1240647",nm1240647
+7357,tt2172071,Student of the Year,Student of the Year,2012,\N,146,17079.0,"nm1028832,nm1145539,nm0424103",nm0424103
+9507,tt7356432,Babam,Babam,2017,\N,130,1673.0,"nm0243659,nm3886357",nm0243659
+9853,tt8988748,Seventeen,Diecisiete,2019,\N,99,,nm0998110,nm0998110
+9936,tt9389916,Digger,Digger,2020,\N,101,1300.0,"nm3306459,nm5426110,nm0609999",nm3306459
+1111,tt0060877,Qúéén ớf Blớớd,,1966,\N,78,1851.0,"nm0364252,nm0439382,nm0462122",nm0364252
+1271,tt0065126,True Grit,True Grit,1969,\N,128,,"nm0692427,nm0731387",nm0368871
+1503,tt0071203,Belladonna of Sadness,Kanashimi no beradonna,1973,\N,86,5397.0,"nm0297993,nm1126808,nm0945412",nm0945412
+1620,tt0074802,Lipstick,,1976,\N,89,2176.0,nm0713128,nm0425593
+1765,tt0079386,Kaala Patthar,,1979,\N,176,2346.0,"nm0015287,nm0451311",nm0007181
+1925,tt0083866,E.T. the Extra-Terrestrial,E.T. the Extra-Terrestrial,1982,\N,115,390937.0,nm0558953,nm0000229
+2213,tt0090830,Childrén ớf á Léssér Gớd,,1986,\N,119,16034.0,"nm0575865,nm0026803,nm0140572",nm0354279
+3834,tt0234354,Novocaine,,2001,\N,95,11009.0,"nm0271552,nm0040575",nm0040575
+4789,tt0420966,Wớúndéd Lớvé,,2004,\N,143,2449.0,nm0491522,nm0491522
+5391,tt0847154,Angels of the Sun,,2006,\N,92,1014.0,nm0481195,nm0481195
+6171,tt12537774,"Sex, Drugs & Bicycles","Sex, Drugs & Bicycles",2020,\N,86,1091.0,nm0087503,nm0087503
+6473,tt1425928,Vampire Girl vs. Frankenstein Girl,,2009,\N,84,3706.0,"nm4109195,nm1381841,nm0879749","nm1381841,nm1883583"
+6856,tt1680140,Thé Stớlén,,2017,\N,98,1267.0,"nm1393363,nm0425894",nm0425894
+7970,tt3138104,The Hungover Games,The Hungover Games,\N,2014,85,14779.0,"nm5381211,nm4664038,nm0005085",nm0831457
+9239,tt6273736,Vanishing Time: A Boy Who Returned,,2016,\N,130,1765.0,nm6174515,nm6174515
+8271,tt3724490,Death Fighter,,2017,\N,88,1075.0,nm0726651,nm0751481
+2408,tt0095145,Feds,Feds,1988,\N,82,3069.0,"nm0089676,nm0325175",nm0325175
+7401,tt2202607,Everybody in Our Family,,2012,\N,107,1520.0,"nm1257492,nm4870614",nm1257492
+385,tt0037635,Dead of Night,,1945,\N,103,,"nm0047786,nm0534191,nm0165021,nm0920229,nm0072478","nm0357607,nm0213136,nm0187769,nm0146709"
+608,tt0046750,Late Chrysanthemums,Bangiku,1954,\N,101,1043.0,"nm0370615,nm0849068,nm0406841",nm0621540
+813,tt0053226,Room at the Top,,1959,\N,117,5958.0,"nm0665513,nm0104050,nm0725006",nm0002338
+3067,tt0114108,The Pebble and the Penguin,The Pebble and the Penguin,1995,\N,74,4936.0,"nm0466216,nm0925906","nm0325776,nm0089940"
+4715,tt0407236,Lunacy,,2005,\N,118,3671.0,"nm0000590,nm0211381,nm0840905",nm0840905
+4971,tt0454848,Insidé Mán,Inside Man,2006,\N,129,357328.0,nm1897957,nm0000490
+8661,tt4685806,The Con is On,The Con Is On,2018,\N,90,9189.0,"nm1955863,nm1950060",nm1950060
+39,tt0016332,Seven Chances,,1925,\N,56,9914.0,"nm0576362,nm0115669,nm0369841,nm0593477",nm0000036
+1042,tt0058886,The Agony and the Ecstasy,,1965,\N,138,7018.0,"nm0831919,nm0242897",nm0715346
+2353,tt0093822,Raising Arizona,Raising Arizona,1987,\N,94,133915.0,"nm0001053,nm0001054","nm0001054,nm0001053"
+5052,tt0472033,9,9,2009,\N,79,137180.0,"nm0972040,nm0009942,nm0994310",nm0009942
+5342,tt0821442,A Dirty Carnival,Biyeolhan geori,2006,\N,140,,nm1168564,nm1168564
+5708,tt10539608,The Midnight Sky,,2020,\N,118,,"nm10791512,nm1872664",nm0000123
+5907,tt1133985,Green Lantern,Green Lantern,2011,\N,114,277475.0,"nm0075528,nm0338169,nm0973233,nm0325533",nm0132709
+729,tt0050803,Thé Ớné Thát Gớt Áwáy,The One That Got Away,\N,1957,111,1971.0,"nm0166545,nm0123443,nm0495295",nm0001928
+794,tt0052846,The Giant Gila Monster,,1959,\N,74,3825.0,"nm0446129,nm0799972",nm0446129
+910,tt0055458,Snớw Whité ánd thé Thréé Stớớgés,Snow White and the Three Stooges,1961,\N,107,1041.0,"nm0486538,nm0880493,nm0926821,nm0850895","nm0485943,nm0850895"
+6205,tt1272013,Brain Drain,,2009,\N,104,2020.0,"nm1210565,nm1210984",nm2692858
+8179,tt3547306,Cut Throat City,,2020,\N,123,2303.0,nm2297044,nm0753526
+9501,tt7336182,Outback,Outback,2019,\N,86,1211.0,"nm6403062,nm2918981",nm2918981
+9873,tt9072746,Simmer,,2020,\N,96,3189.0,"nm6334540,nm8664327","nm8664327,nm6334540"
+1000,tt0057809,36 Hours,36 Hours,1964,\N,115,4069.0,"nm0780833,nm0001094,nm0386973,nm0888542",nm0780833
+1027,tt0058439,Forest of the Hanged,,1965,\N,154,,"nm0691489,nm0714384",nm0162979
+1771,tt0079579,Moscow Does Not Believe in Tears,Moskva slezam ne verit,1980,\N,150,12421.0,"nm0155990,nm0579828",nm0579828
+2016,tt0085913,Masoom,Masoom,1983,\N,165,3938.0,nm0347899,nm0001408
+3419,tt0130216,The Redeemer: Son of Satan!,The Redeemer: Son of Satan!,1978,\N,84,1050.0,nm0894596,nm0323670
+5779,tt1087461,Megan Is Missing,Megan Is Missing,2011,\N,89,11600.0,nm0003922,nm0003922
+6694,tt1578275,The Dilemma,The Dilemma,2011,\N,111,53457.0,nm1615610,nm0000165
+7466,tt2267968,Kúng Fú Pándá 3,Kung Fu Panda 3,\N,2016,95,146644.0,"nm0008743,nm0074184,nm0717550,nm0903456","nm1868917,nm0950775"
+9845,tt8951058,The Panama Papers,The Panama Papers,2018,\N,96,1428.0,nm0935664,nm0935664
+91,tt0022150,Le Million,,1931,\N,91,3434.0,"nm0077278,nm0347058,nm0163229",nm0163229
+422,tt0039090,No Regrets for Our Youth,,1946,\N,110,3366.0,"nm0386750,nm0000041,nm0559700",nm0000041
+973,tt0057058,The Fire Within,Le feu follet,\N,1963,108,9095.0,"nm0478934,nm0001501",nm0001501
+1561,tt0073221,Júst Béfớré Nightfáll,,1971,\N,106,1994.0,"nm0040533,nm0001031",nm0001031
+2199,tt0090327,Witchboard,,1986,\N,98,,nm0855107,nm0855107
+2313,tt0093105,"Good Morning, Vietnam",,1987,\N,121,134516.0,nm0548732,nm0001469
+3712,tt0194722,Bridge of Dragons,Bridge of Dragons,\N,1999,92,2747.0,"nm0390290,nm0490417,nm0509627",nm0282708
+3863,tt0240913,Under the Sand,Sous le sable,2000,\N,92,10083.0,"nm0654830,nm0076814,nm0888418,nm0738925",nm0654830
+5678,tt1041753,Harold,Harold,2008,\N,90,1934.0,"nm0780643,nm0276248",nm0780643
+6708,tt1586001,Veda - Atatürk,,2010,\N,114,7007.0,nm0515101,nm0515101
+7384,tt2190467,Safelight,Safelight,2015,\N,84,1947.0,nm2999308,nm2999308
+7783,tt2719848,Everest,Everest,2015,\N,121,210265.0,"nm0629933,nm0064479",nm0466349
+1676,tt0076452,Néws frớm Hớmé,News from Home,1976,\N,85,1775.0,nm0001901,nm0001901
+1828,tt0081534,Somewhere in Time,Somewhere in Time,1980,\N,103,28332.0,nm0558577,nm0844358
+1916,tt0083629,The Beast Within,,1982,\N,98,3911.0,"nm0276169,nm0506398",nm0602333
+2659,tt0102164,Johnny Stecchino,Johnny Stecchino,1991,\N,102,10500.0,"nm0000905,nm0148437",nm0000905
+3070,tt0114234,Rangeela,,1995,\N,142,9638.0,"nm2832163,nm0155027,nm0890060,nm0903423",nm0890060
+3391,tt0125522,Sue,Sue,\N,1997,91,1394.0,nm0464180,nm0464180
+4454,tt0362269,Kinsey,,2004,\N,118,48619.0,nm0174374,nm0174374
+6104,tt1219289,Limitléss,,2011,\N,105,549738.0,"nm0228908,nm2982186",nm1139726
+7367,tt2179226,Absolute Deception,,2013,\N,92,1877.0,"nm0770848,nm0838289,nm1482634",nm0872062
+7610,tt2396721,The Scribbler,,2014,\N,88,4918.0,nm2645827,nm2986811
+7870,tt2932536,47 Meters Down,47 Meters Down,2017,\N,89,52611.0,"nm1266897,nm2033094",nm1266897
+338,tt0035575,Yankee Doodle Dandy,Yankee Doodle Dandy,1942,\N,126,15074.0,"nm0118758,nm0430578,nm0258493,nm0258525",nm0002031
+4709,tt0405159,Milliớn Dớllár Báby,,2004,\N,132,663088.0,"nm0353673,nm0101801",nm0000142
+4984,tt0456041,Anche libero va bene,,2006,\N,108,,"nm0274769,nm2289556,nm0823425,nm0744107",nm0744107
+5241,tt0769499,Aathi,Aathi,2006,\N,167,2314.0,nm1685252,nm1685252
+5337,tt0817228,The Tattooist,,\N,2007,92,3133.0,"nm1088302,nm2204480",nm1317966
+5749,tt1073105,The Descent: Part 2,,\N,2009,94,46214.0,"nm3068876,nm2128335,nm1220140,nm0551076",nm1154184
+6044,tt1186370,Spread,Spread,2009,\N,97,39524.0,"nm0355699,nm0464382",nm0533284
+6336,tt1339248,Aapthamitra,,2004,\N,100,1043.0,"nm1432116,nm0890864",nm0890864
+7311,tt2109184,Paranormal Activity 4,Paranormal Activity 4,2012,\N,88,64911.0,"nm0484907,nm1739039,nm2305431","nm1160962,nm1413364"
+9505,tt7342838,Leto,Leto,\N,2018,126,6756.0,"nm7624528,nm6665753,nm2477199,nm9830943,nm1970598",nm1970598
+174,tt0028167,Rembrandt,Rembrandt,1936,\N,85,1778.0,"nm0958454,nm0372148,nm0083742",nm0466099
+594,tt0045943,Julius Caesar,,1953,\N,120,11174.0,"nm0000636,nm0000581",nm0000581
+1580,tt0073918,The Yakuza,,1974,\N,112,8526.0,"nm0001707,nm0001801,nm0775055",nm0001628
+1630,tt0075029,The Outlaw Josey Wales,The Outlaw Josey Wales,1976,\N,135,70789.0,"nm0141620,nm0442241,nm0155963",nm0000142
+1696,tt0077235,Big Wednesday,Big Wednesday,1978,\N,120,6494.0,"nm0587518,nm0007312",nm0587518
+3258,tt0119097,Fakin' Da Funk,Fakin' Da Funk,1997,\N,89,2470.0,nm0156828,nm0156828
+3423,tt0131097,The Widower,Il vedovo,1959,\N,87,1229.0,"nm0814242,nm0139535,nm0728271,nm0176420,nm0893764",nm0728271
+3683,tt0187251,Lovers Lane,Lovers Lane,1999,\N,90,1122.0,"nm0588387,nm0891527",nm0911642
+3895,tt0246578,Donnie Darko,Donnie Darko,2001,\N,113,770414.0,nm0446819,nm0446819
+3990,tt0263124,Brainstorm,,2000,\N,74,5341.0,"nm0093252,nm1004118",nm1738698
+4178,tt0300028,Indian,Indian,2001,\N,178,2308.0,nm1300956,nm1077277
+5903,tt1132626,Saw V,,2008,\N,92,121257.0,"nm1733317,nm1729303",nm0352524
+7616,tt2401807,Rage,Tokarev,2014,\N,98,24136.0,"nm0013138,nm1396093",nm2161247
+8117,tt3457508,Damascus Cover,,2017,\N,93,,"nm0075263,nm2932117,nm11723473",nm0075263
+142,tt0025699,Randy Rides Alone,,1934,\N,52,1034.0,nm0663858,nm0292134
+793,tt0052832,The Fugitive Kind,The Fugitive Kind,1960,\N,119,6194.0,"nm0931783,nm0731409",nm0001486
+1013,tt0058126,Hámlét,Gamlet,1964,\N,140,,"nm0468882,nm0664985,nm0000636",nm0468882
+1083,tt0059884,"War and Peace, Part I: Andrei Bolkonsky",Voyna i mir I: Andrey Bolkonskiy,1965,\N,147,1616.0,"nm0866243,nm0094083,nm0813537",nm0094083
+1897,tt0083110,Les sous-doués en vacances,,1982,\N,95,1410.0,"nm0264686,nm0436687,nm0956022",nm0956022
+2404,tt0094929,Curse II: The Bite,,1989,\N,98,1334.0,"nm0954684,nm0698781",nm0698781
+4234,tt0310154,In This World,In This World,2002,\N,88,4232.0,nm0342617,nm0935863
+5023,tt0464154,Piranha 3D,,2010,\N,88,88700.0,"nm1539257,nm0831457",nm0014960
+5916,tt1136688,Abelar: Tales of an Ancient Empire,,2010,\N,86,,nm1996304,nm0089502
+6184,tt1262406,Fading of the Cries,Fading of the Cries,2008,\N,94,1612.0,"nm3732772,nm1305849",nm3732772
+8077,tt3374966,The Mafia Kills Only in Summer,,2013,\N,90,8087.0,"nm2923352,nm5068576,nm0551431",nm5068576
+9152,tt5990444,The Trap,The Trap,2019,\N,90,1519.0,"nm1393214,nm1479775,nm1537777,nm2434433",nm1336172
+9883,tt9109306,Thé Finál Wish,The Final Wish,2018,\N,95,7667.0,"nm0714695,nm0355152,nm10182681",nm1914394
+2651,tt0101917,Freddy's Dead: The Final Nightmare,,\N,1991,89,44742.0,"nm0000127,nm0003080,nm0006894",nm0003080
+1288,tt0065656,Dorian Gray,Das Bildnis des Dorian Gray,\N,1970,101,1068.0,"nm0181753,nm0198014,nm0248133,nm0738949,nm0928492",nm0198014
+1710,tt0077613,Girlfriends,,\N,1978,88,2240.0,"nm0918041,nm0689778",nm0918041
+2473,tt0096870,Going Overboard,,1989,\N,99,13246.0,"nm0106928,nm0001191,nm0488506,nm0726472",nm0106928
+5664,tt1034311,Hata Göteborg,,2007,\N,82,1489.0,nm2655364,nm2655364
+9675,tt8061070,My Step Dad: The Hippie,Cici Babam,2018,\N,99,1641.0,"nm4679138,nm3097515,nm7165367,nm4909521,nm3708517,nm7720901",nm4909815
+1495,tt0070820,Journey of the Hyena,Touki-Bouki,1973,\N,85,3022.0,nm0228013,nm0228013
+2603,tt0100261,Nightmare at Noon,,1988,\N,96,1921.0,"nm0557789,nm0254945",nm0557789
+2715,tt0104027,CrissCross,,\N,1992,100,1903.0,nm0813997,nm0579580
+9811,tt8707374,Hell House LLC II: The Abaddon Hotel,Hell House LLC II: The Abaddon Hotel,2018,\N,83,3873.0,nm3192191,nm3192191
+9287,tt6450662,End Trip,,2018,\N,85,1822.0,"nm3953317,nm2473806",nm2473806
+6663,tt1562567,Bloodwork,,2012,\N,96,2255.0,nm1593182,nm1466818
+7145,tt1928330,Bad Ass,Bad Ass,\N,2012,90,18908.0,"nm0608936,nm4453512",nm0608936
+8818,tt5115024,Back to Mom's,,2016,\N,97,2050.0,"nm2131687,nm0491708",nm0491708
+2828,tt0107311,Khalnayak,Khal Nayak,\N,1993,190,,"nm0007131,nm0445474,nm0659238",nm0007131
+1888,tt0082926,Polyester,,1981,\N,86,7816.0,nm0000691,nm0000691
+5689,tt1047102,Endless Bummer,,2009,\N,87,1255.0,"nm2678289,nm1659022,nm0006835,nm0683578,nm1649714,nm1034313",nm0683578
+5878,tt11274100,Archenemy,Archenemy,2020,\N,90,2829.0,"nm4008890,nm2616615",nm4008890
+7351,tt2168180,Nise: The Heart of Madness,Nise: O Coração da Loucura,2015,\N,106,2340.0,"nm0145540,nm1050146,nm3648936,nm1715576,nm5065894,nm3114305,nm0075644",nm0075644
+7532,tt2332831,The Last Will and Testament of Rosalind Leigh,,2012,\N,82,,nm1473037,nm1473037
+7741,tt2608324,Manhattan Romance,Manhattan Romance,2014,\N,94,1337.0,nm0639858,nm0639858
+9251,tt6301452,Matriarch,Matriarch,2018,\N,91,4882.0,nm3159714,nm3159714
+9989,tt9812614,Hope,,2019,\N,130,1402.0,nm0845618,nm0845618
+4425,tt0357054,The Last Shot,The Last Shot,2004,\N,93,4239.0,"nm1547730,nm0622288",nm0622288
+3396,tt0126618,I pớmpiéri,,\N,1985,89,1182.0,"nm0549592,nm0661345,nm0869125",nm0661345
+7878,tt2948266,Dealin' with Idiots,Dealin' with Idiots,2013,\N,88,1367.0,"nm0307531,nm0615373",nm0307531
+939,tt0056085,How the West Was Won,How the West Was Won,1962,\N,164,20028.0,"nm0916139,nm0310775","nm0368871,nm0000406,nm0550892,nm0861703"
+1958,tt0084629,Private Popsicle,Sapiches,1982,\N,107,,"nm0203246,nm0851780",nm0203246
+2156,tt0089274,The Hills Have Eyes Part II,The Hills Have Eyes Part II,1984,\N,86,6366.0,nm0000127,nm0000127
+3166,tt0116839,Lawnmower Man 2: Beyond Cyberspace,,1996,\N,93,9451.0,"nm0542752,nm0591160",nm0542752
+6085,tt1204977,Ouija,,2014,\N,89,51196.0,"nm1340000,nm0925482",nm0925482
+6340,tt1341167,Four Lions,,2010,\N,97,75824.0,"nm0606439,nm1095060,nm1104036,nm1006581",nm0606439
+9466,tt7221772,Seized,,2020,\N,85,1957.0,nm0523363,nm0282708
+9816,tt8759834,Selah and the Spades,Selah and the Spades,2019,\N,97,1197.0,nm5107883,nm5107883
+5180,tt0493459,This Film Is Not Yet Rated,,2006,\N,98,27984.0,"nm0225269,nm0772907,nm1121472",nm0225269
+6787,tt1640484,Jumping the Broom,Jumping the Broom,2011,\N,112,10665.0,"nm0402804,nm1656428",nm0015328
+7514,tt2317524,12 Rounds 2: Reloaded,,2013,\N,95,5546.0,nm0073026,nm0004152
+366,tt0037024,The Lodger,,1944,\N,84,3429.0,"nm0528530,nm0523269",nm0103975
+3662,tt0181960,After the Rain,,\N,1999,91,4048.0,"nm0000041,nm0945491",nm0463596
+8714,tt4843012,No Filter,,2016,\N,100,1930.0,"nm5733685,nm1240647",nm1240647
+6642,tt1543701,Street Days,,2010,\N,89,1182.0,"nm0296685,nm5573554,nm1936947,nm3738225,nm3707038",nm1936947

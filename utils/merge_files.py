@@ -1,5 +1,7 @@
 import duckdb
 import os
+import pandas as pd
+import json
 
 def prepare_imdb_data(data_folder: str, train_output_csv: str, hidden_output_csv: str, validation_output_csv: str):
     """
@@ -27,10 +29,15 @@ def prepare_imdb_data(data_folder: str, train_output_csv: str, hidden_output_csv
     """)
 
     # Load directing JSON
-    con.execute(f"""
-        CREATE TABLE directing AS
-        SELECT * FROM read_json_auto('{data_folder}/directing.json')
-    """)
+    with open(f'{data_folder}/directing.json', 'r') as f:
+        dir_raw = json.load(f)
+
+    # for the JSON, need to align the two columns before creating the table
+    directing_df = pd.DataFrame({
+        'movie':    list(dir_raw['movie'].values()),
+        'director': list(dir_raw['director'].values()),
+    })
+    con.register('directing', directing_df)
 
     con.execute(f"""
         CREATE TABLE hidden_data AS
@@ -86,8 +93,8 @@ def prepare_imdb_data(data_folder: str, train_output_csv: str, hidden_output_csv
     """)
     # Save to CSV
     con.execute(f"COPY full_data tO '{train_output_csv}' (HEADER TRUE)")
-    con.execute(f"COPY hidden_data tO '{hidden_output_csv}' (HEADER TRUE)")
-    con.execute(f"COPY validation_hidden tO '{validation_output_csv}' (HEADER TRUE)")
+    con.execute(f"COPY test_hidden_merged TO '{hidden_output_csv}' (HEADER TRUE)")
+    con.execute(f"COPY validation_hidden_merged TO '{validation_output_csv}' (HEADER TRUE)")
 
 
     print(f"[INFO] Merged CSV saved to: {train_output_csv}")
