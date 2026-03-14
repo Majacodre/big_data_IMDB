@@ -3,6 +3,7 @@ from utils.merge_files import prepare_imdb_data
 from utils.cleaning import profile_data, clean_data
 from utils.features import build_features
 from utils.model_baseline import run as run_model
+from utils.merge_rt import merge_with_rotten_tomatoes
 
 
 # Fetch the dataset files
@@ -41,11 +42,21 @@ build_features(
 )
 
 
-run_model(
+"""run_model(
     train_csv="data/features_train.csv",
     val_csv="data/features_validation.csv",
     test_csv="data/features_test.csv",
     val_out="submissions/validation_submission.csv",
     test_out="submissions/test_submission.csv",
-)
+)"""
 
+# add external data + analyze new NAs
+merge_with_rotten_tomatoes(
+    train_csv="data/features_train.csv",
+    val_csv="data/features_validation.csv",
+    test_csv="data/features_test.csv",
+    rt_csv="data/rotten_tomatoes_movies.csv",
+    train_out="data/rt_train.csv",
+    val_out="data/rt_validation.csv",
+    test_out="data/rt_test.csv",
+)
