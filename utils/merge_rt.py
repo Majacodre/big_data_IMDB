@@ -27,8 +27,7 @@ def merge_with_rotten_tomatoes(
     rt_csv:     str,
     train_out:  str,
     val_out:    str,
-    test_out:   str,
-) -> None:
+    test_out:   str,):
     """
     Merges original IMDB data with Rotten Tomatoes scores and genre
     Two steps strategy:
@@ -100,7 +99,7 @@ def merge_with_rotten_tomatoes(
         print(f"[INFO] {split_name} — Stage 1 exact match: "
               f"{len(matched_stage1)} matched, {len(unmatched_df)} unmatched")
 
-        # STAGE 2: fuzzy join with PySpark
+        ### STEP 2: fuzzy join with PySpark
         spark = (
             SparkSession.builder
             .master("local[*]")
@@ -178,7 +177,7 @@ def merge_with_rotten_tomatoes(
 
         final = pd.concat([matched_stage1, fuzzy_pd, still_unmatched], ignore_index=True)
         # has_rt_match: 1 if the movie was found in RT, 0 if not
-        # this is itself a signal: obscure/low-quality movies tend to not be in RT
+        # this can itself a signal: obscure/low-quality movies tend to not be in RT
         final["has_rt_match"] = final["tomatoMeter"].notna().astype(int)
 
         final.to_csv(out_path, index=False)
