@@ -41,14 +41,14 @@ build_features(
     test_out="data/features_test.csv",
 )
 
-
-"""run_model(
+# trains and saves submission files
+run_model(
     train_csv="data/features_train.csv",
     val_csv="data/features_validation.csv",
     test_csv="data/features_test.csv",
     val_out="submissions/validation_submission.csv",
     test_out="submissions/test_submission.csv",
-)"""
+)
 
 # add external data + analyze new NAs
 merge_with_rotten_tomatoes(
