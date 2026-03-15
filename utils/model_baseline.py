@@ -129,7 +129,7 @@ def run(
     )
 
     print("=" * 60)
-    print("TRAINING — 5-fold CV over param grid")
+    print("TRAINING — 3-fold CV over param grid")
     print("=" * 60)
 
     cv_model = cv.fit(train)
