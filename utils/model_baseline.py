@@ -1,3 +1,5 @@
+import pandas as pd
+
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
 from pyspark.ml import Pipeline
@@ -97,8 +99,8 @@ def run(
     gbt = GBTClassifier(
         labelCol="label",
         featuresCol="features",
-        maxIter=300,
-        maxDepth=4,
+        maxIter=100,    # <- reduce due to compute constraint
+        maxDepth=3,     # <- reduce due to compute constraint
         stepSize=0.05,
         subsamplingRate=0.8,
         seed=42,
@@ -108,8 +110,8 @@ def run(
 
     param_grid = (
         ParamGridBuilder()
-        .addGrid(gbt.maxDepth, [3, 4, 5])
-        .addGrid(gbt.maxIter, [200, 300])
+        .addGrid(gbt.maxDepth, [3, 4])      # <- reduce due to compute constraint
+        .addGrid(gbt.maxIter, [100])        # <- reduce due to compute constraint
         .build()
     )
 
@@ -122,7 +124,7 @@ def run(
         estimator=pipeline,
         estimatorParamMaps=param_grid,
         evaluator=evaluator,
-        numFolds=5,
+        numFolds=3,     # <- reduce due to compute constraint
         seed=42,
     )
 
@@ -137,22 +139,27 @@ def run(
     print(f"[INFO] All CV AUC-ROC scores: {[round(m, 4) for m in cv_model.avgMetrics]}")
 
     train_preds = best_model.transform(train)
+    val_preds = best_model.transform(val)
+
     acc_eval = MulticlassClassificationEvaluator(
         labelCol="label",
         predictionCol="prediction",
         metricName="accuracy",
     )
     print(f"[INFO] Train accuracy: {acc_eval.evaluate(train_preds):.4f}")
+    print(f"[INFO] Validation accuracy: {acc_eval.evaluate(val_preds):.4f}")
 
     gbt_stage = best_model.stages[-1]
+    feature_importance_data = []
+
     print("\n[INFO] Feature importances:")
     for col, score in sorted(zip(imputed_cols, gbt_stage.featureImportances), key=lambda x: -x[1]):
-        print(f"  {col.replace('_imp', ''):<30} {score:.4f}")
+        clean_name = col.replace('_imp', '')
+        print(f"  {clean_name:<30} {score:.4f}")
+        feature_importance_data.append({"feature": clean_name, "importance": score})
 
-    print()
-    print("=" * 60)
-    print("PREDICTIONS")
-    print("=" * 60)
+    pd.DataFrame(feature_importance_data).to_csv("data/feature_importance_results.csv", index=False)
+    print("[INFO] Feature importances saved to data/feature_importance_results.csv")
 
     def save_predictions(df, output_path, split_name):
         preds = best_model.transform(df)
