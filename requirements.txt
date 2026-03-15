@@ -1,0 +1,5 @@
+duckdb==1.5.0
+pandas==3.0.1
+pyarrow==23.0.1
+pyspark==4.1.1
+requests==2.32.5

@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "/opt/anaconda3/envs/bigdata-imdb-py313/bin/python",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "terminal.integrated.env.osx": {
+        "PYSPARK_PYTHON": "/opt/anaconda3/envs/bigdata-imdb-py313/bin/python",
+        "PYSPARK_DRIVER_PYTHON": "/opt/anaconda3/envs/bigdata-imdb-py313/bin/python"
+    }
+}

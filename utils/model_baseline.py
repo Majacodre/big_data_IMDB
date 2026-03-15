@@ -7,7 +7,7 @@ from pyspark.ml.evaluation import BinaryClassificationEvaluator, MulticlassClass
 from pyspark.ml.tuning import CrossValidator, ParamGridBuilder
 
 
-FEATURE_COLS = [
+BASE_FEATURE_COLS = [
     "log_numvotes",
     "director_success_rate",
     "director_movie_count",
@@ -18,13 +18,19 @@ FEATURE_COLS = [
     "title_is_same",
 ]
 
+RT_NUMERIC_FEATURE_COLS = [
+    "tomatoMeter",
+    "audienceScore",
+    "has_rt_match",
+]
+
 
 def run(
-    train_csv: str = "data/features_train.csv",
-    val_csv: str = "data/features_validation.csv",
-    test_csv: str = "data/features_test.csv",
-    val_out: str = "submission/validation_predictions.txt",
-    test_out: str = "submission/test_predictions.txt",
+    train_csv: str = "data/rt_train.csv",
+    val_csv: str = "data/rt_validation.csv",
+    test_csv: str = "data/rt_test.csv",
+    val_out: str = "submissions/validation_submission.csv",
+    test_out: str = "submissions/test_submission.csv",
 ) -> None:
 
     spark = (
@@ -40,15 +46,48 @@ def run(
     val = spark.read.csv(val_csv, header=True, inferSchema=True)
     test = spark.read.csv(test_csv, header=True, inferSchema=True)
 
-    train = train.withColumn("label", F.col("label").cast("int"))
+    label_str = F.lower(F.trim(F.col("label").cast("string")))
+    train = train.withColumn(
+        "label",
+        F.when(label_str.isin("1", "true"), F.lit(1))
+         .when(label_str.isin("0", "false"), F.lit(0))
+         .otherwise(F.lit(None).cast("int"))
+         .cast("int")
+    )
+
+    total_train_rows = train.count()
+    null_label_rows = train.filter(F.col("label").isNull()).count()
+    if null_label_rows > 0:
+        print(f"[WARN] Dropping {null_label_rows} train rows with null/invalid labels")
+    train = train.filter(F.col("label").isNotNull())
+    kept_train_rows = train.count()
+    print(f"[INFO] Train rows kept for fitting: {kept_train_rows}/{total_train_rows}")
+
+    train_cols = set(train.columns)
+    val_cols = set(val.columns)
+    test_cols = set(test.columns)
+    common_cols = train_cols & val_cols & test_cols
+
+    genre_cols = sorted(c for c in common_cols if c.startswith("genre_"))
+    feature_cols = [
+        c for c in (BASE_FEATURE_COLS + RT_NUMERIC_FEATURE_COLS + genre_cols)
+        if c in common_cols
+    ]
+
+    if not feature_cols:
+        raise ValueError("No common feature columns found across train/val/test.")
+
+    print(f"[INFO] Using {len(feature_cols)} features")
+    print(f"[INFO] RT numeric features present: {[c for c in RT_NUMERIC_FEATURE_COLS if c in feature_cols]}")
+    print(f"[INFO] Genre one-hot features present: {len(genre_cols)}")
 
     imputer = Imputer(
-        inputCols=FEATURE_COLS,
-        outputCols=[f"{c}_imp" for c in FEATURE_COLS],
+        inputCols=feature_cols,
+        outputCols=[f"{c}_imp" for c in feature_cols],
         strategy="median",
     )
 
-    imputed_cols = [f"{c}_imp" for c in FEATURE_COLS]
+    imputed_cols = [f"{c}_imp" for c in feature_cols]
 
     assembler = VectorAssembler(
         inputCols=imputed_cols,
