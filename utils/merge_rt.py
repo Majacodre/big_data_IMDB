@@ -4,7 +4,6 @@ import unicodedata
 import re
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
-from pyspark.sql.types import StringType, IntegerType
 
 
 # title normalization, same output as in cleaning.py
@@ -45,10 +44,14 @@ def merge_with_rotten_tomatoes(
     # prepare RT data
     rt = pd.read_csv(rt_csv)
 
-    # extract year taking the earliest non-null year from both date columns
+    # extract year with theaters-first logic, then fallback to streaming
     rt["releaseDateTheaters"] = pd.to_datetime(rt["releaseDateTheaters"], errors="coerce")
     rt["releaseDateStreaming"] = pd.to_datetime(rt["releaseDateStreaming"], errors="coerce")
-    rt["rt_year"] = rt[["releaseDateTheaters", "releaseDateStreaming"]].min(axis=1).dt.year
+    rt["rt_year"] = (
+        rt["releaseDateTheaters"]
+        .fillna(rt["releaseDateStreaming"])
+        .dt.year
+    )
 
     # normalize title
     rt["normalized_title"] = rt["title"].apply(normalize_title)
@@ -91,13 +94,19 @@ def merge_with_rotten_tomatoes(
              AND i.year = r.rt_year
         """).df()
 
-        # track which rows are still unmatched (both RT scores null)
-        unmatched_mask = matched["tomatoMeter"].isna() & matched["audienceScore"].isna()
-        matched_stage1 = matched[~unmatched_mask].copy()
-        unmatched_df   = df[unmatched_mask.values].copy()
+        # retry fuzzy for rows with incomplete RT enrichment
+        # (either score missing OR genre missing)
+        needs_fuzzy_mask = (
+            matched["tomatoMeter"].isna()
+            | matched["audienceScore"].isna()
+            | matched["genre"].isna()
+        )
+        matched_stage1 = matched[~needs_fuzzy_mask].copy()
+        stage1_incomplete = matched[needs_fuzzy_mask].copy()
+        unmatched_df = df[needs_fuzzy_mask.values].copy()
 
-        print(f"[INFO] {split_name} — Stage 1 exact match: "
-              f"{len(matched_stage1)} matched, {len(unmatched_df)} unmatched")
+        print(f"[INFO] {split_name} — Stage 1 complete match: "
+              f"{len(matched_stage1)} complete, {len(unmatched_df)} to retry with fuzzy")
 
         ### STEP 2: fuzzy join with PySpark
         spark = (
@@ -110,47 +119,56 @@ def merge_with_rotten_tomatoes(
         )
         spark.sparkContext.setLogLevel("ERROR")
 
-        rt_spark   = spark.createDataFrame(rt)
-        unmatched_spark = spark.createDataFrame(unmatched_df)
+        if unmatched_df.empty:
+            fuzzy_pd = pd.DataFrame(columns=list(df.columns) + ["tomatoMeter", "audienceScore", "genre"])
+        else:
+            rt_spark = spark.createDataFrame(rt)
+            unmatched_spark = spark.createDataFrame(unmatched_df)
 
-        # broadcast RT table as it fits in memory on every worker (avoids full shuffle)
-        from pyspark.sql.functions import broadcast
+            # broadcast RT table as it fits in memory on every worker (avoids full shuffle)
+            from pyspark.sql.functions import broadcast
 
-        fuzzy = (
-            unmatched_spark.alias("i")\
-            .join(broadcast(rt_spark.alias("r")), how="inner",
-                  on=(
-                      # year within ±1
-                      (F.abs(F.col("i.year") - F.col("r.rt_year")) <= 1)
-                      &
-                      # Levenshtein distance <= 1 on normalized titles
-                      (F.levenshtein(F.col("i.normalized_title"), F.col("r.normalized_title")) <= 1))))
+            fuzzy = (
+                unmatched_spark.alias("i")\
+                .join(broadcast(rt_spark.alias("r")), how="inner",
+                      on=(
+                          # year within ±1
+                          (F.abs(F.col("i.year") - F.col("r.rt_year")) <= 1)
+                          &
+                          # Levenshtein distance <= 1 on normalized titles
+                          (F.levenshtein(F.col("i.normalized_title"), F.col("r.normalized_title")) <= 1))))
 
-        # if different RT rows match, keep the closest title (lowest distance)
-        fuzzy = fuzzy.withColumn(
-            "lev_dist",
-            F.levenshtein(F.col("i.normalized_title"), F.col("r.normalized_title"))
-        )
+            # if different RT rows match, keep the closest title (lowest distance)
+            fuzzy = fuzzy.withColumn(
+                "lev_dist",
+                F.levenshtein(F.col("i.normalized_title"), F.col("r.normalized_title"))
+            )
 
-        # keep best match per tconst
-        from pyspark.sql.window import Window
-        w = Window.partitionBy("i.tconst").orderBy("lev_dist")
-        fuzzy = (
-            fuzzy
-            .withColumn("rank", F.row_number().over(w))
-            .filter(F.col("rank") == 1)
-            .drop("rank", "lev_dist", "r.normalized_title", "r.rt_year")
-        )
+            # prefer higher score coverage, then closest title
+            fuzzy = fuzzy.withColumn(
+                "score_count",
+                F.col("r.tomatoMeter").isNotNull().cast("int") + F.col("r.audienceScore").isNotNull().cast("int")
+            )
 
-        # rename RT columns back
-        fuzzy = (
-            fuzzy
-            .withColumnRenamed("r.tomatoMeter",  "tomatoMeter")
-            .withColumnRenamed("r.audienceScore", "audienceScore")
-            .withColumnRenamed("r.genre",         "genre")
-        )
+            # keep best match per tconst
+            from pyspark.sql.window import Window
+            w = Window.partitionBy("i.tconst").orderBy(F.desc("score_count"), F.asc("lev_dist"))
+            fuzzy = (
+                fuzzy
+                .withColumn("rank", F.row_number().over(w))
+                .filter(F.col("rank") == 1)
+                .drop("rank", "lev_dist", "score_count", "r.normalized_title", "r.rt_year")
+            )
 
-        fuzzy_pd = fuzzy.toPandas()
+            # rename RT columns back
+            fuzzy = (
+                fuzzy
+                .withColumnRenamed("r.tomatoMeter", "tomatoMeter")
+                .withColumnRenamed("r.audienceScore", "audienceScore")
+                .withColumnRenamed("r.genre", "genre")
+            )
+
+            fuzzy_pd = fuzzy.toPandas()
         spark.stop()
 
         # drop duplicate columns produced by the Spark join
@@ -162,23 +180,21 @@ def merge_with_rotten_tomatoes(
                 [c for c in rt_cols if c in fuzzy_pd.columns]
         fuzzy_pd = fuzzy_pd[keep]
 
-        print(f"[INFO] {split_name} — Stage 2 fuzzy match:  "
+        print(f"[INFO] {split_name} — Stage 2 fuzzy match: "
               f"{len(fuzzy_pd)} additional matches")
 
         # COMBINE BOTH STAGES
         # rows that fuzzy matched
         fuzzy_tconsts = set(fuzzy_pd["tconst"].tolist()) if len(fuzzy_pd) > 0 else set()
 
-        # rows still unmatched after both stages — add null RT columns
-        still_unmatched = unmatched_df[~unmatched_df["tconst"].isin(fuzzy_tconsts)].copy()
-        still_unmatched["tomatoMeter"] = None
-        still_unmatched["audienceScore"] = None
-        still_unmatched["genre"] = None
+        # rows still incomplete after both stages — preserve stage 1 values as fallback
+        still_unmatched = stage1_incomplete[~stage1_incomplete["tconst"].isin(fuzzy_tconsts)].copy()
 
         final = pd.concat([matched_stage1, fuzzy_pd, still_unmatched], ignore_index=True)
-        # has_rt_match: 1 if the movie was found in RT, 0 if not
-        # this can itself a signal: obscure/low-quality movies tend to not be in RT
-        final["has_rt_match"] = final["tomatoMeter"].notna().astype(int)
+        # has_rt_match: 1 if any RT score is available
+        final["has_rt_match"] = (
+            final["tomatoMeter"].notna() | final["audienceScore"].notna()
+        ).astype(int)
 
         final.to_csv(out_path, index=False)
 
@@ -214,6 +230,15 @@ def merge_with_rotten_tomatoes(
         df["genre"] = df["genre"].fillna("Unknown")
 
     print("[INFO] RT nulls imputed")
+    for split_name, df in [("train", train_final), ("val", val_final), ("test", test_final)]:
+        n = len(df)
+        print(
+            f"[INFO] {split_name} — post-imputation nulls | "
+            f"tomatoMeter={df['tomatoMeter'].isna().sum()} "
+            f"audienceScore={df['audienceScore'].isna().sum()} "
+            f"genre={df['genre'].isna().sum()} "
+            f"(rows={n})"
+        )
 
     # extract all unique genres from train only — no leakage
     all_genres = set()
