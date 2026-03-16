@@ -72,8 +72,8 @@ def merge_with_rotten_tomatoes(
     # register RT table
     con.register("rt_tbl", rt)
 
-    for split_name, csv_path, out_path in [("train", train_csv, train_out), ("val",   val_csv,   val_out), ("test",  test_csv,  test_out),]:
-        # Load split and normalize its title
+    for split_name, csv_path, out_path in [("train", train_csv, train_out), ("val", val_csv, val_out), ("test", test_csv, test_out),]:
+        # load split and normalize its title
         df = pd.read_csv(csv_path)
         df["normalized_title"] = df["normalized_title"].apply(normalize_title) \
             if "normalized_title" in df.columns \
@@ -91,15 +91,33 @@ def merge_with_rotten_tomatoes(
              AND i.year = r.rt_year
         """).df()
 
-        # track which rows are still unmatched (both RT scores null)
-        unmatched_mask = matched["tomatoMeter"].isna() & matched["audienceScore"].isna()
-        matched_stage1 = matched[~unmatched_mask].copy()
-        unmatched_df   = df[unmatched_mask.values].copy()
+        # deduplicate immediately on tconst — LEFT JOIN can return multiple RT rows
+        # per movie if RT has entries with the same (title, year).
+        # Keep the row with the most RT data filled.
+        matched["_sc"] = matched[["tomatoMeter", "audienceScore"]].notna().sum(axis=1)
+        matched = (
+            matched
+            .sort_values("_sc", ascending=False)
+            .drop_duplicates(subset=["tconst"], keep="first")
+            .drop(columns=["_sc"])
+            .reset_index(drop=True)
+        )
+
+        # find unmatched tconsts by name — no index alignment issues
+        unmatched_tconsts = set(
+            matched.loc[
+                matched["tomatoMeter"].isna() & matched["audienceScore"].isna(),
+                "tconst"
+            ].tolist()
+        )
+        unmatched_df = df[df["tconst"].isin(unmatched_tconsts)].copy()
+
+        matched_stage1 = matched[~matched["tconst"].isin(unmatched_tconsts)].copy()
 
         print(f"[INFO] {split_name} — Stage 1 exact match: "
               f"{len(matched_stage1)} matched, {len(unmatched_df)} unmatched")
 
-        ### STEP 2: fuzzy join with PySpark
+        ### STEP 2: fuzzy join with PySpark
         spark = (
             SparkSession.builder
             .master("local[*]")
@@ -110,21 +128,22 @@ def merge_with_rotten_tomatoes(
         )
         spark.sparkContext.setLogLevel("ERROR")
 
-        rt_spark   = spark.createDataFrame(rt)
+        rt_spark        = spark.createDataFrame(rt)
         unmatched_spark = spark.createDataFrame(unmatched_df)
 
         # broadcast RT table as it fits in memory on every worker (avoids full shuffle)
         from pyspark.sql.functions import broadcast
 
         fuzzy = (
-            unmatched_spark.alias("i")\
+            unmatched_spark.alias("i")
             .join(broadcast(rt_spark.alias("r")), how="inner",
                   on=(
                       # year within ±1
                       (F.abs(F.col("i.year") - F.col("r.rt_year")) <= 1)
                       &
                       # Levenshtein distance <= 1 on normalized titles
-                      (F.levenshtein(F.col("i.normalized_title"), F.col("r.normalized_title")) <= 1))))
+                      (F.levenshtein(F.col("i.normalized_title"), F.col("r.normalized_title")) <= 1)
+                  )))
 
         # if different RT rows match, keep the closest title (lowest distance)
         fuzzy = fuzzy.withColumn(
@@ -157,34 +176,39 @@ def merge_with_rotten_tomatoes(
         fuzzy_pd = fuzzy_pd.loc[:, ~fuzzy_pd.columns.duplicated()]
 
         # keep only columns from the original split + the 3 RT columns
-        rt_cols  = ["tomatoMeter", "audienceScore", "genre"]
-        keep     = [c for c in df.columns if c in fuzzy_pd.columns] + \
-                [c for c in rt_cols if c in fuzzy_pd.columns]
+        rt_cols = ["tomatoMeter", "audienceScore", "genre"]
+        keep    = [c for c in df.columns if c in fuzzy_pd.columns] + \
+                  [c for c in rt_cols if c in fuzzy_pd.columns]
         fuzzy_pd = fuzzy_pd[keep]
+
+        # deduplicate fuzzy results on tconst
+        if len(fuzzy_pd) > 0:
+            fuzzy_pd = fuzzy_pd.drop_duplicates(subset=["tconst"], keep="first")
 
         print(f"[INFO] {split_name} — Stage 2 fuzzy match:  "
               f"{len(fuzzy_pd)} additional matches")
 
         # COMBINE BOTH STAGES
-        # rows that fuzzy matched
-        fuzzy_tconsts = set(fuzzy_pd["tconst"].tolist()) if len(fuzzy_pd) > 0 else set()
-
         # rows still unmatched after both stages — add null RT columns
+        fuzzy_tconsts   = set(fuzzy_pd["tconst"].tolist()) if len(fuzzy_pd) > 0 else set()
         still_unmatched = unmatched_df[~unmatched_df["tconst"].isin(fuzzy_tconsts)].copy()
-        still_unmatched["tomatoMeter"] = None
+        still_unmatched["tomatoMeter"]   = None
         still_unmatched["audienceScore"] = None
-        still_unmatched["genre"] = None
+        still_unmatched["genre"]         = None
 
         final = pd.concat([matched_stage1, fuzzy_pd, still_unmatched], ignore_index=True)
+
         # has_rt_match: 1 if the movie was found in RT, 0 if not
-        # this can itself a signal: obscure/low-quality movies tend to not be in RT
+        # this is itself a signal: obscure/low-quality movies tend to not be in RT
         final["has_rt_match"] = final["tomatoMeter"].notna().astype(int)
 
+        final = final.sort_values("tconst").reset_index(drop=True)
         final.to_csv(out_path, index=False)
 
         # nulls analysis
         n = len(final)
         print(f"[INFO] {split_name} — Final rows: {n}")
+        print(f"[INFO] {split_name} — Duplicate tconst: {final['tconst'].duplicated().sum()}")
         print(f"[INFO] {split_name} — tomatoMeter  nulls: {final['tomatoMeter'].isna().sum()} "
               f"({final['tomatoMeter'].isna().sum()/n*100:.1f}%)")
         print(f"[INFO] {split_name} — audienceScore nulls: {final['audienceScore'].isna().sum()} "
@@ -194,24 +218,23 @@ def merge_with_rotten_tomatoes(
         print(f"[INFO] {split_name} — merged CSV saved to: {out_path}")
         print()
 
-
-    # FINAL CLEANING 
+    # FINAL CLEANING
     # load splits back
     train_final = pd.read_csv(train_out)
-    val_final = pd.read_csv(val_out)
-    test_final = pd.read_csv(test_out)
+    val_final   = pd.read_csv(val_out)
+    test_final  = pd.read_csv(test_out)
 
     # compute medians from train only
-    tomato_median = train_final["tomatoMeter"].median()
+    tomato_median   = train_final["tomatoMeter"].median()
     audience_median = train_final["audienceScore"].median()
     print(f"[INFO] tomatoMeter median (train):   {tomato_median}")
     print(f"[INFO] audienceScore median (train): {audience_median}")
 
     # impute all three splits with train medians
     for df in [train_final, val_final, test_final]:
-        df["tomatoMeter"] = df["tomatoMeter"].fillna(tomato_median)
+        df["tomatoMeter"]   = df["tomatoMeter"].fillna(tomato_median)
         df["audienceScore"] = df["audienceScore"].fillna(audience_median)
-        df["genre"] = df["genre"].fillna("Unknown")
+        df["genre"]         = df["genre"].fillna("Unknown")
 
     print("[INFO] RT nulls imputed")
 
@@ -234,13 +257,17 @@ def merge_with_rotten_tomatoes(
         return df.drop(columns=["genre"])
 
     train_final = encode_genres(train_final, all_genres)
-    val_final = encode_genres(val_final,   all_genres)
-    test_final = encode_genres(test_final,  all_genres)
+    val_final   = encode_genres(val_final,   all_genres)
+    test_final  = encode_genres(test_final,  all_genres)
 
     # save
+    train_final = train_final.sort_values("tconst").reset_index(drop=True)
+    val_final   = val_final.sort_values("tconst").reset_index(drop=True)
+    test_final  = test_final.sort_values("tconst").reset_index(drop=True)
+
     train_final.to_csv(train_out, index=False)
-    val_final.to_csv(val_out, index=False)
-    test_final.to_csv(test_out, index=False)
+    val_final.to_csv(val_out,     index=False)
+    test_final.to_csv(test_out,   index=False)
 
     print(f"[INFO] Genre encoded into {len(all_genres)} binary columns and files updated")
 

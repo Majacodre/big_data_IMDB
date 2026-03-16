@@ -4,6 +4,7 @@ from utils.cleaning import profile_data, clean_data
 from utils.features import build_features
 from utils.model_baseline import run as run_model
 from utils.merge_rt import merge_with_rotten_tomatoes
+from utils.model_rt import run as run_model_rt
 
 
 # Fetch the dataset files
@@ -41,14 +42,14 @@ build_features(
     test_out="data/features_test.csv",
 )
 
-# trains and saves submission files
-run_model(
+# trains and saves submission files for baseline
+"""run_model(
     train_csv="data/features_train.csv",
     val_csv="data/features_validation.csv",
     test_csv="data/features_test.csv",
     val_out="submissions/validation_submission.csv",
     test_out="submissions/test_submission.csv",
-)
+)"""
 
 # add external data + analyze new NAs
 merge_with_rotten_tomatoes(
@@ -59,4 +60,13 @@ merge_with_rotten_tomatoes(
     train_out="data/rt_train.csv",
     val_out="data/rt_validation.csv",
     test_out="data/rt_test.csv",
+)
+
+# trains and saves submission files for model with external data
+run_model_rt(
+    train_csv="data/rt_train.csv",
+    val_csv="data/rt_validation.csv",
+    test_csv="data/rt_test.csv",
+    val_out="submissions/validation_submission_rt.csv",
+    test_out="submissions/test_submission_rt.csv",
 )
