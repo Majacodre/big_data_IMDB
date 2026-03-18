@@ -10,10 +10,10 @@ from pyspark.ml.tuning import CrossValidator, ParamGridBuilder
 
 
 BASE_FEATURE_COLS = [
-    "log_numvotes",
-    "director_success_rate",
+    # "log_numvotes",
+    # "director_success_rate",
     "director_movie_count",
-    "writer_success_rate",
+    # "writer_success_rate",
     "writer_movie_count",
     "runtimeMinutes",
     "year",
@@ -66,7 +66,7 @@ def run(
     print(f"[INFO] Train rows kept for fitting: {kept_train_rows}/{total_train_rows}")
 
     # split for local val data, with labels
-    train_data, local_val_data = full_labeled_data.randomSplit([0.8, 0.2], seed=42)
+    train_data, local_val_data = train.randomSplit([0.8, 0.2], seed=42)
     print(f"[INFO] Training on {train_data.count()} rows, Local Val on {local_val_data.count()} rows")
 
     train_cols = set(train_data.columns)
@@ -153,11 +153,22 @@ def run(
     print(f"[INFO] Train accuracy: {acc_eval.evaluate(train_preds):.4f}")
     print(f"[INFO] Validation accuracy: {acc_eval.evaluate(val_preds):.4f}")
 
-    gbt_stage = best_model.stages[-1]
+    imputer_model = best_model.stages[0]
+    assembler_model = best_model.stages[1]
+    gbt_model = best_model.stages[2]
+
+    val_imputed = imputer_model.transform(local_val_data)
+    val_features = assembler_model.transform(val_imputed)
+    val_errors = gbt_model.evaluateEachIteration(val_features)
+
+    print(f"[INFO] Validation Loss at Epoch 1:   {val_errors[0]:.4f}")
+    print(f"[INFO] Validation Loss at Epoch 50:  {val_errors[len(val_errors)//2]:.4f}")
+    print(f"[INFO] Validation Loss at Epoch {len(val_errors)}: {val_errors[-1]:.4f}")
+
     feature_importance_data = []
 
     print("\n[INFO] Feature importances:")
-    for col, score in sorted(zip(imputed_cols, gbt_stage.featureImportances), key=lambda x: -x[1]):
+    for col, score in sorted(zip(imputed_cols, gbt_model.featureImportances), key=lambda x: -x[1]):
         clean_name = col.replace('_imp', '')
         print(f"  {clean_name:<30} {score:.4f}")
         feature_importance_data.append({"feature": clean_name, "importance": score})
@@ -167,6 +178,9 @@ def run(
 
     def save_predictions(df, output_path, split_name):
         preds = best_model.transform(df)
+
+        if "tconst" in preds.columns:
+            preds = preds.orderBy("tconst")
 
         output = (
             preds
