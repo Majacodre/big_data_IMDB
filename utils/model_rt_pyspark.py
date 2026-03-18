@@ -133,14 +133,14 @@ def run(
     )
 
     print("=" * 60)
-    print("TRAINING — 3-fold CV over param grid")
+    print("TRAINING RT Model — 3-fold CV over param grid")
     print("=" * 60)
 
     cv_model = cv.fit(train_data)
     best_model = cv_model.bestModel
 
-    print(f"[INFO] Best CV AUC-ROC: {max(cv_model.avgMetrics):.4f}")
-    print(f"[INFO] All CV AUC-ROC scores: {[round(m, 4) for m in cv_model.avgMetrics]}")
+    print(f"[INFO] RT: Best CV AUC-ROC: {max(cv_model.avgMetrics):.4f}")
+    print(f"[INFO] RT: All CV AUC-ROC scores: {[round(m, 4) for m in cv_model.avgMetrics]}")
 
     train_preds = best_model.transform(train_data)
     val_preds = best_model.transform(local_val_data)
@@ -150,8 +150,8 @@ def run(
         predictionCol="prediction",
         metricName="accuracy",
     )
-    print(f"[INFO] Train accuracy: {acc_eval.evaluate(train_preds):.4f}")
-    print(f"[INFO] Validation accuracy: {acc_eval.evaluate(val_preds):.4f}")
+    print(f"[INFO] RT Train accuracy: {acc_eval.evaluate(train_preds):.4f}")
+    print(f"[INFO] RT Validation accuracy: {acc_eval.evaluate(val_preds):.4f}")
 
     imputer_model = best_model.stages[0]
     assembler_model = best_model.stages[1]
@@ -174,7 +174,7 @@ def run(
         feature_importance_data.append({"feature": clean_name, "importance": score})
 
     pd.DataFrame(feature_importance_data).to_csv("data/rt_feature_importance_results.csv", index=False)
-    print("[INFO] Feature importances saved to data/rt_feature_importance_results.csv")
+    print("[INFO] RT Feature importances saved to data/rt_feature_importance_results.csv")
 
     def save_predictions(df, output_path, split_name):
         preds = best_model.transform(df)
